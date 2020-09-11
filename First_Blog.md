@@ -3,8 +3,7 @@
 
 The electoral vote has been a staple in American politics since its conception. But recent conrtrovery surrounding it’s deviation from the popular vote share and bias towards a single party calls into question such’s validity. Thus, this blog will seek to explore these questions, analyzing trends between the electoral vote share and popular vote share, as well as key races in which much of the contention brought about by the electoral vote have been raised. 
 
-**Elections are generally competitive between the two parties.** One thing in particular stands out: in the last 60 or so years, the race for the presidency has overall been *remarkably competitive between the two major parties*. Since FDR, neither Republicans nor Democrats have maintained a monopoly over the White House, if we look at two-party voteshare:
-
+**Trends in Electoral and Popular Vote Shares** 
 
 Popular             |  Electoral
 :-------------------------:|:-------------------------:
