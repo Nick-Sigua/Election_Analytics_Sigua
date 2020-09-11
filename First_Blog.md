@@ -5,9 +5,7 @@ Predictions of the future are based on the patterns of the past. If X tended to 
 
 **Elections are generally competitive between the two parties.** One thing in particular stands out: in the last 60 or so years, the race for the presidency has overall been *remarkably competitive between the two major parties*. Since FDR, neither Republicans nor Democrats have maintained a monopoly over the White House, if we look at two-party voteshare:
 
-![Presidential Popular Voteshare (1948-2016)](../figures/PV_national_historical.png)
-
-![Test Image](Test Image.png)
+![Test Image](TestImage.png)
 
 
 The first half of the twentieth century experienced greater swings and greater margins of victory, while point spreads in the last 20 years have been less than 10 points. The 3 <u>closest</u> elections in the last 60 years and their "prevailing narratives" are:
