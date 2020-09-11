@@ -1,6 +1,7 @@
 ## Welcome to Alexander's Blog
 
-This is my blog for Election Analytics, which will be updated with a new post every week
+This is my blog for Election Analytics, which will be updated with a new post every week.
 
-[intro](First_Blog.md)
+Click here to see my first blog!
+[The Electoral Vote](First_Blog.md)
 
