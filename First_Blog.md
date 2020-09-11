@@ -11,6 +11,10 @@ Popular             |  Electoral
 
 In order to understand the recent controversy surrounding the electoral vote, it's important to first develop a firm understanding of the trends between the electoral and popular vote shares attained by the two major parties. These trends are plotted above from the years 1948-2016. Some of the major takeaways include: 
 
-* **2000, margin of `0.5%` or 500k votes or `5 EV` (Bush vs. Gore).** Gore managed to distance himself from Clinton's scandals (which put him neck-and-neck with Bush); though, really, this was anyone's election.
+* **Similar shape.** Although recent elections might influence most calls to action on the electoral vote, the 	electoral vote share attained by each candidate has followed a very similar shape to the popular vote. Both had blowout years, and have tightened in the past two decades. Aside from 2  discrpensies, which we will discuss in detail, one can claim the electoral vote share has closely followed the overall trends and figures of the popular vote share for the past couple of decades. 
+
+
+
+
 
 
