@@ -5,9 +5,9 @@ The electoral vote has been a staple in American politics since its conception. 
 
 **Trends in Electoral and Popular Vote Shares** 
 
-Popular             |  Electoral
+Popular                  |  Electoral
 :-------------------------:|:-------------------------:
-![](Popular.Vote.Share.png)| ![](Electoral.Vote.Share.png)
+![](Popular.Vote.Share.png)|![](Electoral.Vote.Share.png)
 
 In order to understand the recent controversy surrounding the electoral vote, it's important to first develop a firm understanding of the trends between the electoral and popular vote shares attained by the two major parties. These trends are plotted above from the years 1948-2016. Some of the major takeaways include: 
 
