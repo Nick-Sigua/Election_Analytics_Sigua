@@ -1,5 +1,5 @@
-# Introduction: Past Presidential Election Results
-## Aug 30, 2020
+# The Electoral Vote
+## Sept 12, 2020
 
 Predictions of the future are based on the patterns of the past. If X tended to predict Y well in the past, we would want to use that X in our model. So we start our journey by looking into past presidential election results -- first two-party voteshare at the national level. 
 
