@@ -8,7 +8,7 @@ Predictions of the future are based on the patterns of the past. If X tended to 
 ![Test Image](Test.Image.png)
 
 
-Solarized dark             |  Solarized Ocean
+Popular             |  Electoral
 :-------------------------:|:-------------------------:
 ![](Test.Image.png)         |  ![](Test.Image.png)
 
