@@ -11,7 +11,7 @@ Popular                  |  Electoral
 
 In order to understand the recent controversy surrounding the electoral vote, it's important to first develop a firm understanding of the trends between the popular and electoral vote shares attained by the two major parties. These trends are plotted above, using popular and electoral vote data from the years 1948-2016. Some of the major takeaways include:  
 
-* **Similar shape.** Although recent elections might influence most calls to action on the electoral vote, the 	electoral vote share attained by each candidate has followed a very similar shape to the popular vote. Both had blowout years, and have tightened in the past two decades. Aside from 2  discrpensies, which we will discuss in detail, one can claim the electoral vote share has closely followed the overall trends and figures of the popular vote share for the past couple of decades. 
+* **Strong relationship.** The electoral vote has historically been highly related to the popular vote, in that the shape of the two graphs has proven largely consistent with one another. Throughout the election cycles from 1948-1996, both the electoral and popular vote share graphs reflect blowout years for democrats and republicans; similarly, both graphs show tightening races between the two parties from 2000-2016. 
 
 * **Overstated win margins.** Although the electoral vote share tends to follow the same shape, one can immediately notice is tends to overstate the vote share attained. For example, in 1964, while X candidate won with X%, in the electoral vote, he attained Y% of the votes This is largely a product of winner take all system, with which all electoral votes are needed to the popular vote winner of a state. 
 
