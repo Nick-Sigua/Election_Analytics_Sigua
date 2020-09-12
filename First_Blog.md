@@ -1,7 +1,7 @@
 # The Electoral Vote
 ## Sept 12, 2020
 
-The electoral vote has been a staple in American politics since its conception. But recent conrtrovery surrounding it’s deviation from the popular vote share and bias towards a single party calls into question such’s validity. Thus, this blog will seek to explore these questions by analyzing trends between the electoral vote share and popular vote share, as well as analyzing key races in which much of the contention brought about by the electoral vote have been raised. 
+The electoral college has been a staple in American elections since the country's first presidential race. However, it's deviation from the popular vote in recent elections and its apparent bias towards a single party have caused increased scrutiny on such a system. Thus, this blog will seek to evaluate these concerns by comparing trends between the electoral vote share and popular vote share, as well as analyzing key races in which the electoral vote has deviated from the popular vote. 
 
 **Trends in Electoral and Popular Vote Shares** 
 
