@@ -3,10 +3,6 @@
 
 The electoral college has been a staple in American elections since the country's first presidential race. However, it's deviation from the popular vote in recent elections and its apparent bias towards a single party have caused increased scrutiny on such a system. Thus, this blog will seek to evaluate these concerns by comparing trends between the electoral vote share and popular vote share, as well as analyzing key races in which the electoral vote has deviated from the popular vote. 
 
-<Popular.Vote.Share.png>
-
-
-
 **Trends in Electoral and Popular Vote Shares** 
 
 Popular                  |  Electoral
