@@ -45,10 +45,9 @@ On the other hand, Clinton won 49.72% of the popular vote, or 12,799,022 of the 
 
 Here, unlike in the election of 2000, the impact of the electoral vote through the overstatement of the winner is evident. There is a significant gap between the electoral and popular vote share between the two major parties in the swing states, disproportionately favoring the republican candidate. Although claims of electoral bias are difficult to prove, this election demonstrates how significant the overstatement effect of the electoral college could be in presidential races. 
 
+**Final takeaways** 
 
-
-
-
+Overall, our analysis has demonstrated that the electoral vote tends to follow the popular vote but overstates the vote share attained by a given candidate. Although this overstatement effect did not play as big of a role in the election of 2000, it played a major role in the election of 2016. Given the trend of tightening presidential elections, it's hard to imagine the electoral vote won't continue to play a contentious and important role in future elections, especially given the main benefactors from the overstatement effect remain Republican candidates. 
 
 
 
