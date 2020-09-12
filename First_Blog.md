@@ -23,7 +23,7 @@ To understand the recent controversy surrounding the electoral vote, it's import
 
 To further understand the concerns with the electoral college, it’s necessary to analyze the races with which the electoral vote winer did not match the popular vote winner. One of these races is the election of 2000, between Republican candidate George W. Bush and Democratic candidate Al Gore. 
 
-**Swing states.** The impact of the electoral vote in this election is perhaps best expressed by the swing states, denoted as the white colored states in the map. For simplicity, we will mainly consider swing states by a maximum win margin of 2 percent. The swing states for this election are: Florida, Iowa, New Hampshire, Oregon, and Wisconsin. 
+**Swing states.** The impact of the electoral vote in this election is perhaps best expressed by the swing states, denoted as the whiter colored states in the map. For simplicity, we will mainly consider swing states by a maximum win margin of 2 percent. The swing states for this election are: Florida, Iowa, New Hampshire, Oregon, and Wisconsin. 
 
 When solely considering the two-party swing vote electorate, Bush won 49.96% of the popular vote, or 6,057,995 votes. Concurrently, Bush won 49.15%, or 29 of the available electoral votes from these states. 
 
@@ -37,7 +37,7 @@ Clearly, the impact of the electoral vote through the overstatement of the winne
 
 The second race we will analyze is the election of 2016, between Republican candidate Donald Trump and Democratic candidate Hilary Clinton. 
 
-**Swing states.** Like in the last election we covered, we will estimate the impact of the electoral vote through the swing states, again denoted as the white colored states. The swing states for this election are: Florida, Michigan, Minnesota, Pennsylvania, and Wisconsin. 
+**Swing states.** Like in the last election we covered, we will estimate the impact of the electoral vote through the swing states, again denoted as the whiter colored states. The swing states for this election are: Florida, Michigan, Minnesota, Pennsylvania, and Wisconsin. 
 
 When solely considering the two-party swing vote electorate, Trump won 50.28% of the popular vote, or 12,942,185 votes. However, Trump won 84.27%, or 75 of the total 89 available electoral votes from these states. 
 
