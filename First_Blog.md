@@ -25,7 +25,7 @@ To further understand the concerns with the electoral college, it’s necessary 
 
 **Swing states.** The impact of the electoral vote in this election is perhaps best expressed by the swing states, denoted as the whiter colored states in the map. For simplicity, we will mainly consider "swing states" as states with a maximum popular vote win margin of 2 percent. The swing states for this election are: Florida, Iowa, New Hampshire, Oregon, and Wisconsin. 
 
-When solely considering the two-party swing vote electorate, Bush won 49.96% of the popular vote, or 6,057,995 votes. Concurrently, Bush won 49.15%, or 29 of the 59 available electoral votes from these swing states. 
+When solely considering the two party electorate from the aforementioned swing states, Bush won 49.96% of the popular vote, or 6,057,995 votes. Concurrently, Bush won 49.15%, or 29 of the 59 available electoral votes from these swing states. 
 
 On the other hand, Gore won 50.04% of the popular vote, or 6,067,230 of the votes available in these states. Similarly, Gore won 50.85%, or 30 of the 59 total electoral votes from these states. 
 
