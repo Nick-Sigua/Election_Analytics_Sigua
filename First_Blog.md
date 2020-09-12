@@ -19,14 +19,12 @@ In order to understand the recent controversy surrounding the electoral vote, it
 
 **Election of 2000** 
 
-
-
 ![](win.margins.map.2000.png)
 
 
 
-**Election of 2016**
 
+**Election of 2016**
 
 ![](win.margins.map.2016.png)
 
