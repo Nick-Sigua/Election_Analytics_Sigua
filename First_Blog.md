@@ -15,7 +15,7 @@ In order to understand the recent controversy surrounding the electoral vote, it
 
 * **Overstated win margins.** Although the electoral vote share tends to follow the same shape, one can immediately notice is tends to overstate the vote share attained. For example, in 1964, while X candidate won with X%, in the electoral vote, he attained Y% of the votes This is largely a product of winner take all system, with which all electoral votes are needed to the popular vote winner of a state. 
 
-* **Candidate winner.** From the graph, the person with the higher popular vote share has been the person with the higher electoral vote share, reaffirming the overall similarity between the two. But as alluded to previously, there are two years where this is not the case: 2000 and 2016. In these two elections, the winner of the popular vote share was not the winner of the electoral vote share, as evident in 2016 by the republicans beating the democrats electorally but not popularly, and less evident in 2000. Thus, further investigation is needed into these races. 
+* **Winner Discrepensy.** From the graph, the person with the higher popular vote share has been the person with the higher electoral vote share, reaffirming the overall similarity between the two. But as alluded to previously, there are two years where this is not the case: 2000 and 2016. In these two elections, the winner of the popular vote share was not the winner of the electoral vote share, as evident in 2016 by the republicans beating the democrats electorally but not popularly, and less evident in 2000. Thus, further investigation is needed into these races. 
 
 
 
