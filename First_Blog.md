@@ -29,7 +29,7 @@ When solely considering the two-party swing vote electorate, Bush won 49.96% of 
 
 On the other hand, Gore won 50.04% of the popular vote, or 6,067,230 of the votes available in these states. Similarly, Gore won 50.85%, or 30 of the 59 total electoral votes from these states. 
 
-Clearly, the impact of the electoral vote through the overstatement of the winner was not as impactful in this race as one might have initially assumed. Although such overstatement effect is still clearly evident through Florida, which offered 25 electoral votes, the slim victories won by Gore in other swing states virtually nullified these effects. Thus, the results from this race tend to reaffirm the closeness of the electoral vote in comparison to the popular vote observed earlier, while potentially mitigating some claims of its bias. 
+Clearly, the impact of the electoral vote through the overstatement of the winner was not as impactful in this race as one might have initially assumed. Although such overstatement effect is still evident through Florida, which offered 25 electoral votes, the slim victories won by Gore in other swing states virtually nullified these effects. Thus, the results from this race tend to reaffirm the closeness of the electoral vote in comparison to the popular vote observed earlier, while potentially mitigating some claims of its bias. 
 
 **Election of 2016**
 
