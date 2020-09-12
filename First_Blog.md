@@ -37,7 +37,7 @@ Clearly, the impact of the electoral vote through the overstatement of the winne
 
 The second race we will analyze is the election of 2016, between Republican candidate Donald Trump and Democratic candidate Hilary Clinton. 
 
-**Swing states.** Like in the last election we covered, we will estimate the impact of the electoral vote through the swing states, again denoted as the whiter colored states. The swing states for this election are: Florida, Michigan, Minnesota, Pennsylvania, and Wisconsin. 
+**Swing states.** Like in the last election we covered, we will estimate the impact of the electoral vote through the swing states, again denoted as the whiter colored states with at maxmimum a 2% win margin. The swing states for this election are: Florida, Michigan, Minnesota, Pennsylvania, and Wisconsin. 
 
 When solely considering the two-party swing vote electorate, Trump won 50.28% of the popular vote, or 12,942,185 votes. However, Trump won 84.27%, or 75 of the total 89 available electoral votes from these states. 
 
