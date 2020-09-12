@@ -17,13 +17,15 @@ In order to understand the recent controversy surrounding the electoral vote, it
 
 * **Similar winners.** Overall, the graphs demonstrate that the candidate with the higher popular vote share has been the candidate with the higher electoral vote share, and thus the winner of the election. Only in the 2000 and 2016 election cycles was this not the case, as the candidates with the greater electoral vote share had the minority of the popular vote share. 
 
+**Election of 2000** 
+
 
 
 ![](win.margins.map.2000.png)
 
 
 
-
+**Election of 2016**
 
 
 ![](win.margins.map.2016.png)
