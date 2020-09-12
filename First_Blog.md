@@ -39,7 +39,7 @@ The second race we will analyze is the election of 2016, between Republican cand
 
 **Swing states.** Like in the last election we covered, we will estimate the impact of the electoral vote through the swing states, again denoted as the whiter colored states with a maximum 2% win margin. The swing states for this election are: Florida, Michigan, Minnesota, Pennsylvania, and Wisconsin. 
 
-When solely considering the two-party swing vote electorate, Trump won 50.28% of the popular vote, or 12,942,185 votes. However, Trump won 84.27%, or 75 of the total 89 available electoral votes from these states. 
+When solely considering the two-party swing state vote electorate, Trump won 50.28% of the popular vote, or 12,942,185 votes. However, Trump won 84.27%, or 75 of the total 89 available electoral votes from these states. 
 
 On the other hand, Clinton won 49.72% of the popular vote, or 12,799,022 of the votes available in these states. Yet, Clinton only won 15.73%, or 14 of the the total 89 electoral votes from these states. 
 
