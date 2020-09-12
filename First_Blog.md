@@ -15,7 +15,7 @@ To understand the recent controversy surrounding the electoral vote, it's import
 
 * **Overstated vote shares.** Although both vote shares follow similar trends, its apparent that the vote share ascertained by the majority party is overstated in the electoral vote when compared to the popular vote. For example, while the Republican candidate attained approximately 59% of the two-party popular vote in 1984, they attained approximately 97% of the two-party electoral vote. This is largely a product of winner-take-all system for allocating electoral votes present in most states, which typically overstates popular vote win margins ([Congressional Research Service](https://fas.org/sgp/crs/misc/R43823.pdf)). 
 
-* **Similar winners.** Overall, the graphs demonstrate that the candidate with the higher popular vote share has been the candidate with the higher electoral vote share, and thus the winner of the election. Only in the 2000 and 2016 election cycles was this not the case, as the candidates with the greater electoral vote share had the minority of the popular vote share. 
+* **Similar winners.** Overall, the graphs demonstrate that the candidate with the higher popular vote share has been the candidate with the higher electoral vote share, and thus the winner of the election. Only in the 2000 and 2016 election cycles was this not the case, as the candidates with the greater electoral vote share had the relative minority of the popular vote share. 
 
 **Election of 2000** 
 
