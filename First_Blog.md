@@ -47,7 +47,8 @@ Here, unlike in the election of 2000, the impact of the electoral vote through t
 
 **Final takeaways** 
 
-Overall, our analysis has demonstrated that the electoral vote tends to follow the popular vote, but also tends to overstate the vote share attained by a given candidate. Although this overstatement effect did not play as big of a role in the election of 2000, it played a major role in the election of 2016. Given the trend of tightening presidential elections, it's hard to imagine the electoral vote won't continue to play a contentious and important role in future elections, especially if the main benefactors from the overstatement effect remain Republican candidates.
+Overall, our analysis has demonstrated that the electoral vote tends to follow the popular vote, but also tends to overstate the vote share attained by a given candidate. Although this overstatement effect did not play as big of a role in the election of 2000, it played a major role in the election of 2016. Given the trend of tightening presidential elections, it's hard to imagine the electoral vote won't continue to play a contentious and important role in future elections, especially if the main benefactors from the overstatement effect continue to be Republican candidates.
+
 
 
 
