@@ -82,7 +82,7 @@ plot_usmap(data = pv_margins_map_2000, regions = "states", labels= TRUE, values 
     low = "blue", 
     breaks = c(-50,-25,0,25,50), 
     limits = c(-50,50),
-    name = "win margin"
+    name = "win margin %"
   ) + 
   theme(legend.position = "bottom") +
   labs(title = "US Win Margins Map 2000") + 
@@ -149,7 +149,7 @@ plot_usmap(data = pv_margins_map_2016, regions = "states", labels= TRUE, values 
       low = "blue", 
       breaks = c(-50,-25,0,25,50), 
       limits = c(-50,52),
-      name = "win margin"
+      name = "win margin %"
     ) + 
     theme(legend.position = "bottom") +
     labs(title = "US Win Margins Map 2016") + 
