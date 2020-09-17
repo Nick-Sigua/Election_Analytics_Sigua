@@ -7,11 +7,11 @@
 
 Popular                  |  Electoral
 :-------------------------:|:-------------------------:
-![](Popular.Vote.Share.png)|![](Electoral.Vote.Share.png)
+![](Economy1.png)|![](Economy2.png)
 
 Popular                  |  Electoral
 :-------------------------:|:-------------------------:
-![](Popular.Vote.Share.png)|![](Electoral.Vote.Share.png)
+![](Economy3.png)|![](Economy4.png)
 
 
 In order to understand how the economy can predict election results, its important to first understand the relationship between election-year economic variables and popular vote share. The graphics above display such, comparing second quarter economic figures like unemployment and GDP agaisnt the incumbent popular vote shares. 
