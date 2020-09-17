@@ -14,4 +14,18 @@ Popular                  |  Electoral
 ![](Economy1.png)|![](Economy4.png)
 
 
-In order to understand how the economy can predict election results, its important to first understand the relationship between election-year economic variables and popular vote share. The graphics above display such, comparing second quarter economic figures like unemployment and GDP agaisnt the incumbent popular vote shares. 
+In order to understand how the economy can predict election results, its important to first understand the relationship between election-year economic variables and the popular vote share. The graphics above display such, comparing second quarter economic figures like unemployment and GDP agaisnt the incumbent popular vote shares from the years 1948-2016. Some of the major takeaways include:
+
+* **A tenuous relationship.** The two-party vote share for the incumbent candidate has historically been only tenuosly to moderatley related with various second quarter economic variables. This is evident from the wide and unlinear spread of data points in the top line of each graph. While this is to be expected for figures like x and y, which are cumulative and thus continue growing no matter the year and thus harder to relate to popular vote, other figures, like unemployment, are not and yet are still shown to have weak relationship. The only variables which demonstrate some semblance of a moderate linear relationship are quarterly and yearly GDP growth. 
+
+* **Correlated economic variables.** The graphic also indicates that some variables are highly correlated to one another. For example, x and y, or z and f. Such indicates a bivariate model plotting multiple economic variables might be rendundant; rather, best to use univariate models based on these correlations between economic figures. 
+
+
+Model
+
+We will use univariate modeling, to avoid redundancies in highly correlated variables, but chart all of them. 
+
+Table
+takeaways:
+in sample fit: most models had poor in sample fits, fitting with the tenous relationship we noted in the beggining. 
+
