@@ -6,7 +6,7 @@
 but how real is this relationship, and can it help us predict election? 
 
 recent literature has suggested while overall economic factrs might offer some insight into elections, econmic data from presidential election years could be especially predictive. 
-Thus, this blog will seek to understand how economy can predict election by first analyzing the relationship between Q2 econonmic variables and vote share, fitting models between variables and voteshare to evaluate their fit, and ultimatley using the "best" model to give a 2020 prediction.  
+Thus, this blog will seek to understand how economy can predict election by first analyzing the relationship between Q2 econonmic variables and vote share, fitting models between economic variables and voteshare and evaluating their fit, and ultimatley using the "best" model to give a 2020 prediction.  
 
 
 
