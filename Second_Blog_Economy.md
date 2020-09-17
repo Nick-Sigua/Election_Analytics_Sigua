@@ -20,6 +20,10 @@ In order to understand how the economy can predict election results, its importa
 
 * **Correlated economic variables.** The graphic also indicates that some economic variables are highly correlated to one another. For instance, GDP and RDI, or the stock open and the stock close present near perfect postive linear relationships. Such indicates a bivariate model plotting multiple economic variables together might be rendundant and unessasary; rather, this blog will mainly consider univariate models for plotting the afromentioned economic variables and incumbent vote shares. 
 
+**Prediction Models: Fit** 
+
+Now we will proceed with creating prediction models. We will do these for each of the second quarter economic variables, using data sets containing historic incumbet vote shares and concurrent economic data. Below are the fit variables associated with each of the models, with the purpose of determining which model has the best predictive power. Each model is univariate, containing one of the afromentioned economic variables. We evaluate these models based on the variables charted in the table below. 
+
 
 Model
 
