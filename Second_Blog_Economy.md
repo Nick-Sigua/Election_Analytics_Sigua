@@ -8,6 +8,7 @@
 Popular                  |  Electoral
 :-------------------------:|:-------------------------:
 ![](Popular.Vote.Share.png)|![](Electoral.Vote.Share.png)
+
 Popular                  |  Electoral
 :-------------------------:|:-------------------------:
 ![](Popular.Vote.Share.png)|![](Electoral.Vote.Share.png)
