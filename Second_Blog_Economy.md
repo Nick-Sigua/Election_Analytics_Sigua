@@ -10,7 +10,7 @@ GDP Quarterly Growth and GDP Yearly Growth  |  RDI Growth and Unemployment
 :-------------------------:|:-------------------------:
 ![](Economy2.png)|![](Economy3.png)
 
-Popular                  |  Electoral
+GDP, Inflation, and RDI       |  Stock Open, Stock Close, and Stock Volume
 :-------------------------:|:-------------------------:
 ![](Economy1.png)|![](Economy4.png)
 
