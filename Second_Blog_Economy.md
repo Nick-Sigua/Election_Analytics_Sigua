@@ -45,6 +45,8 @@ Based on the out-of-sample values, the listed models also seem to have poor to m
 
 Considering both the in-sample and out-of-sample preformance of each of the models, the model with the highest predictive ability is model 1, or the model based on the second quarter GDP growth. With the highest r squared, lowest MSE, and lowest validation values, such model had the greatest in-sample and out-of-sample fit. 
 
+**Final Model Prediction** 
+
 
 
 
