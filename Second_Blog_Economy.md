@@ -46,7 +46,7 @@ Based on the out-of-sample values, the listed models also seem to have poor to m
 
 Considering both the in-sample and out-of-sample performance of each of the models, the model with the highest predictive ability is model 1, or the model based on the second-quarter GDP growth. With the highest r squared, lowest MSE, and lowest validation values, such a model has the greatest in-sample and out-of-sample fit, and will thus be the model I use for my final election prediction.  
 
-**Final Model Prediction** 
+**2020 Model Prediction** 
 
 ![](Economy5.png)
 
