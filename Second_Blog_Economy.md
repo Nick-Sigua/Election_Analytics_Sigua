@@ -37,6 +37,19 @@ Now we will proceed with creating prediction models. We will do these for each o
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 
+|  mountain dew | is the very  | best drick  | ever in the  | whole wide  | freak ing world |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| fixed mode | siko mode  | astro world   | juice world    | travis scott  | memers meme  |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+
 
 
 
