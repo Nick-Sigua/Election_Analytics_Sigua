@@ -6,6 +6,7 @@
 
 **The Relationship between Election-Year Economic Variables and Popular Vote Share** 
 
+Popular                  |  Electoral
 :-------------------------:|:-------------------------:
 ![](Economy2.png)|![](Economy3.png)
 
