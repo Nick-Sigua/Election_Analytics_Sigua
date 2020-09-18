@@ -39,17 +39,13 @@ Now we will proceed with creating prediction models. We will do these for each o
 
 The R-squared and Mean Squared Error (MSE) values listed above can help me determine a model's predictive power by indicating its in-sample fit. For example, a high r-squared or low MSE value would indicate a model had a high in-sample fit, and thus potentially higher predictive power. On the other hand, the "leave-one-out" and cross validation values listed above can help me determine a model's predictive power by indicating its out-of-sample fit. In this case, a low value for either of these validations would suggest the model had a high out-of-sample fit, and thus higher predictive power. When considering predictions, the out-of-sample validations are likely more important than the in-sample figures. 
 
-**Model Evaluations.** Based on the in-sample values, the majority of the listed models have a poor in-sample fit. With r-squared values ranging from 0.00004 to 0.326 and MSE values ranging from 4.2 to 5.12, the low in-sample fit for most of the economic-based models concords with the tenous relationship previosuly established between the second quarter economic variables and incumbent popular vote share. The three models with the highest in-sample fit consist of the quarterly GDP growth, yearly GDP growth, and RDI growth variables. 
+**Model Evaluations.** Based on the in-sample values, the majority of the listed models have a poor in-sample fit. With r-squared values ranging from 0.00004 to 0.326 and MSE values ranging from 4.2 to 5.12, the low in-sample fit for most of the economic-based models concords with the tenous relationship previosuly established between the second quarter economic variables and incumbent popular vote share. The three models with the greatest in-sample fit consist of the quarterly GDP growth, yearly GDP growth, and RDI growth variables. 
+
+Based on the out-of-sample values, the majority of the listed models also have poor out-of-sample fit. The leave-one-out and cross validation values ranged from x to y and y to z, respectivley. The three models with the greatest out-of-sample fit again consisted of x, y and z variables. 
+
+Considering both the in sample and out of sample preformance of each of the models, the model with the highest predictive ability seems to be model 1, or the model based on y variable. With the highest r squared, lowest MSE, and lowest validation values, such is expected to yeild the closest prediction. 
 
 
 
 
-
-Model
-
-We will use univariate modeling, to avoid redundancies in highly correlated variables, but chart all of them. 
-
-Table
-takeaways:
-in sample fit: most models had poor in sample fits, fitting with the tenous relationship we noted in the beggining. 
 
