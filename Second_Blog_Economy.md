@@ -6,7 +6,7 @@
 
 **The Relationship between Election-Year Economic Variables and Popular Vote Share** 
 
-GDP Quarterly Growth and GDP Yearly Growth  |  Electoral
+GDP Quarterly Growth and GDP Yearly Growth  |  RDI Growth and Unemployment
 :-------------------------:|:-------------------------:
 ![](Economy2.png)|![](Economy3.png)
 
