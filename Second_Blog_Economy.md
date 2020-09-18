@@ -13,8 +13,7 @@ GDP, Inflation, and RDI       |  Stock Open, Stock Close, and Stock Volume
 :-------------------------:|:-------------------------:
 ![](Economy1.png)|![](Economy4.png)
 
-
-In order to understand how the economy can predict election results, its important to first understand the relationship between election-year economic variables and the popular vote share. The graphics above display such, comparing second-quarter economic figures like unemployment and GDP against the incumbent popular vote shares from the years 1948-2016. Some of the major takeaways include:
+To understand how the economy can predict election results, it's important first to understand the relationship between election-year economic variables and the popular vote share. The graphics above display such, comparing second-quarter economic figures like unemployment and GDP against the incumbent popular vote shares from 1948-2016. Some of the major takeaways include:
 
 * **A tenuous relationship.** The two-party vote share for the incumbent candidate has historically had a tenuous to moderate relationship with the various second-quarter economic variables. This is evident from the wide and nonlinear spread of data points in the top line of each graph. While this is to be expected for variables like GDP and stock volume, which are cumulative and generally increase regardless of presidential terms, other figures, like unemployment, vary significantly between presidential terms but still demonstrate a weak relationship with the incumbent vote share. The only variables which indicate some semblance of a moderate linear relationship with popular vote share are quarterly and yearly GDP growth.
 
