@@ -49,7 +49,7 @@ Considering both the in-sample and out-of-sample preformance of each of the mode
 
 ![](Economy5.png)
 
-Using the univariate linear regression model based on second quarter GDP growth, my prediction for the incumbet's popular vote share in 2020 is 21.26% ;this is indicated by the blue point in the scatterplot above. 
+Using the univariate linear regression model based on second quarter GDP growth, my prediction for the incumbet's popular vote share in 2020 is 21.26% ; this is indicated by the blue point in the scatterplot above. 
 
 The prediction interval associated with my 2020 prediction ranges from a lower bound of -4.1% to and upper bound of 46.6%, which is quite large. Moreover, the range in popular vote share predicitons across all the models spanned from 21.26% to 80.33%, suggesting my 2020 prediction model is highly sensative to the choice in the model economic variable. Overall, my prediction indicates the economic model of voting behavior might not be as clear cut as initially assumed, and in truth, my 2020 prediction is quite jarring considering how much of a landslide it would present relative to all previous elections in the dataset. 
 
