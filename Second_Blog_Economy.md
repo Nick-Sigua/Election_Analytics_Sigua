@@ -1,4 +1,4 @@
-# The Economy and Popular Vote
+# The Economy in Popular Vote Predictions
 ## Sept 18, 2020
 
 "It's the economy, stupid." Such were the famous words uttered by James Carville, Bill Clinton's campaign strategist, in 1992 towards campaign workers as one of the three messages they should focus on. This phrase perhaps best encapsulates the basic understanding most people have of the role the economy plays in deciding elections. But can the economy help us predict elections? Recent literature has offered some insight into these questions, with Healy and Lenz finding that voters primarily respond to the election year economy instead of longer-term economic figures. In turn, this blog will seek to understand how the economy can predict elections by first analyzing the relationship between second quarter election-year economic variables and vote shares, fitting models for these economic variables and vote shares, and ultimately using the model with the greatest predictive power to predict the 2020 election. 
@@ -47,6 +47,7 @@ Considering both the in-sample and out-of-sample preformance of each of the mode
 
 **Final Model Prediction** 
 
+![](Economy5.png)
 
 
 
