@@ -24,20 +24,7 @@ In order to understand how the economy can predict election results, its importa
 
 Now we will proceed with creating prediction models. We will do these for each of the second quarter economic variables, using data sets containing historic incumbet vote shares and concurrent economic data. Below are the fit variables associated with each of the models, with the purpose of determining which model has the best predictive power. Each model is univariate, containing one of the afromentioned economic variables. We evaluate these models based on the variables charted in the table below. 
 
-| Model | Variable | R-squared | MSE | leaving one out validation  | cross validation  |
-|---|---|---|---|---|---|
-| 1  | Quarterly GDP growth  | 0.34  | 4.76  | -2  | 2.3  |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-
-|  mountain dew | is the very  | best drick  | ever in the  | whole wide  | freak ing world |
+|  Model | Variable  | R-squared  | Mean Squared Error  | Leaving One Out Validation  | Cross Validation |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | fixed mode | siko mode  | astro world   | juice world    | travis scott  | memers meme  |
 |   |   |   |   |   |   |
