@@ -22,7 +22,7 @@ In order to understand how the economy can predict election results, its importa
 
 **Fitting Prediction Models** 
 
-Now we will proceed with creating prediction models. We will do these for each of the second quarter economic variables, running a linear regression using data sets containing historic incumbet vote shares and afromentioned economic data. Below are the fit variables associated with each of the models, with the purpose of determining which model has the best predictive power. Each model is univariate, containing one of the afromentioned economic variables. We evaluate these models based on the variables charted in the table below. 
+Now we will proceed with creating prediction models. We will do these for each of the second quarter economic variables, running univariate linear regressions between the historic incumbet vote share data and the afromentioned economic data. We evaluate these models based on the variables charted in the table below. 
 
 |  Model | Variable  | R-squared  | Mean Squared Error  | Leaving One Out Validation  | Cross Validation |
 |:-:|:-:|:-:|:-:|:-:|:-:|
