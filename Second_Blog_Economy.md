@@ -22,7 +22,7 @@ In order to understand how the economy can predict election results, its importa
 
 **Fitting Prediction Models** 
 
-Now we will proceed with creating prediction models. We will do these for each of the second quarter economic variables, running univariate linear regressions between the historic incumbet vote share data and the afromentioned economic data. We evaluate these models based on the variables charted in the table below. 
+Now we will proceed with creating prediction models. We will do these for each of the second quarter economic variables, running univariate linear regressions between the historic incumbet vote share data and the afromentioned economic data. To evaluate the predictive power of each model, we will consider a number of variables listed in the table below. 
 
 |  Model | Variable  | R-squared  | Mean Squared Error  | Leaving One Out Validation  | Cross Validation |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -36,6 +36,10 @@ Now we will proceed with creating prediction models. We will do these for each o
 | 8 | Stock Open  | 0.04  | 5.018   | -2.707  | 2.104  |
 | 9  | Stock Close  | 0.04   | 5.019  | -2.776  | 1.967   |
 | 10  | Stock Volume  | 0.05  | 4.99  | -2.243  | 2.265  |
+
+The R-squared and Mean Squared Error (MSE) values listed above can help me determine a model's predictive power by indicating its in-sample fit. For example, a high r-squared or low MSE value would indicate a model had a high in-sample fit, and thus potentially higher predictive power. On the other hand, the "leave-one-out" and cross validation values listed above can help me determine a model's predictive power by indicating its out-of-sample fit. In this case, a low value for either of these validations would suggest the model had a high out-of-sample fit, and thus higher predictive power. When considering predictions, the out-of-sample validations are likely more important than the in-sample figures. Based on these definitions, the takeaways from the table are:
+
+
 
 
 
