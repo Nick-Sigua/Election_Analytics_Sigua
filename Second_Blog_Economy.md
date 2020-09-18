@@ -23,7 +23,7 @@ In order to understand how the economy can predict election results, its importa
 
 **Fitting Prediction Models** 
 
-Now we will proceed with creating prediction models. We will do these for each of the second quarter election-year economic variables, running univariate linear regressions between such data and the historical incumbent vote share from 1948-2016. To evaluate the predictive power of each model, we will consider the variables listed in the table below. 
+Now I will proceed with creating prediction models. I will do these for each of the second quarter election-year economic variables, running univariate linear regressions between such data and the historical incumbent vote share from 1948-2016. To evaluate the predictive power of each model, I will consider the variables listed in the table below. 
 
 |  Model | Variable  | R-squared  | Mean Squared Error  | Leaving One Out Validation  | Cross Validation |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -50,9 +50,9 @@ Considering both the in-sample and out-of-sample preformance of each of the mode
 
 ![](Economy5.png)
 
-Using the univariate linear regression model based on second quarter GDP growth, my prediction for the incumbet's popular vote share in 2020 is 21.26% ; this is indicated by the blue point in the scatterplot above. 
+Using the univariate linear regression model based on second-quarter GDP growth, my prediction for the incumbent's popular vote share in 2020 is 21.26%; the blue point indicates this in the scatterplot above.
 
-The prediction interval associated with my 2020 prediction ranges from a lower bound of -4.1% to and upper bound of 46.6%, which indicates the large uncertantity associated with such value. Moreover, the range in popular vote share predicitons across all the models spanned from 21.26% to 80.33%, suggesting my 2020 prediction is highly sensitive to the economic variable chosen for my prediction model. Overall, my 2020 prediction and its associated uncertainity and sensitivity indicates how the economic model of voting behavior is not as clear cut as initially assumed. In truth, my 2020 prediction is quite far-fetched considering how much of a landslide it would present relative to all previous elections in the dataset. 
+The prediction interval associated with my 2020 prediction ranges from a lower bound of -4.1% to an upper bound of 46.6%, which indicates the considerable uncertainty associated with such value. Moreover, the range in popular vote share predictions across all the models spanned from 21.26% to 80.33%, suggesting my 2020 prediction is highly sensitive to the economic variable chosen for my prediction model. Overall, my 2020 forecast and its associated uncertainty and sensitivity indicate how the economic model of voting behavior is not as clear cut as I might have initially assumed. In truth, my 2020 prediction is quite far-fetched considering how much of a landslide it would present relative to all previous elections in the dataset.
 
 **Final Takeaways** 
 
