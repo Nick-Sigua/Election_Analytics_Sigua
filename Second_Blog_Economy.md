@@ -56,4 +56,5 @@ The prediction interval associated with my 2020 prediction ranges from a lower b
 
 **Final Takeaways** 
 
+Overall, our analysis has demonstrated that economic variables have a far more tenuous relationship with the incumbent vote share than one might have initially expected. After fitting models for various second-quarter election-year economic variables, I found that the model using the second-quarter GDP growth had the best in-sample and out-of-sample fit to historical incumbent vote shares; the prediction for the incumbent vote share in 2020 associated with this model is 21.26%. However, the uncertainty and sensitivity associated with such value leave room for incorporating variables not related to the economy in future prediction models. 
 
