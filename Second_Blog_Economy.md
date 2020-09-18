@@ -23,7 +23,7 @@ In order to understand how the economy can predict election results, its importa
 
 **Fitting Prediction Models** 
 
-Now we will proceed with creating prediction models. We will do these for each of the second quarter election year economic variables, running univariate linear regressions between the historic incumbet vote share data and the afromentioned economic data. To evaluate the predictive power of each model, we will consider a number of variables listed in the table below. 
+Now we will proceed with creating prediction models. We will do these for each of the second quarter election-year economic variables, running univariate linear regressions between such data and the historical incumbent vote share from 1948-2016. To evaluate the predictive power of each model, we will consider the variables listed in the table below. 
 
 |  Model | Variable  | R-squared  | Mean Squared Error  | Leaving One Out Validation  | Cross Validation |
 |:-:|:-:|:-:|:-:|:-:|:-:|
