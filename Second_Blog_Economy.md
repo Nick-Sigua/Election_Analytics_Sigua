@@ -26,16 +26,16 @@ Now we will proceed with creating prediction models. We will do these for each o
 
 |  Model | Variable  | R-squared  | Mean Squared Error  | Leaving One Out Validation  | Cross Validation |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| fixed mode | siko mode  | astro world   | juice world    | travis scott  | memers meme  |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
+| 1 | Quarterly GDP Growth  | 0.326   | 4.2  | -0.849  | 1.818  |
+| 2 | Yearly GDP Growth  | 0.296  | 4.296  | -2.74  | 1.84  |
+| 3  | GDP  | 0.039  | 5.019  | -1.369   | 2.02  |
+| 4 | RDI  | 0.08  | 4.861  | -2.333  | N/A  |
+| 5  | RDI Growth  | 0.258  | 4.367  | -3.192   | N/A  |
+| 6 | Inflation  | 0.049  | 4.993  | -1.5  | 2.041  | 
+| 7 | Unemployment  | 0.00004  | 5.12  | 0.887  | 2.251  |
+| 8 | Stock Open  | 0.04  | 5.018   | -2.707  | 2.104  |
+| 9  | Stock Close  | 0.04   | 5.019  | -2.776  | 1.967   |
+| 10  | Stock Volume  | 0.05  | 4.99  | -2.243  | 2.265  |
 
 
 
