@@ -49,6 +49,7 @@ Considering both the in-sample and out-of-sample preformance of each of the mode
 
 ![](Economy5.png)
 
+Using an univariate linear regression based on x var, my prediction for 2020 is Y, as indicated in the scatterplot above. This was done by imputing the 2nd quarter gdp for 2020 in my linear regression. The prediction interval associated with this prediction is Ry, which is quite large. This sensitivity is only further proven by the range between models. Such suggests the economic model of voting behavior might not be as clear cut as initially assumed, and in truth, such prediction is pretty jarring considering in context to other years. 
 
 
 
