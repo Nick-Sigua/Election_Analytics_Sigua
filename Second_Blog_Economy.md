@@ -41,8 +41,7 @@ The R-squared and Mean Squared Error (MSE) values listed above can help me deter
 
 **Model Evaluations.** Based on the in-sample values, the majority of the listed models have a poor in-sample fit. With r-squared values ranging from 0.00004 to 0.326 and MSE values ranging from 4.2 to 5.12, the low in-sample fit for most of the economic-based models concords with the tenous relationship previosuly established between the second quarter economic variables and incumbent popular vote share. The three models with the greatest in-sample fit consist of the quarterly GDP growth, yearly GDP growth, and RDI growth variables. 
 
-
-Based on the out-of-sample values, the afromentioned models also seem to have poor to moderate out-of-sample fits. The leave-one-out and cross validation values ranged from x to y and y to z, respectivley. The three models with the greatest out-of-sample fit again consisted of x, y and z variables. 
+Based on the out-of-sample values, the afromentioned models also seem to have poor to moderate out-of-sample fits. The leave-one-out and cross validation values ranged from -0.849 to -3.192 and 1.818 to 2.265, respectivley. The three models with the greatest out-of-sample fit again consisted of x, y and z variables. 
 
 Considering both the in sample and out of sample preformance of each of the models, the model with the highest predictive ability seems to be model 1, or the model based on y variable. With the highest r squared, lowest MSE, and lowest validation values, such is expected to yeild the closest prediction. 
 
