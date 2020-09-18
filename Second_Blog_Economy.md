@@ -25,7 +25,7 @@ In order to understand how the economy can predict election results, its importa
 
 Now I will proceed with creating prediction models. I will do these for each of the second quarter election-year economic variables, running univariate linear regressions between such data and the historical incumbent vote share from 1948-2016. To evaluate the predictive power of each model, I will consider the variables listed in the table below. 
 
-|  Model | Variable  | R-squared  | Mean Squared Error  | Leaving One Out Validation  | Cross Validation |
+|  Model | Variable  | R-squared  | Mean Squared Error  | Leave One Out Validation  | Cross Validation |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | Quarterly GDP Growth  | 0.326   | 4.2  | -0.849  | 1.818  |
 | 2 | Yearly GDP Growth  | 0.296  | 4.296  | -2.74  | 1.84  |
