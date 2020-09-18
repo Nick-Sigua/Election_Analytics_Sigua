@@ -6,7 +6,7 @@
 
 **The Relationship between Election-Year Economic Variables and Popular Vote Share** 
 
-Popular                  |  Electoral
+GDP Quarterly Growth and GDP Yearly Growth  |  Electoral
 :-------------------------:|:-------------------------:
 ![](Economy2.png)|![](Economy3.png)
 
