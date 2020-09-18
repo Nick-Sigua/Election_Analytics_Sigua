@@ -43,13 +43,13 @@ The R-squared and Mean Squared Error (MSE) values listed above can help me deter
 
 Based on the out-of-sample values, the listed models also seem to have poor to moderate out-of-sample fits. The leave-one-out and cross validation values ranged from -0.849 to -3.192 and 1.818 to 2.265, respectivley. The three models with the lowest leave-one-out validation values are model 1, model 3, and model 7, while the three models with the lowest cross validation values are model 1, model 2, and model 9. 
 
-Considering both the in-sample and out-of-sample preformance of each of the models, the model with the highest predictive ability is model 1, or the model based on the second quarter GDP growth. With the highest r squared, lowest MSE, and lowest validation values, such model had the greatest in-sample and out-of-sample fit. 
+Considering both the in-sample and out-of-sample preformance of each of the models, the model with the highest predictive ability is model 1, or the model based on the second quarter GDP growth. With the highest r squared, lowest MSE, and lowest validation values, such model has the greatest in-sample and out-of-sample fit, and will thus be the model I use for my final election prediction.  
 
 **Final Model Prediction** 
 
 ![](Economy5.png)
 
-Using an univariate linear regression based on x var, my prediction for 2020 is Y, as indicated in the scatterplot above. This was done by imputing the 2nd quarter gdp for 2020 in my linear regression. The prediction interval associated with this prediction is Ry, which is quite large. This sensitivity is only further proven by the range between models. Such suggests the economic model of voting behavior might not be as clear cut as initially assumed, and in truth, such prediction is pretty jarring considering in context to other years. 
+Using the univariate linear regression model based on second quarter GDP growth, my prediction for the incumbet's popular vote share in 2020 is 21.26% ;this is indicated by the blue point in the scatterplot above. The prediction interval associated with my 2020 prediction ranges from a lower bound of -4.1% to and upper bound of 46.6%, which is quite large. Moreover, the range in popular vote share predicitons across all the models spanned from 21.26% to 80.33%, suggesting my 2020 prediction model is highly sensative to the choice in the model economic variable. Such suggests the economic model of voting behavior might not be as clear cut as initially assumed, and in truth, my 2020 prediction is quite jarring considering how much of a landslide it would present relative to all previous elections in the dataset. 
 
 
 
