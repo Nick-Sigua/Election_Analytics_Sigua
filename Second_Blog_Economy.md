@@ -1,7 +1,7 @@
 # The Economy and Popular Vote
 ## Sept 18, 2020
 
-"It's the economy, stupid." Such were the famous words uttered by James Carville, Bill Clinton's campaign strategist, in 1992 towards campaign workers as one of the three messages they should focus on. This phrase perhaps best encapsulates the basic understanding most people have of the role the economy plays in deciding elections. But can the economy help us predict elections? Recent literature has offered some insight into these questions, with Healy and Lenz finding that voters primarily respond to the election year economy instead of longer-term economic figures. In turn, this blog will seek to understand how the economy can predict elections by first analyzing the relationship between Q2 election-year economic variables and vote shares, fitting models for these economic variables and vote shares, and ultimately using the model with the greatest predictive power to predict the 2020 election. 
+"It's the economy, stupid." Such were the famous words uttered by James Carville, Bill Clinton's campaign strategist, in 1992 towards campaign workers as one of the three messages they should focus on. This phrase perhaps best encapsulates the basic understanding most people have of the role the economy plays in deciding elections. But can the economy help us predict elections? Recent literature has offered some insight into these questions, with Healy and Lenz finding that voters primarily respond to the election year economy instead of longer-term economic figures. In turn, this blog will seek to understand how the economy can predict elections by first analyzing the relationship between second quarter election-year economic variables and vote shares, fitting models for these economic variables and vote shares, and ultimately using the model with the greatest predictive power to predict the 2020 election. 
 
 **The Relationship between Election-Year Economic Variables and Popular Vote Share** 
 
@@ -22,7 +22,7 @@ In order to understand how the economy can predict election results, its importa
 
 **Fitting Prediction Models** 
 
-Now we will proceed with creating prediction models. We will do these for each of the second quarter economic variables, running univariate linear regressions between the historic incumbet vote share data and the afromentioned economic data. To evaluate the predictive power of each model, we will consider a number of variables listed in the table below. 
+Now we will proceed with creating prediction models. We will do these for each of the second quarter election year economic variables, running univariate linear regressions between the historic incumbet vote share data and the afromentioned economic data. To evaluate the predictive power of each model, we will consider a number of variables listed in the table below. 
 
 |  Model | Variable  | R-squared  | Mean Squared Error  | Leaving One Out Validation  | Cross Validation |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -39,11 +39,11 @@ Now we will proceed with creating prediction models. We will do these for each o
 
 The R-squared and Mean Squared Error (MSE) values listed above can help me determine a model's predictive power by indicating its in-sample fit. For example, a high r-squared or low MSE value would indicate a model had a high in-sample fit, and thus potentially higher predictive power. On the other hand, the "leave-one-out" and cross validation values listed above can help me determine a model's predictive power by indicating its out-of-sample fit. In this case, a low value for either of these validations would suggest the model had a high out-of-sample fit, and thus higher predictive power. When considering predictions, the out-of-sample validations are likely more important than the in-sample figures. 
 
-**Model Evaluations.** Based on the in-sample values, the majority of the listed models have a poor in-sample fit. With r-squared values ranging from 0.00004 to 0.326 and MSE values ranging from 4.2 to 5.12, the low in-sample fit for most of the economic-based models concords with the tenous relationship previosuly established between the second quarter economic variables and incumbent popular vote share. The three models with the highest r-squared and lowest MSE consist of the quarterly GDP growth, yearly GDP growth, and RDI growth variables. 
+**Model Evaluations.** Based on the in-sample values, the majority of the listed models have a poor in-sample fit. With r-squared values ranging from 0.00004 to 0.326 and MSE values ranging from 4.2 to 5.12, the low in-sample fit for most of the economic-based models concords with the tenous relationship previosuly established between the second quarter economic variables and incumbent popular vote share. The three models with the highest r-squared and lowest MSE are model 1, model 2, and model 5. 
 
-Based on the out-of-sample values, the afromentioned models also seem to have poor to moderate out-of-sample fits. The leave-one-out and cross validation values ranged from -0.849 to -3.192 and 1.818 to 2.265, respectivley. The three models with the lowest leave-one-out validation values are x,y, and z, while the three models with the lowest cross validation values are x, y and z. 
+Based on the out-of-sample values, the listed models also seem to have poor to moderate out-of-sample fits. The leave-one-out and cross validation values ranged from -0.849 to -3.192 and 1.818 to 2.265, respectivley. The three models with the lowest leave-one-out validation values are model 1, model 3, and model 7, while the three models with the lowest cross validation values are model 1, model 2, and model 9. 
 
-Considering both the in sample and out of sample preformance of each of the models, the model with the highest predictive ability seems to be model 1, or the model based on y variable. With the highest r squared, lowest MSE, and lowest validation values, such is expected to yeild the closest prediction. 
+Considering both the in-sample and out-of-sample preformance of each of the models, the model with the highest predictive ability is model 1, or the model based on the second quarter GDP growth. With the highest r squared, lowest MSE, and lowest validation values, such model had the greatest in-sample and out-of-sample fit. 
 
 
 
