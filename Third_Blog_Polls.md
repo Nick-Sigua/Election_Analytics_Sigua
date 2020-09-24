@@ -17,7 +17,7 @@ To understand how polls can predict election results, it is necessary to first u
 
 **The Variation in Pollster Quality** 
 
-2016 Polls  |  2020 Polls
+2016 Polls Grade Distribution  |  2020 Polls Grade Distribution
 :-------------------------:|:-------------------------:
 ![](Polls_3.png)|![](Polls4.png)
 
