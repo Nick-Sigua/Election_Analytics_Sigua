@@ -24,9 +24,9 @@ To understand how polls can predict election results, it is necessary to first u
 
 When considering the relationship between the polls and a candidate's popular vote share, one must also be cognizant of the differences in quality between various polls. The graphic above demonstrates the variation in quality for national polls in the 2016 and 2020 elections, graded by FiveThirtyEight based on a given pollster's historical accuracy and methodology.
 
-**Uneven distribution.** One of the most apparent takeaways from analyzing the above graphs is that the 2016 and 2020 national election polls are not distributed equally across quality. For example, for the 2016 election there is a massive spike of A- and C+ graded polls, with relativley low counts for the rest of the grades. Similarly, in 2020 there is a massive spike of B/C graded polls with lower counts for the other grades. 
+**Uneven distribution.** One of the most apparent takeaways from analyzing the above graphs is that the 2016 and 2020 national election polls are not distributed equally across the quality. For example, for the 2016 election, there is a massive spike of A- and C+ graded polls, with relatively low counts for the rest of the grades. Similarly, in 2020 there is a massive spike of B/C graded polls with lower counts for the other grades.
 
-Aside from uneven distribtuion, one of the other main takeaways from the graphs is the amount of poor quality polls, evidenced by the afromentioned spike in C+ polls in 2016 and concurrent spike in B/C polls for 2020. Although such is to be expected, given the amount of polls conducted, the prevalanece of a substantial quantity of lower quality polls is important to understand moving forward and working with aggregate polling data. 
+Aside from uneven distribution, one of the other main takeaways from the graphs is the number of poor quality polls, evidenced by the afromentioned spike in C+ polls in 2016 and a concurrent spike in B/C polls for 2020. Although such is to be expected, given the number of polls conducted, the prevalence of a substantial quantity of lower quality polls is important to understand moving forward and working with aggregate polling data.
 
 **Constructing a Prediction Model** 
 
