@@ -6,14 +6,13 @@ Polls have become a mainstay in the modern-day election. From the moment the pri
 **The Relationship between a Candidate's Average Poll Support and Popular Vote Share** 
 
 
-GDP Quarterly Growth and GDP Yearly Growth  |  RDI Growth and Unemployment
+Average Poll Support vs. Incumbent Popular Vote Share  |  Average Poll Support vs. Challenger Popular Vote Share
 :-------------------------:|:-------------------------:
 ![](Polls1.png)|![](Polls2.png)
 
 
 **The Variation in Pollster Quality** 
-
-GDP Quarterly Growth and GDP Yearly Growth  |  RDI Growth and Unemployment
+2016 Polls  |  2020 Polls
 :-------------------------:|:-------------------------:
 ![](Polls3.png)|![](Poll4.png)
 
