@@ -46,10 +46,10 @@ Each of these components is weighted equally in our final prediction model for 2
 
 The table above compares the 2016 prediction for the model I constructed (denoted as Model 1) agaisnt the out-of-sample 2016 prediciton for various linear regression models; these linear regression models were based on the variables listed for Model 2, Model 3, and Model 4. Total error was calculated by summing the absolute value of the differences between a model's predictions and the actual popular vote results. 
 
-Given the total error values in the chart above, the model which had the least error, and thus best prediction for the 2016 election, was Model 3. This concords with the relationship we observed earlier between average poll support and popular vote, and thus leads me to choose Model 3 for my 2020 election prediction. 
+Given the total error values in the chart above, the model with the least error, and thus best prediction for the 2016 election, was Model 3. This concords with the relationship we observed earlier between average poll support and popular vote, and thus leads me to choose Model 3 for my 2020 election prediction. 
 
 
-
+**Model Prediction for 2020** 
 
 
 
