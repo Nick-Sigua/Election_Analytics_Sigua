@@ -52,7 +52,7 @@ Given the total error values in the chart above, the model with the least error,
 
 2020 Incumbent Party Prediction  |  2020 Challenger Party Prediction
 :-------------------------:|:-------------------------:
-![](Polls_5.png)|![](Polls_6.png)
+![](Polls_5.png)|![](Polls6.png)
 
 Using the univariate linear regression model based on average poll support for a given candidate (Model 3), my prediction for the incumbent party candidate's popular vote share in 2020 is 46.99% and 49.5% for the non-incumbent party candidate; these predictions are denoted as the blue dots in the graphs above. 
 
