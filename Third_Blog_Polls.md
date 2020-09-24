@@ -36,11 +36,14 @@ The second component will be second-quarter GDP, given such variable was the eco
 Each of these components is weighted equally in our final prediction model for 2016. Given such a model, the prediction for the incumbent party candidate is 47.24%, and the prediction for the non-incumbent party candidate is 44.15%. Given the actual results were 47.06% and 44.92%, respectively, such a model seems viable; however, an evaluation of its predictive ability against other models is still necessary.
 
 
+**Evaluating Prediction Models** 
 
-
-
-
-
+| Model  | Variable(s)  | 2016 Incumbent Prediction  | 2016 Non-Incumbent Prediction  | Total Error  |
+|:-:|:-:|:-:|:-:|:-:|
+|  1 |   |   |   |   |
+|  2 |   |   |   |   |
+|  3 |   |   |   |   |
+|  4 |   |   |   |   |
 
 
 
