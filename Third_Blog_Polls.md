@@ -55,7 +55,9 @@ Using the univariate linear regression model based on average poll support for a
 
 The prediction interval associated with my 2020 incumbent-party prediction ranges from a lower bound of 40.27% to an upper bound of 53.7%, while the prediction interval for my 2020 non-incumbent party prediction ranges from 40.65% to 58.36%. This indicates there is still some notable uncertainity associated with my predictions, although far less than when my model was based soley on second-quarter GDP last week. 
 
+**Final Takeaways** 
 
+Overall, our analysis has demonstrated a significant relationship between average poll support and popular vote share. After comparing various models, I found that the model reliant on a candidate’s average poll support had the greatest predictive ability relative to the 2016 election; I then used it to predict the 2020 election. Given the linear regression model for average poll support was more predictive than the model incorporating aggregate poll support weighted for higher quality polls and second-quarter GDP, it seems that poll quality is not a major factor in the predictive ability of polls; this is likely a function of poll biases canceling out in large samples of polls. Future models should consider applying different weights to polls and 2nd quarter GDP or even incorporating new variables altogether. 
 
 
 
