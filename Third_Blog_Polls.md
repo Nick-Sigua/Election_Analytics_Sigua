@@ -44,7 +44,9 @@ Each of these components is weighted equally in our final prediction model for 2
 |  3 |  Average Poll Support | 46.88%  | 45.02%  | 0.28  |
 |  4 |  Average Poll Support, 2nd Quarter GDP |46.47%   | 46.68%  | 2.35  |
 
-The table above compares the 2016 prediction for the model I constructed (denoted as Model 1) agaisnt the out-of-sample 2016 prediciton for various linear regression models; these linear regression models were based on the variables listed for Model 2, Model 3, and Model 4. 
+The table above compares the 2016 prediction for the model I constructed (denoted as Model 1) agaisnt the out-of-sample 2016 prediciton for various linear regression models; these linear regression models were based on the variables listed for Model 2, Model 3, and Model 4. Total error was calculated by summing the absolute value of the differences between a model's predictions and the actual popular vote results. 
+
+Given the total error values in the chart above, the model which had the least error, and thus best prediction for the 2016 election, was Model 3. 
 
 
 
