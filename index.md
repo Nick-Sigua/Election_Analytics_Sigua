@@ -8,5 +8,6 @@ Click here to see my first blog!
 Week #2 Blog:                                                                                               
 [The Economy in Popular Vote Predictions](Second_Blog_Economy.md)
 
-
+Week #3 Blog:                                                                                                               
+[The Polls in Popular Vote Predictions](Third_Blog_Polls.md)
  
