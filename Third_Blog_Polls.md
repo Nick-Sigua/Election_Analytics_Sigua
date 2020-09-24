@@ -27,17 +27,23 @@ When considering the relationship between the polls and a candidate's popular vo
 
 **Constructing a Prediction Model** 
 
-Based on polling influence on elections, one of the variables our model will rely on is average approval. However, given the variation in quality, our model will weigh higher quality polls greater than lower quality polls. 
-what model contains, why weights, why i am doing what i am doing, need to mention 2 models, for both incumbent and non incumbent
-we will build a predictive model for the 2016 election first, so we can compare it to other models via the error relative to the actual
+When constructing a prediction model, we will consider its prediction for 2016 to evaluate such model against the actual popular vote results for both the incumbent and the non-incumbent party candidate. 
 
-The first component of our model is the weighted aggregate poll support. This was acheived by applying a weight of 0.75 for polls with a grade of A+, applying a weight of 0.2 for polls with a grade of A, and applying a weight of 0.05 for polls with a grade of A-. This component recieves a weight of 0.5 in my final 2016 prediction model. 
+Given relationship between the polls and the popular vote, as well as the variation in quality between different polls, the first component of our 2016 prediction model will be an aggregate support of 2016 national polls, weighted for quality. Polls with a higher grade will be weighted greater, or polls with grades of A+,A, and A- will recieve a weight of 0.8, 0.2, and 0.05, respectivley. 
 
-The second component is the out-of-sample 2016 prediction for a second quarter GDP linear regression model. This component also recieves a weight of 0.5 in my final 2016 prediction model. 
+The second component will be second quarter GDP, given such variable was the economic variable most related to popular vote shares in last week's blog post (link in last week). 
 
-When combining both predicitons with their respective weights, a final 2016 prediction model is acheived for both incumbents and non-incumbent candidates. Given this model, the prediction for the 2016 incumbent party candidate was X%, while the prediction for the prediction for the 2016 non-incumbent party candidate was Y%. We will now proceed to evaluate the accuracy of these predictions relative to other models. 
+Each of these components are weighted equally in our final prediction model for 2016. Given such model, the prediction for incumbent party candidate is 47.24%, and the prediction for the non-incumbent party candidate is 44.15%. Given the actual results were 47.06% and 44.92%, respectivley, such model seems viable; however, an evaluation of its predictive ability agaisnt other models is still necessary.  
 
-100 words
+
+
+
+
+
+
+
+
+
 
 
 
