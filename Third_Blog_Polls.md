@@ -30,6 +30,25 @@ Aside from uneven distribution, one of the other main takeaways from the graphs 
 
 **Constructing a Prediction Model** 
 
+Based on polling influence on elections, one of the variables our model will rely on is average approval. However, given the variation in quality, our model will weigh higher quality polls greater than lower quality polls. 
+what model contains, why weights, why i am doing what i am doing, need to mention 2 models, for both incumbent and non incumbent
+we will build a predictive model for the 2016 election first, so we can compare it to other models via the error relative to the actual
+
+The first component of our model is the weighted aggregate poll support. This was acheived by applying a weight of 0.75 for polls with a grade of A+, applying a weight of 0.2 for polls with a grade of A, and applying a weight of 0.05 for polls with a grade of A-. This component recieves a weight of 0.5 in my final 2016 prediction model. 
+
+The second component is the out-of-sample 2016 prediction for a second quarter GDP linear regression model. This component also recieves a weight of 0.5 in my final 2016 prediction model. 
+
+When combining both predicitons with their respective weights, a final 2016 prediction model is acheived for both incumbents and non-incumbent candidates. Given this model, the prediction for the 2016 incumbent party candidate was X%, while the prediction for the prediction for the 2016 non-incumbent party candidate was Y%. We will now proceed to evaluate the accuracy of these predictions relative to other models. 
+
+100 words
+
+
+
+
+
+
+
+
 
 
 
