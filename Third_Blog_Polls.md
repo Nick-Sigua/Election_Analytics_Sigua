@@ -9,7 +9,7 @@ Average Poll Support vs. Incumbent Popular Vote Share  |  Average Poll Support v
 :-------------------------:|:-------------------------:
 ![](Polls1.png)|![](Polls2.png)
 
-To understand how polls can predict election results, it is necessary to first understand the relationship between a candidate's average poll support and their subsequent popular vote share. The graphics above display historical trends for such, using aggregated measures of poll support for an incumbent or non-incumbent candidate six weeks before an election and the candidate's popular vote shares such given election from 1948 to 2016. Some of the major takeaways include:
+To understand how polls can predict election results, it is necessary to first understand the relationship between a candidate's average poll support and their subsequent popular vote share. The graphics above display historical trends for such, using aggregated measures of poll support for an incumbent or non-incumbent candidate six weeks before an election and said candidates' popular vote shares for such election from 1948 to 2016. Some of the major takeaways include:
 
 
 **The Variation in Pollster Quality** 
