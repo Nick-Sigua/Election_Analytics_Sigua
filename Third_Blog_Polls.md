@@ -13,8 +13,7 @@ To understand how polls can predict election results, it is necessary to first u
 
 * **A strong relationship.** The graphs indicate that a candidate's average support in the polls has historically been highly related to their respective popular vote shares. This is evident based on the generally linear and relativley narrow spread of the data points for both the incumbent and challenger graphs. 
 
-* **Higher incumbent accuracy.** While both graphs present strong and linear relationships for the variables in question, it is also clear that the relationship between a candidate's average support and their popular vote share is stronger for incumbent candidates than non-incumbent candidates. Such can be seen by the data points in the incumbent graph falling closer to a one-for-one diagonal line between the x-axis and y-axis than the non-incumbent graph. While there might be multiple reasons for this discrepancy, I will note incumbents are generally favored in elections.  Thus, there are fewer instances, and therefore less data, for challengers with average support in the polls greater than 50 percent.
-
+* **Higher incumbent accuracy.** While both graphs present strong and linear relationships for the variables in question, it is also clear that the relationship between a candidate's average support and their popular vote share is stronger for incumbent candidates than non-incumbent candidates. Such can be seen by the data points in the incumbent graph falling closer to a one-for-one diagonal line between the x-axis and y-axis than the non-incumbent graph. 
 
 **The Variation in Pollster Quality** 
 
@@ -25,8 +24,6 @@ To understand how polls can predict election results, it is necessary to first u
 When considering the relationship between the polls and a candidate's popular vote share, one must also be cognizant of the differences in quality between various polls. The graphic above demonstrates the variation in quality for national polls in the 2016 and 2020 elections, graded by FiveThirtyEight based on a given pollster's historical accuracy and methodology.
 
 **Uneven distribution.** One of the most apparent takeaways from analyzing the above graphs is that the 2016 and 2020 national election polls are not distributed equally across the quality. For example, for the 2016 election, there is a massive spike of A- and C+ graded polls, with relatively low counts for the rest of the grades. Similarly, in 2020 there is a massive spike of B/C graded polls with lower counts for the other grades.
-
-Aside from uneven distribution, one of the other main takeaways from the graphs is the number of poor quality polls, evidenced by the afromentioned spike in C+ polls in 2016 and a concurrent spike in B/C polls for 2020. Although such is to be expected, given the number of polls conducted, the prevalence of a substantial quantity of lower quality polls is important to understand moving forward and working with aggregate polling data.
 
 **Constructing a Prediction Model** 
 
