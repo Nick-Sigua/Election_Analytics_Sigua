@@ -13,7 +13,7 @@ To understand how polls can predict election results, it is necessary to first u
 
 * **A strong relationship.** The graphs indicate that a candidate's average support in the polls has historically been highly related to their respective popular vote shares. This is evident based on the generally linear and relativley narrow spread of the data points for both the incumbent and challenger graphs. 
 
-* **Higher incumbent accuracy.**
+* **Higher incumbent accuracy.** While both graphs present strong and linear relationships for the variables in question, it is also clear that the relationship between a candidate's average support and their popular vote share is stronger for incumbent candidates than non-incumbent candidates. Such can be seen by the data points in the incumbent graph falling closer to a one-for-one diaganol line between the x and y axis than the non-incumbent graph. While their might be multiple reasons for this discrepency, 
 
 
 **The Variation in Pollster Quality** 
