@@ -22,7 +22,7 @@ To understand how polls can predict election results, it is necessary to first u
 :-------------------------:|:-------------------------:
 ![](Polls3.png)|![](Poll4.png)
 
-When considering the relationship between the polls and a candidate's popular vote share, one must also be cognizant of the differences in quality between different polls. The graphs above demonstrate the variation in quality for national polls in the elections of 2016 and 2020, graded by FiveThirtyEight based on a given pollster's historical accuracy and methadology. 
+When considering the relationship between the polls and a candidate's popular vote share, one must also be cognizant of the differences in quality between various polls. The graphs above demonstrate the variation in quality for national polls in the 2016 and 2020 elections, graded by FiveThirtyEight based on a given pollster's historical accuracy and methodology.
 
 **Uneven distribution.** What is clear is that there is no symetry when it comes to distribution of quality. In 2016, there is a spike in polls with quality x, while in 2020 there is a spike in polls of quality y. Generally, there are more polls of B or higher than lower, but such is also segemented within its self (i.e A, A plus, A minus). One of the most suprsing things to me was the amount of bad polls, like many polls in C range, or lower. 
 use this to justify weighting for poll quality.
