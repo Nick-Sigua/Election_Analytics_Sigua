@@ -8,7 +8,7 @@ Polls have become a mainstay in the modern-day election. From the moment the pri
 
 GDP Quarterly Growth and GDP Yearly Growth  |  RDI Growth and Unemployment
 :-------------------------:|:-------------------------:
-![](Polls1.png)|![](Poll2.png)
+![](Polls1.png)|![](Polls2.png)
 
 
 
