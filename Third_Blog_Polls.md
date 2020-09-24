@@ -5,7 +5,7 @@ Polls have become a mainstay in the modern-day election. From the moment the pri
 
 **The Relationship between a Candidate's Average Poll Support and Popular Vote Share** 
 
-Average Poll Support vs. Incumbent Popular Vote Share (1968-2016) |  Average Poll Support vs. Challenger Popular Vote Share
+Average Poll Support vs. Incumbent Popular Vote Share (1968-2016) |  Average Poll Support vs. Challenger Popular Vote Share (1968-2016)
 :-------------------------:|:-------------------------:
 ![](Polls1.png)|![](Polls2.png)
 
