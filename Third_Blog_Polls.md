@@ -40,10 +40,10 @@ Each of these components is weighted equally in our final prediction model for 2
 
 | Model  | Variable(s)  | 2016 Incumbent Prediction  | 2016 Non-Incumbent Prediction  | Total Error  |
 |:-:|:-:|:-:|:-:|:-:|
-|  1 |   |   |   |   |
-|  2 |   |   |   |   |
-|  3 |   |   |   |   |
-|  4 |   |   |   |   |
+|  1 | Weighted Aggreagate Poll Support, 2nd Quarter GDP  | 47.24%  | 44.15%  | 0.96  |
+|  2 | 2nd Quarter GDP  | 48.26%  | 47.44%  | 3.69  |
+|  3 |  Average Poll Support | 46.88%  | 45.02%  | 0.28  |
+|  4 |  Average Poll Support, 2nd Quarter GDP |46.47%   | 46.68%  | 2.35  |
 
 
 
