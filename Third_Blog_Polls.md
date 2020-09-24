@@ -19,7 +19,7 @@ To understand how polls can predict election results, it is necessary to first u
 
 2016 Polls  |  2020 Polls
 :-------------------------:|:-------------------------:
-![](Polls3.png)|![](Poll4.png)
+![](Polls_3.png)|![](Polls4.png)
 
 When considering the relationship between the polls and a candidate's popular vote share, one must also be cognizant of the differences in quality between various polls. The graphic above demonstrates the variation in quality for national polls in the 2016 and 2020 elections, graded by FiveThirtyEight based on a given pollster's historical accuracy and methodology.
 
