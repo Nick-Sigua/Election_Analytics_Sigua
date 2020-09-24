@@ -22,3 +22,6 @@ To understand how polls can predict election results, it is necessary to first u
 ![](Polls3.png)|![](Poll4.png)
 
 
+
+
+
