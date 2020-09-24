@@ -15,6 +15,6 @@ GDP Quarterly Growth and GDP Yearly Growth  |  RDI Growth and Unemployment
 
 GDP Quarterly Growth and GDP Yearly Growth  |  RDI Growth and Unemployment
 :-------------------------:|:-------------------------:
-![](Polls3.png)|![](Polls4.png)
+![](Polls3.png)|![](Poll4.png)
 
 
