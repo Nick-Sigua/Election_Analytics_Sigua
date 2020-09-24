@@ -51,6 +51,10 @@ Given the total error values in the chart above, the model with the least error,
 
 **Model Prediction for 2020** 
 
+Using the univariate linear regression model based on average poll support for a given candidate (Model 3), my prediction for the incumbent party candidate's popular vote share in 2020 is 46.99% and 49.5% for the non-incumbent party candidate. 
+
+The prediction interval associated with my 2020 incumbent-party prediction ranges from a lower bound of 40.27% to an upper bound of 53.7%, while the prediction interval for my 2020 non-incumbent party prediction ranges from 40.65% to 58.36%. This indicates there is still some notable uncertainity associated with my predictions, although far less than when my model was based soley on second-quarter GDP last week. 
+
 
 
 
