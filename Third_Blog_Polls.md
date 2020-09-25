@@ -27,13 +27,13 @@ When considering the relationship between the polls and a candidate's popular vo
 
 **Constructing a Prediction Model** 
 
-When constructing a prediction model, we will consider its prediction for 2016 to evaluate such a model against the actual popular vote results for both the incumbent and the non-incumbent party candidates.
+When constructing a prediction model, we will consider its prediction for 2016 relative to the 2016 popular vote results to evaluate its predictive ability.
 
-Given the relationship between the polls and the popular vote, as well as the variation in quality between different polls, the first component of our 2016 prediction model will be aggregate support of 2016 national polls, weighted for quality. Polls with a higher grade will be weighted greater, or polls with grades of A+, A, and A- will receive a weight of 0.8, 0.2, and 0.05, respectively.
+Given the relationship between the polls and the popular vote, the first component of our 2016 prediction model will be a candidate's aggregate support from 2016 national polls. However, we will weigh polls of higher quality greater, given the variation in pollster quality we observed earlier; thus, polls with grades of A+, A, and A- will receive a weight of 0.8, 0.2, and 0.05, respectively, in our average support figure. 
 
-The second component will be second-quarter GDP, given such variable was the economic variable most related to popular vote shares in last week's blog post (link in last week).
+The second component of our model will be second-quarter GDP, given such variable was the economic variable most related to popular vote shares in last week's blog post (link in last week).
 
-Each of these components is weighted equally in our final prediction model for 2016. Given such a model, the prediction for the incumbent party candidate is 47.24%, and the prediction for the non-incumbent party candidate is 44.15%. Given the actual results were 47.06% and 44.92%, respectively, such a model seems viable; however, an evaluation of its predictive ability against other models is still necessary.
+Each of these components is weighted equally in our final prediction model for 2016. Given such a model, the prediction for the 2016 incumbent party candidate is 47.24%, and the prediction for the 2016 non-incumbent party candidate is 44.15%. Given the actual popular vote results were 47.06% and 44.92%, respectively, such a model seems viable; however, an evaluation of its predictive ability against other models is also necessary.
 
 **Evaluating Prediction Models** 
 
