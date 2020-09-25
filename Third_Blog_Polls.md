@@ -44,9 +44,9 @@ Each of these components is weighted equally in our final prediction model for 2
 |  3 |  Average Poll Support | 46.88%  | 45.02%  | 0.28  |
 |  4 |  Average Poll Support, 2nd Quarter GDP |46.47%   | 46.68%  | 2.35  |
 
-The table above compares the 2016 prediction for the model I constructed (denoted as Model 1) agaisnt the out-of-sample 2016 prediciton for various linear regression models; these linear regression models are based on the variables listed for Model 2, Model 3, and Model 4. Total error is calculated by summing the absolute value of the differences between a model's predictions and the actual popular vote results. 
+The table above compares the 2016 prediction from the model I constructed (Model 1) against the out-of-sample 2016 prediction from various linear regression models. These linear regression models are based on the variables listed for Model 2, Model 3, and Model 4. The total error is calculated by summing the absolute value of the differences between a model's predictions and the actual popular vote results.
 
-Given the total error values in the chart above, the model with the least error, and thus best predictive ability relative to the 2016 election, was Model 3. This concords with the relationship we observed earlier between the average poll support and popular vote share, and thus leads me to choose Model 3 for my 2020 election prediction. Such also means I will abandon last week's model (link), based solely on second-quarter GDP, as well as the model weighted for higher poll quality (Model 1). 
+The model with the least error, and thus best predictive ability relative to the 2016 election, is Model 3. This concords with the relationship we observed earlier between average support and popular vote share and leads me to choose Model 3 for my 2020 election prediction. Such also means I will abandon last week's model (Model 2), based solely on second-quarter GDP, as well as the model weighted for higher poll quality (Model 1).
 
 **Model Prediction for 2020** 
 
