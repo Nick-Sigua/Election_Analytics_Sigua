@@ -1,7 +1,7 @@
 # Polls in Popular Vote Predictions
 ## Sept 24, 2020
 
-From the moment the primaries start to the moment the general election ends, media coverage of a candidates' approval ratings seems non-stop. While such can be largely attributed to horse-race journalism, the emphasis on polls during the campaign season begs the question as to how predictive polls are in presidential elections. We will consider this question first by analyzing the historical relationship between a candidate's average support and their subsequent popular vote share. Then, we will consider the variation in the pollster quality and construct a predictive model based on weighing higher-quality polls greater. Finally, we will compare such a model to previous linear regression models and use the model with the least error relative to the 2016 results to predict the 2020 election.
+From the moment the primaries start to the moment the general election ends, media coverage of a candidates' approval ratings seems non-stop. While such can be largely attributed to horse-race journalism, the emphasis on polls during the campaign season begs the question as to how predictive polls are in presidential elections. I will consider this question first by analyzing the historical relationship between a candidate's average support and their subsequent popular vote share. Then, I will consider the variation in the pollster quality and construct a predictive model based on weighing higher-quality polls more. Finally, I will compare such a model to previous linear regression models and use the model with the least error relative to the 2016 results to predict the 2020 election.
 
 **The Relationship between a Candidate's Average Poll Support and Popular Vote Share** 
 
@@ -23,17 +23,17 @@ To understand how polls can predict election results, it is necessary to first u
 
 When considering the relationship between the polls and a candidate's popular vote share, one must also be aware of the differences in quality between various polls. The graphic above demonstrates the variation in quality for national polls in the 2016 and 2020 elections, graded by FiveThirtyEight based on a given pollster's historical accuracy and methodology.
 
-**Uneven distribution.** The most apparent takeaway from analyzing the above graphs is that the 2016 and 2020 national election polls are not distributed equally for quality. For example, in 2016, there was a massive spike of A- and C+ graded polls, with relatively low counts for the rest of the grades. Similarly, in 2020 there is a massive spike of B/C graded polls with lower counts for the other grades. In short, there is significant variation present in 2016 and 2020 pollster quality. 
+**Uneven distribution.** The most apparent takeaway from analyzing the above graphs is that the 2016 and 2020 national election polls are not distributed equally for quality. For example, in 2016, there was a massive spike of A- and C+ graded polls, with relatively low counts for the rest of the grades. Similarly, in 2020 there is a massive spike of B/C graded polls with lower counts for the other grades. In short, there is significant variation for 2016 and 2020 pollster quality. 
 
 **Constructing a Prediction Model** 
 
-When constructing a prediction model, we will consider its prediction for 2016 relative to the 2016 popular vote results to evaluate its predictive ability.
+When constructing a prediction model, I will consider its prediction for 2016 relative to the 2016 popular vote results to evaluate its predictive ability.
 
-Given the relationship between the polls and the popular vote, the first component of our 2016 prediction model will be a candidate's aggregate support from 2016 national polls. However, we will weigh polls of higher quality greater, given the variation in pollster quality we observed earlier; thus, polls with grades of A+, A, and A- will receive a weight of 0.8, 0.2, and 0.05, respectively, in our average support figure. 
+Given the relationship between the polls and the popular vote, the first component of my 2016 prediction model will be a candidate's aggregate support from 2016 national polls. However, I will weigh polls of higher quality greater, given the variation in pollster quality observed earlier; thus, polls with grades of A+, A, and A- will receive a weight of 0.8, 0.2, and 0.05, respectively, in the average support figure. 
 
-The second component of our model will be second-quarter GDP, given such was the economic variable most related to popular vote shares in [last week's blog post](Second_Blog_Economy.md).
+The second component of my model will be second-quarter GDP, given such was the economic variable most related to popular vote shares in [last week's blog post](Second_Blog_Economy.md).
 
-Each of these components is weighted equally in our final prediction model for 2016. Given such a model, the prediction for the 2016 incumbent party candidate is 47.24%, and the prediction for the 2016 non-incumbent party candidate is 44.15%. Given the actual popular vote results were 47.06% and 44.92%, respectively, such a model seems viable; however, an evaluation of its predictive ability against other models is also necessary.
+Each of these components is weighted equally in my final prediction model for 2016. Given such a model, the prediction for the 2016 incumbent party candidate is 47.24%, and the prediction for the 2016 non-incumbent party candidate is 44.15%. Given the actual popular vote results were 47.06% and 44.92%, respectively, such a model seems viable; however, an evaluation of its predictive ability against other models is also necessary.
 
 **Evaluating Prediction Models** 
 
@@ -60,7 +60,7 @@ The prediction interval associated with my 2020 incumbent-party prediction range
 
 **Final Takeaways** 
 
-Overall, my analysis has demonstrated that there is a significant relationship between average poll support and popular vote shares. After comparing various models, I found that the model reliant on a candidate’s average support had the greatest predictive ability relative to the 2016 election; I then used such a model to predict the 2020 election. Given this model was more predictive than the model incorporating aggregate poll support weighted for higher quality polls and second-quarter GDP, it seems that poll quality is not a significant factor in the predictive ability of polls; this is likely a function of poll biases canceling out in large samples of polls. Future models should consider applying different weights to polls and 2nd quarter GDP or incorporating new variables altogether.
+Overall, my analysis has demonstrated that there is a significant relationship between average poll support and popular vote shares. After comparing various models, I found that the model reliant on a candidate’s average support had the greatest predictive ability relative to the 2016 election; I then used such a model to predict the 2020 election. Given this model was more predictive than the model incorporating aggregate poll support weighted for higher quality polls and second-quarter GDP, it seems that poll quality is not a significant factor in the predictive ability of polls; this is likely a function of poll biases canceling out in large samples of polls. Future models should consider applying different weights to polls and 2nd quarter GDP or incorporating new variables.
 
 
 
