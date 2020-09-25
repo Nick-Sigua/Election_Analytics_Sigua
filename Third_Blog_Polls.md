@@ -11,9 +11,9 @@ Average Poll Support vs. Incumbent Popular Vote Share (1968-2016) |  Average Pol
 
 To understand how polls can predict election results, it is necessary to first understand the relationship between a candidate's average support in the polls and popular vote share. The graphics above display historical trends for such, using aggregated measures of poll support for an incumbent or non-incumbent candidate six weeks before an election and said candidates' popular vote shares from 1968 to 2016. Some of the major takeaways include:
 
-* **A strong relationship.** The graphs indicate that a candidate's average support in the polls has historically been highly related to their respective popular vote shares. This is evident based on the generally linear and relativley narrow spread of the data points for both the incumbent and challenger graphs. 
+* **A strong relationship.** The graphs indicate that a candidate's average support in the polls has historically been highly related to their respective popular vote share. This is evident based on the mostly linear and relatively narrow spread of the data points for both graphs.
 
-* **Higher incumbent accuracy.** While both graphs present strong and linear relationships for the variables in question, it is also clear that the relationship between a candidate's average support and their popular vote share is stronger for incumbent candidates than non-incumbent candidates. Such can be seen by the data points in the incumbent graph falling closer to a one-for-one diagonal line between the x-axis and y-axis than the non-incumbent graph. 
+* **Higher incumbent accuracy.** The graphic also illustrates how the relationship between a candidate's average support and popular vote share is stronger for incumbent party candidates than non-incumbent party candidates. Such can be seen by the data points in the incumbent party graph falling closer to a one-for-one diagonal line between the x-axis and y-axis than the non-incumbent party graph.
 
 **The Variation in Pollster Quality** 
 
