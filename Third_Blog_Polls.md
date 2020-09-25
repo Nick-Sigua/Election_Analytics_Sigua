@@ -31,7 +31,7 @@ When constructing a prediction model, we will consider its prediction for 2016 r
 
 Given the relationship between the polls and the popular vote, the first component of our 2016 prediction model will be a candidate's aggregate support from 2016 national polls. However, we will weigh polls of higher quality greater, given the variation in pollster quality we observed earlier; thus, polls with grades of A+, A, and A- will receive a weight of 0.8, 0.2, and 0.05, respectively, in our average support figure. 
 
-The second component of our model will be second-quarter GDP, given such variable was the economic variable most related to popular vote shares in last week's blog post (link in last week).
+The second component of our model will be second-quarter GDP, given such was the economic variable most related to popular vote shares in last week's blog post (link in last week).
 
 Each of these components is weighted equally in our final prediction model for 2016. Given such a model, the prediction for the 2016 incumbent party candidate is 47.24%, and the prediction for the 2016 non-incumbent party candidate is 44.15%. Given the actual popular vote results were 47.06% and 44.92%, respectively, such a model seems viable; however, an evaluation of its predictive ability against other models is also necessary.
 
