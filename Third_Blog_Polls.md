@@ -60,7 +60,7 @@ The prediction interval associated with my 2020 incumbent-party prediction range
 
 **Final Takeaways** 
 
-Overall, our analysis has demonstrated a significant relationship between average poll support and popular vote share. After comparing various models, I found that the model reliant on a candidate’s average poll support had the greatest predictive ability relative to the 2016 election; I then used it to predict the 2020 election. Given the linear regression model for average poll support was more predictive than the model incorporating aggregate poll support weighted for higher quality polls and second-quarter GDP, it seems that poll quality is not a major factor in the predictive ability of polls; this is likely a function of poll biases canceling out in large samples of polls. Future models should consider applying different weights to polls and 2nd quarter GDP or even incorporating new variables altogether. 
+Overall, my analysis has demonstrated that there is a significant relationship between average poll support and popular vote shares. After comparing various models, I found that the model reliant on a candidate’s average support had the greatest predictive ability relative to the 2016 election; I then used such a model to predict the 2020 election. Given this model was more predictive than the model incorporating aggregate poll support weighted for higher quality polls and second-quarter GDP, it seems that poll quality is not a significant factor in the predictive ability of polls; this is likely a function of poll biases canceling out in large samples of polls. Future models should consider applying different weights to polls and 2nd quarter GDP or incorporating new variables altogether.
 
 
 
