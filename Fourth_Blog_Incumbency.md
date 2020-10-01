@@ -17,5 +17,6 @@ To understand how incumbency status can affect election predictions, it is neces
 
 
 This fits in with the commonly held notion that incumbets perform better than non-incumbets, 
+in other words, a majority of the data points for non-incumbets lie below the 50 percent line, while the majority of data points for incumbents lie above the 50 percent line
 
 
