@@ -15,6 +15,7 @@ To understand how incumbency status can affect election predictions, it is neces
 
 * **Greater spread for incumbets.** The graphic also illustrates that there is a greater spread of two-party vote share figures for incumbent candidates than non-incumbent candidates. In other words, while the middle 50% of popular vote shares fall between 48.24% and 58.10% for incumbent candidates, the middle 50% of popular vote shares for non-incumbent candidates only falls between 46.21% and 51.14%. 
 
+**The Time-For-Change Model** 
 
 
 
