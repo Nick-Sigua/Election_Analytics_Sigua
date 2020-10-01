@@ -19,9 +19,9 @@ To understand how incumbency status can affect election predictions, it is neces
 
 The time-for-change model is a linear regression model that leverages the afromentioned incumbent advantage among other variables to predict an incumbent party candidate's two-party popular vote share. 
 
-The first component of this model is second quarter GDP. In previous weeks, we have establiushed this fundamental variable is important, which is also seen here
+The first component of this model is the election-year second quarter GDP. In my second blog (link on words), I established how this fundamental variable is the most predictive economic measure relative to all others; thus, its inclusion in the time-for-change models is justfied. 
 
-The second component is job approval
+The second component is the incumbent president's net approval rating in a recent Gallup poll. 
 
 The third component is incubency. talk about how is leverages the fact that first term incumbers gets advantage, but not 2 term party candidates
 
