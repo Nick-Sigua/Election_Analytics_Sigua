@@ -17,7 +17,7 @@ To understand how incumbency status can affect election predictions, it is neces
 
 **The Time-For-Change Model** 
 
-The time-for-change model is a linear regression model that leverages the established incumbent advantage among other variables to predict the incumbent party candidate's two-party popular vote share. 
+The time-for-change model is a linear regression model that leverages the afromentioned incumbent advantage among other variables to predict an incumbent party candidate's two-party popular vote share. 
 
 The first component of this model is second quarter GDP. In previous weeks, we have establiushed this fundamental variable is important, which is also seen here
 
