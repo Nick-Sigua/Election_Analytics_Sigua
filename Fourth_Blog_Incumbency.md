@@ -21,9 +21,9 @@ The time-for-change model is a linear regression model that leverages the afrome
 
 The first component of this model is the election-year second quarter GDP. In my second blog (link on words), I established how this fundamental variable is the most predictive economic measure relative to all others; thus, its inclusion in the time-for-change models is justfied. 
 
-The second component is the incumbent president's net approval rating in the latest Gallup poll. 
+The second component is the incumbent president's net approval rating in the latest Gallup poll. This holds the incumbent party candidate’s popular vote share relative to the current serving president’s job approval ratings, given voters view elections as a referendum on parties currently holding power (source?).
 
-The third component is incubency. talk about how is leverages the fact that first term incumbers gets advantage, but not 2 term party candidates
+The third component is incumbency status. talk about how is leverages the fact that first term incumbers gets advantage
 
 ultiamtley, this creates a model that has been hostorically successful. we wil compare it to other next
 
