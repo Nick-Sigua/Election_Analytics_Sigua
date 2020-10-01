@@ -7,4 +7,4 @@ It is common knowledge in the political science space that incumbents tend to pe
 
 Graph here
 
-![](Incumbent.png)
+![](Incumbent1.png)
