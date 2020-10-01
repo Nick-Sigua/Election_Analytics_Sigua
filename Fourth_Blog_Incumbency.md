@@ -1,7 +1,11 @@
 # The Incumbency Advantage and Time For Change Model
 ## Oct 2, 2020
 
-Incumbents have a historically good record, common held beleif that they do better. Winning 9/14 elections since 1960 (look up how many times incumbents win), they seem to fare far better than their non-incumbent counterparts. But is this advantage trully impactful in elections? In this blog, we will explore such dynamic, first analyzing the historical popular vote share of incumbent candidates vs non incumbents, then analyzing how the incumbency advantage is used in models like the Time for change model, and finally comparing the time for change model to previous models (i.e avg support). 
+It is common knowledge in the political science space that incumbents tend to perform better than non-incumbents in elections. In fact, since 1932, only three presidents have failed in their re-election bids. But this begs the question, how does this incumbency advantage affect electoral predictions? In this blog, I will explore this question, first by analyzing the historical popular vote share of incumbent candidates vs non incumbents. Then, I will highlight how the incumbency advantage is factored into models like the "time-for-change" model. Finally, I will compare the time-for-change model to model's from previous weeks and evaluate such on their in-sample fit and out-of-sample error. 
+
+
+check question
+electoral or elections
 
 **The Relationship between a Candidate's Incumbency Status and Popular Vote Share** 
 
