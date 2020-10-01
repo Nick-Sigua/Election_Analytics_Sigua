@@ -13,10 +13,12 @@ To understand how incumbency status can affect election predictions, it is neces
 
 * **A higher median vote share for incumbents.** The boxplots indicate that an incumbent candidate's two-party vote share has historically been higher than a non-incumbent candidiates' two-party popular vote share. This is evident given the greater median two-party vote share for incumbent candidates relative to non-incumbent candidates, which fits in with the commonly held notion that incumbets perform better than non-incumbets. 
 
-* **Smaller spread for non-incumbets.** The graphic also illustrates how the relationship between a candidate's average support and popular vote share is stronger for incumbent party candidates than non-incumbent party candidates. Such can be seen by the data points in the incumbent party graph falling closer to a one-for-one diagonal line between the x-axis and y-axis than the non-incumbent party graph.
+* **Greater spread for incumbets.** The graphic also illustrates that there is a greater spread of two-party vote share figures for incumbent candidates than non-incumbent candidates. In other words, while the middle 50% of popular vote shares fall between 48.24% and 58.10% for incumbent candidates, the middle 50% of popular vote shares for non-incumbent candidates only falls between 46.21% and 51.14%. 
 
 
 
-in other words, a majority of the data points for non-incumbets lie below the 50 percent line, while the majority of data points for incumbents lie above the 50 percent line
+
+
+
 
 
