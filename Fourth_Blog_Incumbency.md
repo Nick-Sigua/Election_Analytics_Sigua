@@ -5,6 +5,6 @@ It is common knowledge in the political science space that incumbents tend to pe
 
 **The Relationship between a Candidate's Incumbency Status and Two-Party Popular Vote Share** 
 
-Graph here
-
-![](Incumbent1.png)
+|Incumbency Status vs. Two-Party Popular Vote Share (1948-2016) |
+|:-:|
+|![](Incumbent1.png)|
