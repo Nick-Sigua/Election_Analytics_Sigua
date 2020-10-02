@@ -10,4 +10,7 @@ Week #2 Blog:
 
 Week #3 Blog:                                                                                                               
 [The Polls in Popular Vote Predictions](Third_Blog_Polls.md)
- 
+
+Week #4 Blog:                                                                                             
+[The Incumbency Advantage and Time For Change Model](Fourth_Blog_Incumbency.md)
+
