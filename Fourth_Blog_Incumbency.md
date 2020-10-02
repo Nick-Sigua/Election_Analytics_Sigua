@@ -34,7 +34,15 @@ Ultimately, the time-for-change model has been historically successful, with suc
 | Time-For-Change | Second Quarter GDP, Net Approval, Incumbency Status | 0.68 | 2.87  | -2.86  | 1.45  |
 | Week 3 | Average Support  | 0.72  | 2.50   | -0.91  | 1.56   |
 
+As the table demonstrates, I will compare the time for change model to my previous best model, a linear regression based on average support, based on their in-sample fits and out of sample errors, with the variables in the table indicaiting these. each of these models is predicting the pv2p of incumbent party candidate. 
 
+In sample fit. based on R swuared and mean squared error,The in-sample fit is best for..
+
+Out-of-sample error. Based on leave one out and cross validaigon, the best out-ofpsample error is..
+
+Ultiamtley, both models have their good and bad. If i were to pick one, time for change seems better slightly, given the greater relevance of out of sample error compared to in sample fit. 
+
+remeber, my predicitons are for pv2p
 
 **Prediction for 2020** 
 
