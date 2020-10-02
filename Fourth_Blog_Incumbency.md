@@ -42,6 +42,6 @@ As the table demonstrates, I will compare the time-for-change model to [my previ
 
 Overall, both models have fair in-sample fit and out-of-sample error. However, given the time-for-change model has a lower out-of-sample error, I would ultimately consider the time-for-change model more predictive of an incumbent party candidate's two-party popular vote share than the week 3 model. 
 
-**Prediction for 2020** 
+**Predictions for 2020** 
 
 
