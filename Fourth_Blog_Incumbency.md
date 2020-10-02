@@ -34,7 +34,7 @@ Ultimately, the time-for-change model has been historically successful, with suc
 | Time-For-Change | Second Quarter GDP, Net Approval, Incumbency Status | 0.68 | 2.87  | -2.86  | 1.45  |
 | Week 3 | Average Support  | 0.72  | 2.50   | -0.91  | 1.56   |
 
-As the table demonstrates, I will compare the time-for-change model to my previous best model, a linear regression model based on average support. I will evaluate each model's predictive ability of an incumbent party candidate's two-party popular vote share based on their in-sample fit and out-of-sample error, with the variables in the table giving insight into each of these metrics.
+As the table demonstrates, I will compare the time-for-change model to my previous best model(link "previous best model" to week 3) (Week 3), a linear regression model based on average support. I will evaluate each model's predictive ability of an incumbent party candidate's two-party popular vote share based on their in-sample fit and out-of-sample error, with the variables in the table giving insight into each of these metrics.
 
 **In-sample fit.** Based on R swuared and mean squared error,The in-sample fit is best for..
 
