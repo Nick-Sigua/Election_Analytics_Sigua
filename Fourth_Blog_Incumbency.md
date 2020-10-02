@@ -31,8 +31,8 @@ Ultimately, the time-for-change model has been historically successful, with suc
 
 |Model | Variable(s)  | R-squared  | Mean Squared Error   | Leave One Out Validation   | Cross Validation  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| Time-For-Change | Second Quarter GDP, Net Approval, Incumbency Status | 0.685 | 2.875  | -2.856  | 1.45  |
-| Week 3 | Average Support  | 0.721  | 2.5   | -0.908  | 1.56   |
+| Time-For-Change | Second Quarter GDP, Net Approval, Incumbency Status | 0.68 | 2.87  | -2.86  | 1.45  |
+| Week 3 | Average Support  | 0.72  | 2.50   | -0.91  | 1.56   |
 
 
 
