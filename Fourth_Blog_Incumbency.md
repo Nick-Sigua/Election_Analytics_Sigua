@@ -36,7 +36,7 @@ Ultimately, the time-for-change model has been historically successful, with suc
 
 As the table demonstrates, I will compare the time-for-change model to my previous best model(link "previous best model" to week 3) (Week 3), a linear regression model based on average support. I will evaluate each model's predictive ability of an incumbent party candidate's two-party popular vote share based on their in-sample fit and out-of-sample error, with the variables in the table giving insight into each of these metrics.
 
-**In-sample fit.** Based on R swuared and mean squared error,The in-sample fit is best for..
+**In-sample fit.** Given the relatively high r-squared and low mean squared error values, the model with the best in-sample fit is the Week 3 model, based on average poll support. 
 
 **Out-of-sample error.** Based on leave one out and cross validaigon, the best out-ofpsample error is..
 
