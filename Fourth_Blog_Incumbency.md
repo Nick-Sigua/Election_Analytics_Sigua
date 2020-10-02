@@ -36,11 +36,11 @@ Ultimately, the time-for-change model has been historically successful, with suc
 
 As the table demonstrates, I will compare the time-for-change model to my previous best model(link "previous best model" to week 3) (Week 3), a linear regression model based on average support. I will evaluate each model's predictive ability of an incumbent party candidate's two-party popular vote share based on their in-sample fit and out-of-sample error, with the variables in the table giving insight into each of these metrics.
 
-**In-sample fit.** Given the relatively high r-squared and low mean squared error values, the model with the best in-sample fit is the Week 3 model, based on average poll support. 
+**In-sample fit.** Given the relatively high r-squared and low mean squared error values, the model with the best in-sample fit is the week 3 model, based on average poll support. 
 
-**Out-of-sample error.** Based on leave one out and cross validaigon, the best out-ofpsample error is..
+**Out-of-sample error.** Although my week 3 model has the lower leave-one-out validation value, the model with the least out-of-sample error is the time-for-change model. This is due to the time-for-change model having a lower cross-validation value than my week 3 model, which is more indicative of out-of-sample error given it averages multiple leave-one-out error values. 
 
-Ultiamtley, both models have their good and bad. If i were to pick one, time for change seems better slightly, given the greater relevance of out of sample error compared to in sample fit in predictions. 
+Overall, both models have fair in-sample fit and out-of-sample error. However, given the time-for-change model has a lower out-of-sample error, I would ultimately consider the time-for-change model more predictive of an incumbent party candidate's two-party popular vote share than the week 3 model. 
 
 **Prediction for 2020** 
 
