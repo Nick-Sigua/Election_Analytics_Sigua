@@ -19,13 +19,18 @@ To understand how incumbency status can affect election predictions, it is neces
 
 The time-for-change model is a linear regression model that leverages the afromentioned incumbent advantage among other variables to predict an incumbent party candidate's two-party popular vote share. 
 
-The first component of this model is the election-year second quarter GDP. In my second blog (link on words), I established how this fundamental variable is the most predictive economic measure relative to all others; thus, its inclusion in the time-for-change models is justfied. 
+The first component of this model is the election-year second-quarter GDP. In my second blog (link on words), I established how this fundamental variable is the most predictive economic measure relative to all others; thus, its inclusion in the time-for-change models is justified. 
 
-The second component is the incumbent president's net approval rating in the latest Gallup poll. This holds the incumbent party candidate’s popular vote share relative to the current serving president’s job approval ratings, given voters view elections as a referendum on parties currently holding power (source?).
+The second component is the incumbent president's net approval rating in the latest Gallup poll. This holds the incumbent party candidate's popular vote share relative to the current serving president's job approval ratings, given voters view elections as a referendum on parties currently holding power (source?).
 
-The third component is incumbency status. talk about how is leverages the fact that first term incumbers gets advantage
+The third component is the incumbency status. As previously mentioned, this allows the model to factor in the incumbency advantage in election predictions. More specifically, the model factors that incumbency status is associated with a 2.87 percent increase in the incumbent party candidate's two-party popular vote share. 
 
-ultiamtley, this creates a model that has been hostorically successful. we wil compare it to other next
+Ultimately, the time-for-change model has been historically successful, with such model only having a true out-of-sample popular vote prediction error of 1.7%. Nevertheless, it's necessary to evaluate such model against others to determine its predictive ability. 
+
+**Evaluating Prediction Models** 
+
+Table
+
 
 
 
