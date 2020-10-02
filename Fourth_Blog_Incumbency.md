@@ -38,7 +38,7 @@ As the table demonstrates, I will compare the time-for-change model to [my previ
 
 **In-sample fit.** Given the relatively high r-squared and low mean squared error values, the model with the best in-sample fit is the week 3 model.
 
-**Out-of-sample error.** Although my week 3 model has a lower leave-one-out validation value, the model with the least out-of-sample error is the time-for-change model. This is due to such model having a lower cross-validation value than my week 3 model, which is more indicative of out-of-sample error given it averages multiple leave-one-out validation values. 
+**Out-of-sample error.** Although my week 3 model has a lower leave-one-out validation value, the model with the least out-of-sample error is the time-for-change model. This is due to such model having a lower cross-validation value than my week 3 model, which is more indicative of out-of-sample error given it averages multiple leave-one-out validations.
 
 Overall, both models have fair in-sample fit and out-of-sample error. However, given the time-for-change model has a lower out-of-sample error, I would ultimately consider the time-for-change model more predictive of an incumbent party candidate's two-party popular vote share than the week 3 model. 
 
