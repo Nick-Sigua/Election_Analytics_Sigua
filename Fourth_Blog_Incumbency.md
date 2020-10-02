@@ -44,4 +44,15 @@ Overall, both models have fair in-sample fit and out-of-sample error. However, g
 
 **Predictions for 2020** 
 
+The time-for-change model's prediction for the incumbent party candidate's (Trump) two-party popular vote share is 31.76%. This is substiantially lower than the prediction associated with my week 3 model, with stands at 50.04%. 
+
+One possible reason for this discrepensy is the time-for-change model's inclusion of second-quarter GDP, which was drastically lower than in any previous election years. 
+
+The prediction interval associated with each model's predictions also differed, with time-for-change model interval, x and y, substnatially higher than other model, ranging from x to y. 
+
+ultimately, the differences in predicitons from both models underscores sensitivty in predicitons, as well as the smaller role incumbency might play given its small affect on tfc model's low predicted pv2p for trump. 
+
+
+
+
 
