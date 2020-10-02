@@ -46,13 +46,13 @@ Overall, both models have fair in-sample fit and out-of-sample error. However, g
 
 The time-for-change model's prediction for the incumbent party candidate's (Trump) two-party popular vote share is 31.76%. This is substantially lower than the prediction associated with my week 3 model, which stands at 50.04%. One possible reason for this discrepancy is the time-for-change model's inclusion of second-quarter GDP, which is drastically lower in 2020 than in any previous election year post-1948. 
 
-The prediction interval associated with each model's predictions also differed, with the time-for-change model's prediction interval, ranging from 12.15% to 51.36%, being substantially higher than my week 3 model's interval, which ranged from 43.8% to 56.28%. 
+The prediction interval associated with each model's predictions also differed, with the time-for-change model's prediction interval, ranging from 12.15% to 51.36%, being substantially wider than my week 3 model's interval, which ranged from 43.8% to 56.28%. 
 
 Ultimately, the differences in the predictions associated with both models underscore the uncertainty in predicting the 2020 incumbent party candidate's vote share. Such predictions also indicate the smaller role incumbency might play in the 2020 election, given its small effect on the time-for-change model's low two-party vote share prediction for Trump. 
 
 **Final Takeaways** 
 
-Overall, my analysis has demonstrated while there is an incumbency advantage in presidential elections, given incumbents have historically performed better than non-incumbents, such will not play a significant role in the 2020 election, given the time-for-change model’s low prediction for Trump. Moreover, while a comparison between both the time-for-change model and my week 3 model demonstrates that the time-for-change model has the greater predictive ability, its inclusion of second-quarter election year GDP drags its overall prediction for 2020 down. Future models should consider leveraging these factors in the construction of a predictive model for 2020. 
+Overall, my analysis has demonstrated while there is an incumbency advantage in presidential elections, given incumbents have historically performed better than non-incumbents, such will not play a significant role in the 2020 election, given the time-for-change model’s low prediction for Trump. Moreover, while a comparison between the time-for-change model and my week 3 model demonstrates that the time-for-change model has the greater predictive ability, its inclusion of second-quarter election year GDP drags its overall prediction for 2020 down. Future models should consider leveraging these factors in the construction of new predictive models for 2020. 
 
 
 
