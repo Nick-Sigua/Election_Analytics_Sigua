@@ -29,10 +29,10 @@ Ultimately, the time-for-change model has been historically successful, with suc
 
 **Evaluating Prediction Models** 
 
-|Model | Variable  | R-squared  | Mean Squared Error   | Leave One Out Validation   | Cross Validation  |
+|Model | Variable(s)  | R-squared  | Mean Squared Error   | Leave One Out Validation   | Cross Validation  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1 |   |   |   |   |   |
-| 2 |   |   |   |   |   |
+| Time-For-Change | Second Quarter GDP, Net Approval, Incumbency Status |   |   |   |   |
+| Week 3 | Average Support  |   |   |   |   |
 
 
 
