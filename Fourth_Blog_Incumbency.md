@@ -17,7 +17,7 @@ To understand how incumbency status can affect election predictions, it is neces
 
 **The Time-For-Change Model** 
 
-The time-for-change model is a linear regression model that leverages the afromentioned incumbent advantage among other variables to predict an incumbent party candidate's two-party popular vote share. 
+The time-for-change model is a linear regression model that leverages the afromentioned incumbent advantage among other variables to predict an incumbent party candidate's two-party popular vote share ([PollyVote](https://pollyvote.com/en/components/models/retrospective/fundamentals-plus-models/time-for-change-model/))
 
 The first component of this model is the election-year second-quarter GDP. In [my second blog](Second_Blog_Economy.md), I established how this fundamental variable is the most predictive economic measure relative to all others; thus, its inclusion in the time-for-change models is justified. 
 
