@@ -19,7 +19,7 @@ To understand how incumbency status can affect election predictions, it is neces
 
 The time-for-change model is a linear regression model that leverages the afromentioned incumbent advantage among other variables to predict an incumbent party candidate's two-party popular vote share. 
 
-The first component of this model is the election-year second-quarter GDP. In my second blog (link on words), I established how this fundamental variable is the most predictive economic measure relative to all others; thus, its inclusion in the time-for-change models is justified. 
+The first component of this model is the election-year second-quarter GDP. In [my second blog](Second_Blog_Economy.md), I established how this fundamental variable is the most predictive economic measure relative to all others; thus, its inclusion in the time-for-change models is justified. 
 
 The second component is the incumbent president's net approval rating in the latest Gallup poll. This holds the incumbent party candidate's popular vote share relative to the current serving president's job approval ratings, given voters view elections as a referendum on parties currently holding power (source?).
 
@@ -34,7 +34,7 @@ Ultimately, the time-for-change model has been historically successful, with suc
 | Time-For-Change | Second Quarter GDP, Net Approval, Incumbency Status | 0.68 | 2.87  | -2.86  | 1.45  |
 | Week 3 | Average Support  | 0.72  | 2.50   | -0.91  | 1.56   |
 
-As the table demonstrates, I will compare the time-for-change model to my previous best model(link "previous best model" to week 3) (Week 3), a linear regression model based on average support. I will evaluate each model's predictive ability of an incumbent party candidate's two-party popular vote share based on their in-sample fit and out-of-sample error, with the variables in the table giving insight into each of these metrics.
+As the table demonstrates, I will compare the time-for-change model to [my previous best model](Third_Blog_Polls.md) (Week 3), a linear regression model based on average support. I will evaluate each model's predictive ability of an incumbent party candidate's two-party popular vote share based on their in-sample fit and out-of-sample error, with the variables in the table giving insight into each of these metrics.
 
 **In-sample fit.** Given the relatively high r-squared and low mean squared error values, the model with the best in-sample fit is the week 3 model.
 
