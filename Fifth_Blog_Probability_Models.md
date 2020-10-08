@@ -16,7 +16,7 @@ Missing data. the missing data makes it hard for such probabilistc map to give a
 
 **Swing States 2020**
 
-Given an analysis of the win margins for every state does not give that insightful of answers, given missing data and limited data, an analysis into each swing state will likely yeild more substantitve takewaways. In this section, I will consider the win margins for 5 key states, based on the NYT, and what this means, based on the polls in these states 27 days from the election
+Given an analysis of the win margins for every state does not give that insightful of answers, given missing data and limited data, an analysis focusing on each swing state will likely yeild more substantitve takewaways. In this section, I will consider the win margins for 5 key states, based on the NYT, and what this means, based on the polls in these states 27 days from the election
 
 make a table of 5 contains all 5 states. 
 
