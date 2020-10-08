@@ -10,7 +10,7 @@ Map here
 
 This map demonstrates the 2020 election win margin for biden in each state, based on average support. Although there is a lot of informaiton, there are a couple of discpeencies. The main takeaways are:
 
-Biden favored. based on the state by state data, the probabilistc models favor biden. this falls in line with earlier weeks based on polls, given biden's current lead in the polls. The following translates to the probabilistic models for the united states. 
+Biden favored. from the data availible, the probabilistc models favor biden. this falls in line with earlier weeks based on polls, given biden's current lead in the polls. The following translates to the probabilistic models for the united states. 
 
 Missing data. the missing data makes it hard for such probabilistc map to give a sense of eleciton outcomes. many states dont have answers. moreover, limited data makes some state's win margins less than reasonable. Given this missing data, a different anlysis by focusing on the key swing states of the election is necessary, as opposed to considering the entire map. 
 
