@@ -7,7 +7,7 @@ Throughout previous blogs, I have relied on linear regression models to derive e
 
 |Incumbency Status vs. Two-Party Popular Vote Share (1948-2016) |
 |:-:|
-|![](Prob1.png)|
+|![](Prob_1.png)|
 
 This map demonstrates the 2020 win margins for the Democratic candidate, Joe Biden, relative to the Republican candidate Donald Trump. The win margin is derived from the predicted distribution of draws (10,000 draws) from the population (i.e the voting-eligible population) in each state, with the draw probability for Biden and Trump based on their average support. The main takeaways are:
 
