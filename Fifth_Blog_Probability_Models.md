@@ -47,7 +47,7 @@ Based on my probabilistic model and resulting win margins, Biden has a clear adv
 
 **Final Takeaways**
 
-In this blog, we used probabalistic models to evaaltue the electoral prospects for the 2020 candidates. An analysis of the swing states affirms earlier blog's favoring biden using linear regression models, as biden seems like he will take the swing states, and thus stands a pole positon for the elections. OF course, polls are not the only metric for evalauting candidate, but based on my findings in previous blogs, stands as a good indicator for the upcoming election. 
+In this blog, I used probabilistic models to evaluate the electoral prospects for the 2020 candidates. By calculating the Democratic candidate’s win margin, based on their average poll support, I was able to project that Biden would take the majority of the battleground state electoral votes, and thus stands a greater chance of winning the 2020 election. This analysis affirms previous model predictions based on linear regressions of average poll support. Of course, polls are not the only variable in predicting elections; future probabilistic models could consider incorporating other variables, like incumbency status and 2nd quarter GDP. 
 
 
 
