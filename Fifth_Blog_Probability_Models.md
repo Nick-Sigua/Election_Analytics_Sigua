@@ -35,7 +35,12 @@ The breakdown for the above battleground states' win margins are as follows:
 
 * **Florida.** Biden's win margin in Florida is just over 5%. Given Biden's average support in Florida is 48.78%, relative to Trump's average support of 44.71%, Biden's projected win margin closely follows the candidates' average support in the state. Such win margin also means Biden would carry the pivotal 29 electoral votes from Florida. 
 
-* **Ohio.** Biden's win margin in Florida is just over 5%. Given Biden's average support in Florida is 48.78%, relative to Trump's average support of 44.71%, Biden's projected win margin closely follows the candidates' average support in the state. Such win margin also means Biden would carry the pivotal 29 electoral votes from Florida. 
+* **Ohio.** Biden's win margin in Florida is appoximatley -1%. Given Biden's average support in Florida is 46.8%, relative to Trump's average support of 46.66%, Biden's projected win margin slightly understates his advantage in the polls. This also means Trump would carry the 19 electoral votes from Ohio. 
+
+* **Georgia.** Biden's win margin in Florida is appoximatley -1%. Given Biden's average support in Florida is 46.8%, relative to Trump's average support of 46.66%, Biden's projected win margin slightly understates his advantage in the polls. This also means Trump would carry the 19 electoral votes from Ohio. 
+
+
+
 
 This tells us that, in the most important states, Biden has the clear advantage. Basesd on our probabalistc models, Biden stands a good chance of carriyng X of the Y total electoral votes. This is significnat, as a decisisve win in the swing states gives Biden a significantly higher chance of winning the eleciton. This is in stark contrast to 2016, which, as blog 1 demonstrated, had trump dispoportionalty take the electoral votes in the swing states, and led him to victory. 
 
