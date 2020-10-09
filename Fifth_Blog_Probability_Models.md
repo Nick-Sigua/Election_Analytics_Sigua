@@ -5,7 +5,9 @@ Throughout previous blogs, I have relied on linear regression models to derive e
 
 **The 2020 Map**
 
-Map here
+|Incumbency Status vs. Two-Party Popular Vote Share (1948-2016) |
+|:-:|
+|![](Prob1.png)|
 
 This map demonstrates the 2020 election win margin for biden in each state, based on average support. Although there is a lot of informaiton, there are a couple of discpeencies. The main takeaways are:
 
