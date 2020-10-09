@@ -39,8 +39,9 @@ The breakdown for the above battleground states' win margins are as follows:
 
 * **Georgia.** Biden's win margin in Georgia is over 5%. Given Biden's average support in Georgia is 47%, relative to Trump's average support of 46.63%, Biden's projected win margin overstates his advantage in the polls by a notable degree. This also means Biden would carry the 16 electoral votes from Georgia. 
 
-* **North Carolina.** Biden's win margin in North Carolina is just over 4%. Given Biden's average support in Georgia is 47%, relative to Trump's average support of 46.63%, Biden's projected win margin overstates his advantage in the polls by a notable degree. This also means Biden would carry the 16 electoral votes from Georgia.
+* **North Carolina.** Biden's win margin in North Carolina is just over 4%. Given Biden's average support in North Carolina is 48.35%, relative to Trump's average support of 46.47%, Biden's projected win margin slightly overstates his advantage in the polls. This also means Biden would carry the 15 electoral votes from Georgia.
 
+* **Iowa.** Biden's win margin in Iowa is just over 4%. Given Biden's average support in North Carolina is 48.35%, relative to Trump's average support of 46.47%, Biden's projected win margin slightly overstates his advantage in the polls. This also means Biden would carry the 15 electoral votes from Georgia.
 
 
 based on my probabilistic model and resulting win margins, biden has the clear advantage. 
