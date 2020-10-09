@@ -17,7 +17,7 @@ This map demonstrates the 2020 win margins for the Democratic candidate, Joe Bid
 
 **Win Margins for the Battleground States in 2020**
 
-This section will consider Biden's 2020 win margins in the 5 battleground states highlighted by the [New York Times.](https://www.nytimes.com/interactive/2020/us/elections/election-states-biden-trump.html)I will again use probabilistic models and rely on average poll support data in each state for the two major-party candidates. By focusing on these battleground states, I will determine which candidate has a higher probability of winning in the pivotal "swing states" and thus the 2020 election. 
+This section will consider Biden's 2020 win margins in the 5 battleground states highlighted by the [New York Times.](https://www.nytimes.com/interactive/2020/us/elections/election-states-biden-trump.html) I will again use probabilistic models and rely on average poll support data in each state for the two major-party candidates. By focusing on these battleground states, I will determine which candidate has a higher probability of winning in the pivotal "swing states" and thus the 2020 election. 
 
 GDP Quarterly Growth and GDP Yearly Growth  |  RDI Growth and Unemployment
 :-------------------------:|:-------------------------:
