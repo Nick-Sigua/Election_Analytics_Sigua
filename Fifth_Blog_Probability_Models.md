@@ -33,9 +33,9 @@ Biden's Win Margin in Georgia  |  Biden's Win Margin in North Carolina
 
 The breakdown for the above battleground states' win margins are as follows:
 
-* **Florida.**  The win margin for florida is X. This is based on the polls in such state, which currently stand at X for Biden and Y for Trump. This would mean Biden would carry the 34 electoral votes from such state. 
+* **Florida.** Biden's win margin in Florida is just over 5%. Given Biden's average support in Florida is 48.78%, relative to Trump's average support of 44.71%, Biden's projected win margin closely follows the candidates' average support in the state. Such win margin also means Biden would carry the pivotal 29 electoral votes from Florida. 
 
-* **Ohio.**  The win margin for ohio is X. This is based on the polls in such state, which currently stand at X for Biden and Y for Trump. This would mean Biden would carry all the electoral votes from this state. 
+* **Ohio.** Biden's win margin in Florida is just over 5%. Given Biden's average support in Florida is 48.78%, relative to Trump's average support of 44.71%, Biden's projected win margin closely follows the candidates' average support in the state. Such win margin also means Biden would carry the pivotal 29 electoral votes from Florida. 
 
 This tells us that, in the most important states, Biden has the clear advantage. Basesd on our probabalistc models, Biden stands a good chance of carriyng X of the Y total electoral votes. This is significnat, as a decisisve win in the swing states gives Biden a significantly higher chance of winning the eleciton. This is in stark contrast to 2016, which, as blog 1 demonstrated, had trump dispoportionalty take the electoral votes in the swing states, and led him to victory. 
 
