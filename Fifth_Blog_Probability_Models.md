@@ -31,9 +31,9 @@ GDP Quarterly Growth and GDP Yearly Growth  |  RDI Growth and Unemployment
 |:-:|
 |![](Prob6.png)|
 
-The breakdown for the above battleground state win margins are as follows:
+The breakdown for the above battleground states' win margins are as follows:
 
-* **Florida.**  The win margin for florida is X. This is based on the polls in such state, which currently stand at X for Biden and Y for Trump. This would mean Biden would carry all the electoral votes from this state. 
+* **Florida.**  The win margin for florida is X. This is based on the polls in such state, which currently stand at X for Biden and Y for Trump. This would mean Biden would carry the 34 electoral votes from such state. 
 
 * **Ohio.**  The win margin for ohio is X. This is based on the polls in such state, which currently stand at X for Biden and Y for Trump. This would mean Biden would carry all the electoral votes from this state. 
 
