@@ -9,7 +9,7 @@ Throughout previous blogs, I have relied on linear regression models to derive e
 |:-:|
 |![](Prob_1.png)|
 
-This map demonstrates the 2020 win margins for the Democratic candidate, Joe Biden, relative to the Republican candidate Donald Trump. The win margin is derived from the predicted distribution of draws (10,000 draws) from the population (i.e the voting-eligible population) in each state, with the draw probability for Biden and Trump based on their average support. The main takeaways are:
+This map demonstrates the 2020 win margins for the Democratic candidate, Joe Biden, relative to the Republican candidate Donald Trump. The win margin is derived from simulating the predicted distribution of draws (10,000 draws) for each candidate from the population (i.e., the voting-eligible population) in each state. The draw probability for Biden and Trump is based on their average support. The main takeaways are:
 
 * **Biden is favored.** From the data available, the probabilistic map of win margins demonstrates that Biden is favored relative to Trump in terms of attaining a greater vote share in 2020. This is evident given the magnitude of Biden's win margins and the states in which Biden's win margins are positive relative to Trump. This takeaway falls in line with [models from previous weeks](Third_Blog_Polls.md), which demonstrated Biden would have a greater vote share than Trump based on Biden's greater average poll support.
 
@@ -31,9 +31,9 @@ Biden's Win Margin in Georgia  |  Biden's Win Margin in North Carolina
 |:-:|
 |![](Prob6.png)|
 
-The breakdown for the above battleground states' win margins are as follows:
+The breakdown for Biden's win margins in the above battleground states are as follows:
 
-* **Florida.** Biden's win margin in Florida is just over 5%. Given Biden's average support in Florida is 48.78%, relative to Trump's average support of 44.71%, Biden's projected win margin closely follows the candidates' average support in the state. Such a win margin also means Biden would carry the pivotal 29 electoral votes from Florida. 
+* **Florida.** Biden's win margin in Florida is just over 5%. Given Biden's average support in Florida is 48.78%, relative to Trump's average support of 44.71%, Biden's projected win margin closely follows the candidate's average support in the state. Such a win margin also means Biden would carry the pivotal 29 electoral votes from Florida. 
 
 * **Ohio.** Biden's win margin in Florida is approximately -1%. Given Biden's average support in Florida is 46.8%, relative to Trump's average support of 46.66%, Biden's projected win margin slightly understates his marginal advantage in the polls. This also means Trump would carry the 19 electoral votes from Ohio. 
 
@@ -47,7 +47,8 @@ Based on my probabilistic model and resulting win margins, Biden has a clear adv
 
 **Final Takeaways**
 
-In this blog, I used probabilistic models to evaluate the electoral prospects for the 2020 candidates. By calculating the Democratic candidate’s win margin, based on their average poll support, I was able to project that Biden would take the majority of the battleground state electoral votes, and thus stands a greater chance of winning the 2020 election. This analysis affirms previous model predictions based on linear regressions of average poll support. Of course, polls are not the only variable in predicting elections; future probabilistic models could consider incorporating other variables, like incumbency status and 2nd quarter GDP. 
+In this blog, I used probabilistic models to evaluate the electoral prospects for the 2020 candidates. By calculating the Democratic candidate’s win margin in various states, based on their average poll support, I projected that Biden would take most of the battleground states' electoral votes and thus stand a greater chance of winning the 2020 election. This analysis affirms previous model predictions based on linear regressions of average poll support. Of course, polls are not the only variable in predicting elections; future probabilistic models could consider incorporating other variables, like incumbency status and 2nd quarter GDP. 
+
 
 
 
