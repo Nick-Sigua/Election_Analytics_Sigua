@@ -1,11 +1,7 @@
 # Polls and Probabilistic Models
 ## Oct 9, 2020
 
-In intro, set up how we will be using probabilistc models to analyze the 2020 race instead of linear regressions
-
-Throughout the previous blog posts, I have used linear regressions to predict election results. However, the outcome of a linear regression model can be any value in a continuous range; this means 
-
-commonly, i have used linear regressions in my blog to analyze pollls, the best single predictor of elections I have considered thus far. But such is subject to errors, as linear regressions can be less than zero, making the practicality of such results more tenous than one might initially think. This week, instead, we will explore the 2020 race through probabilistic models, hoping to uncover insight into the results in key swing states based on binomial polls. 
+Throughout previous blogs, I have relied on linear regression models to derive election results. Although such has helped analyze the relationships between variables like polls and popular vote shares, the outcome of a linear regression model can be any value in a continuous range; thus, some predictions (i.e., popular vote share) could be outside the 0-100% range. This clearly reduces the practicality of some results. Therefore this week, I will explore 2020 predictions through probabilistic models, like a binomial logistic regression, limiting election outcomes to a finite draw of voters from a given population (i.e., the voting-eligible population). I will base such probabilistic models on the average poll support for each of the major party candidates in 2020, first considering the entire country and then focusing on the key battleground states in the 2020 election. 
 
 **The 2020 Map**
 
