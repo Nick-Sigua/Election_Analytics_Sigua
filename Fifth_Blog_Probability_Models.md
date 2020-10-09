@@ -3,7 +3,7 @@
 
 Throughout previous blogs, I have relied on linear regression models to derive election results. Although such has helped me analyze the relationships between variables like average poll support and popular vote shares, the outcome of a linear regression model can be any value in a continuous range; thus, some predictions (i.e., popular vote share) could be outside the 0-100% range. This clearly reduces the practicality of some of the linear regression results. Therefore this week, I will explore 2020 predictions through probabilistic models, like a binomial logistic regression, limiting election outcomes to a finite draw of voters from a given population (i.e., the voting-eligible population). I will base such probabilistic models on the average poll support for each of the major party candidates in 2020, first considering the entire country and then focusing on the key battleground states in the 2020 election. 
 
-**The 2020 Map**
+**Win Margins for the United States in 2020**
 
 |Incumbency Status vs. Two-Party Popular Vote Share (1948-2016) |
 |:-:|
@@ -15,10 +15,9 @@ This map demonstrates the 2020 win margins for the Democratic candidate, Joe Bid
 
 * **Limited data.** As one can see from the map, there are states with missing win margins. This is due to the limited or missing data available for some states, which hinders one's ability to draw more substantive takeaways from the United States' win margins map. Given these limitations, it is necessary to conduct further analysis using probabilistic models; however, focusing only on the key battleground states of the 2020 election.
 
-**Swing States 2020**
+**Win Margins for the Battleground States in 2020**
 
-Given an analysis of the win margins for every state does not give that insightful of answers, given missing data and limited data, an analysis focusing on each swing state will likely yeild more substantitve takewaways. By focusing on these individual states, we can reduce the impact of missing data when drawing conclusions and is more pertinant, given these battleground states are pivotal in deciding the election. 
-In this section, I will consider the win margins for 5 key states, based on the NYT, and what this means, based on the polls in these states 27 days from the election
+This section will consider Biden's 2020 win margins in the 5 battleground states highlighted by the New York Times (link). I will again use probabilistic models and rely on average poll support data in each state for the two major-party candidates. By focusing on these battleground states, I will determine which candidate has a higher probability of winning in the pivotal "swing states" and thus the 2020 election. 
 
 GDP Quarterly Growth and GDP Yearly Growth  |  RDI Growth and Unemployment
 :-------------------------:|:-------------------------:
