@@ -30,7 +30,7 @@ GDP Quarterly Growth and GDP Yearly Growth  |  RDI Growth and Unemployment
 
 |Incumbency Status vs. Two-Party Popular Vote Share (1948-2016) |
 |:-:|
-|![](Prob5.png)|
+|![](Prob6.png)|
 
 then mini takeaways at bottom, bulleted, like this
 
