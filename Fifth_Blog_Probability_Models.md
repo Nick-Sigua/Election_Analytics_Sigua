@@ -43,8 +43,10 @@ The breakdown for the above battleground states' win margins are as follows:
 
 * **Iowa.** Biden's win margin in Iowa falls around -20%. Given Biden's average support in Iowa is 47.13%, relative to Trump's average support of 46.73%, Biden's projected win margin significantly understates his slight advantage in the polls. Such could be due to polls being less predictive in Iowa or there being less data in Iowa to draw from. Regardless, this means that Trump would carry the 6 electoral votes from Iowa. 
 
-based on my probabilistic model and resulting win margins, biden has the clear advantage. 
-This tells us that, in the most important states, Biden has the clear advantage. Basesd on our probabalistc models, Biden stands a good chance of carriyng X of the Y total electoral votes. This is significnat, as a decisisve win in the swing states gives Biden a significantly higher chance of winning the eleciton. This is in stark contrast to 2016, which, as blog 1 demonstrated, had trump dispoportionalty take the electoral votes in the swing states, and led him to victory. 
+Based on my probabilistic model and resulting win margins, Biden has the clear advantage in the afromentioned battleground states. In fact, my projected win margins indicate Biden could carry 
+
+
+ Basesd on our probabalistc models, Biden stands a good chance of carriyng X of the Y total electoral votes. This is significnat, as a decisisve win in the swing states gives Biden a significantly higher chance of winning the eleciton. This is in stark contrast to 2016, which, as blog 1 demonstrated, had trump dispoportionalty take the electoral votes in the swing states, and led him to victory. 
 
 **Final Takeaways**
 
