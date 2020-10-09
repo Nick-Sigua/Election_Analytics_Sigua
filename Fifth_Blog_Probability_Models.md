@@ -11,13 +11,14 @@ Throughout previous blogs, I have relied on linear regression models to derive e
 
 This map demonstrates the 2020 win margins for the Democratic candidate, Joe Biden, relative to the Republican candidate Donald Trump. The win magin is derived from the predicted distribution of draws (1000 draws) from the population (i.e the voting-eligible population) in each state, with the draw probability for Biden and Trump based on their average support. The main takeaways are:
 
-Biden favored. from the data availible, the probabilistc models favor biden. this falls in line with earlier weeks based on polls, given biden's current lead in the polls. The following translates to the probabilistic models for the united states. 
+* **Biden is favored.** From the data availible, the probabalistic map of win margins demonstrates that Biden is favored relative to Trump in terms of attaining a greater vote share in 2020. This is evident given the magnitutude of Biden's win margins and the number of state's in which Biden's win margins are positive relative to Trump. This takeaway falls in line with models from previous weeks, which demonstrated Biden would have a greater vote share than Trump based on Biden's greater average poll support. 
 
-Missing data. the missing data makes it hard for such probabilistc map to give a sense of eleciton outcomes. many states dont have answers. moreover, limited data makes some state's win margins less than reasonable. Given this missing data, a different anlysis by focusing on the key swing states of the election is necessary, as opposed to considering the entire map. 
+* **Limited data.** As one can see from the map, there are states with missing win margins. This is due to the limited or missing data availible for some states, which hinders one's ability to draw more substantive takeaways from win margins map of the United States. Given these limitations, it is necessary to conduct further analysis using probabalistic models; however, focusing only on the key battleground states of the 2020 election. 
 
 **Swing States 2020**
 
-Given an analysis of the win margins for every state does not give that insightful of answers, given missing data and limited data, an analysis focusing on each swing state will likely yeild more substantitve takewaways. In this section, I will consider the win margins for 5 key states, based on the NYT, and what this means, based on the polls in these states 27 days from the election
+Given an analysis of the win margins for every state does not give that insightful of answers, given missing data and limited data, an analysis focusing on each swing state will likely yeild more substantitve takewaways. By focusing on these individual states, we can reduce the impact of missing data when drawing conclusions and is more pertinant, given these battleground states are pivotal in deciding the election. 
+In this section, I will consider the win margins for 5 key states, based on the NYT, and what this means, based on the polls in these states 27 days from the election
 
 make a table of 5 contains all 5 states. 
 
