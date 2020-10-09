@@ -9,7 +9,7 @@ Throughout previous blogs, I have relied on linear regression models to derive e
 |:-:|
 |![](Prob1.png)|
 
-This map demonstrates the 2020 election win margin for biden in each state, based on average support. Although there is a lot of informaiton, there are a couple of discpeencies. The main takeaways are:
+This map demonstrates the 2020 win margins for the Democratic candidate, Joe Biden, relative to the Republican candidate Donald Trump. The win magin is derived from the predicted distribution of draws (1000 draws) from the population (i.e the voting-eligible population) in each state, with the draw probability for Biden and Trump based on their average support. The main takeaways are:
 
 Biden favored. from the data availible, the probabilistc models favor biden. this falls in line with earlier weeks based on polls, given biden's current lead in the polls. The following translates to the probabilistic models for the united states. 
 
