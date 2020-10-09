@@ -5,7 +5,7 @@ Throughout previous blogs, I have relied on linear regression models to derive e
 
 **Win Margins for the United States in 2020**
 
-|Incumbency Status vs. Two-Party Popular Vote Share (1948-2016) |
+|Biden's Simulated Win Margins in 2020 |
 |:-:|
 |![](Prob_1.png)|
 
