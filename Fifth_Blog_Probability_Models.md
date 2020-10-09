@@ -19,15 +19,15 @@ This map demonstrates the 2020 win margins for the Democratic candidate, Joe Bid
 
 This section will consider Biden's 2020 win margins in the 5 battleground states highlighted by the [New York Times.](https://www.nytimes.com/interactive/2020/us/elections/election-states-biden-trump.html) I will again use probabilistic models and rely on average poll support data in each state for the two major-party candidates. By focusing on these battleground states, I will determine which candidate has a higher probability of winning in the pivotal "swing states" and thus the 2020 election. 
 
-GDP Quarterly Growth and GDP Yearly Growth  |  RDI Growth and Unemployment
+Biden's Win Margin in Florida  |  Biden's Win Margin in Florida
 :-------------------------:|:-------------------------:
 ![](Prob2.png)|![](Prob3.png)
 
-GDP Quarterly Growth and GDP Yearly Growth  |  RDI Growth and Unemployment
+Biden's Win Margin in Florida  |  Biden's Win Margin in Florida
 :-------------------------:|:-------------------------:
 ![](Prob4.png)|![](Prob5.png)
 
-|Incumbency Status vs. Two-Party Popular Vote Share (1948-2016) |
+|Biden's Win Margin in Florida |
 |:-:|
 |![](Prob6.png)|
 
