@@ -35,14 +35,13 @@ The breakdown for the above battleground states' win margins are as follows:
 
 * **Florida.** Biden's win margin in Florida is just over 5%. Given Biden's average support in Florida is 48.78%, relative to Trump's average support of 44.71%, Biden's projected win margin closely follows the candidates' average support in the state. Such win margin also means Biden would carry the pivotal 29 electoral votes from Florida. 
 
-* **Ohio.** Biden's win margin in Florida is appoximatley -1%. Given Biden's average support in Florida is 46.8%, relative to Trump's average support of 46.66%, Biden's projected win margin slightly understates his advantage in the polls. This also means Trump would carry the 19 electoral votes from Ohio. 
+* **Ohio.** Biden's win margin in Florida is appoximatley -1%. Given Biden's average support in Florida is 46.8%, relative to Trump's average support of 46.66%, Biden's projected win margin slightly understates his slight advantage in the polls. This also means Trump would carry the 19 electoral votes from Ohio. 
 
 * **Georgia.** Biden's win margin in Georgia is over 5%. Given Biden's average support in Georgia is 47%, relative to Trump's average support of 46.63%, Biden's projected win margin overstates his advantage in the polls by a notable degree. This also means Biden would carry the 16 electoral votes from Georgia. 
 
 * **North Carolina.** Biden's win margin in North Carolina is just over 4%. Given Biden's average support in North Carolina is 48.35%, relative to Trump's average support of 46.47%, Biden's projected win margin slightly overstates his advantage in the polls. This also means Biden would carry the 15 electoral votes from Georgia.
 
-* **Iowa.** Biden's win margin in Iowa is just over 4%. Given Biden's average support in North Carolina is 48.35%, relative to Trump's average support of 46.47%, Biden's projected win margin slightly overstates his advantage in the polls. This also means Biden would carry the 15 electoral votes from Georgia.
-
+* **Iowa.** Biden's win margin in Iowa falls around -20%. Given Biden's average support in Iowa is 47.13%, relative to Trump's average support of 46.73%, Biden's projected win margin significantly understates his slight advantage in the polls. Such could be due to polls being less predictive in Iowa or there being less data in Iowa to draw from. Regardless, this means that Trump would carry the 6 electoral votes from Iowa. 
 
 based on my probabilistic model and resulting win margins, biden has the clear advantage. 
 This tells us that, in the most important states, Biden has the clear advantage. Basesd on our probabalistc models, Biden stands a good chance of carriyng X of the Y total electoral votes. This is significnat, as a decisisve win in the swing states gives Biden a significantly higher chance of winning the eleciton. This is in stark contrast to 2016, which, as blog 1 demonstrated, had trump dispoportionalty take the electoral votes in the swing states, and led him to victory. 
