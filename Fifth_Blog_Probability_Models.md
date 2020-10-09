@@ -3,6 +3,8 @@
 
 In intro, set up how we will be using probabilistc models to analyze the 2020 race instead of linear regressions
 
+Throughout the previous blog posts, I have used linear regressions to predict election results. However, the outcome of a linear regression model can be any value in a continuous range; this means 
+
 commonly, i have used linear regressions in my blog to analyze pollls, the best single predictor of elections I have considered thus far. But such is subject to errors, as linear regressions can be less than zero, making the practicality of such results more tenous than one might initially think. This week, instead, we will explore the 2020 race through probabilistic models, hoping to uncover insight into the results in key swing states based on binomial polls. 
 
 **The 2020 Map**
