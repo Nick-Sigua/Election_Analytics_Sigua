@@ -20,7 +20,17 @@ This map demonstrates the 2020 win margins for the Democratic candidate, Joe Bid
 Given an analysis of the win margins for every state does not give that insightful of answers, given missing data and limited data, an analysis focusing on each swing state will likely yeild more substantitve takewaways. By focusing on these individual states, we can reduce the impact of missing data when drawing conclusions and is more pertinant, given these battleground states are pivotal in deciding the election. 
 In this section, I will consider the win margins for 5 key states, based on the NYT, and what this means, based on the polls in these states 27 days from the election
 
-make a table of 5 contains all 5 states. 
+GDP Quarterly Growth and GDP Yearly Growth  |  RDI Growth and Unemployment
+:-------------------------:|:-------------------------:
+![](Prob2.png)|![](Prob3.png)
+
+GDP Quarterly Growth and GDP Yearly Growth  |  RDI Growth and Unemployment
+:-------------------------:|:-------------------------:
+![](Prob4.png)|![](Prob5.png)
+
+|Incumbency Status vs. Two-Party Popular Vote Share (1948-2016) |
+|:-:|
+|![](Prob5.png)|
 
 then mini takeaways at bottom, bulleted, like this
 
