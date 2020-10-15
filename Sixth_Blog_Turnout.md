@@ -10,4 +10,6 @@ United States Presidential Election-Year Turnout (1980-2016)  |  United States M
 :-------------------------:|:-------------------------:
 ![](Turnout1.png)|![](Turnout2.png)
 
+This data demonstrates trends in turnout from the years of X to Y for United States general elections. Turnout here is calcualted as a percentage of voting-eligible-population. The major takeaways include: 
+
 
