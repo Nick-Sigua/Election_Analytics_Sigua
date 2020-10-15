@@ -6,15 +6,15 @@ But how can turnout help predict popular vote shares for candidates? In this blo
 
 **Turnout Trends in the United States**
 
-United States Presidential Election-Year Turnout (1980-2016)  |  United States Midterm-Year Turnout (1982-2014)
+United States Presidential Election Turnout (1980-2016)  |  United States Midterm Election Turnout (1982-2014)
 :-------------------------:|:-------------------------:
 ![](Turnout1.png)|![](Turnout2.png)
 
-This data demonstrates trends in turnout from the years of X to Y for United States general elections. Turnout here is calcualted as a percentage of voting-eligible-population. The major takeaways include: 
+This data demonstrates trends in turnout from the years of X to Y for United States elections. Turnout here is calcualted as a percentage of voting-eligible-population. The major takeaways include: 
 
 *look up if turnout data is for presidential elections
 
-* **Increasing turnout during presidential election years.** Make sure this is only for US elections
+* **Increasing turnout for presidential elections.** this shows turnout for US presidential elections from 1980 to 2016
 
-* **Decreasing turnout during midterm election years.** Make sure this is only for midterms. Also awknoledge that 2018 would be much higher. 
+* **Decreasing turnout for midterm elections.** Make sure this is only for midterms. Also awknoledge that 2018 would be much higher. 
 
