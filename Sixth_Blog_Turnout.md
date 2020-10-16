@@ -47,9 +47,9 @@ I will now use the model based on a candidate's average support and voter turnou
 
 **Final Takeaways**
 
-stuff about trends
-models, my model
-given historic lows, trump and biden neck and neck. but under other scenarious, model predicts biden big win. 
+In this blog, I used the turnout rate of presidential elections to help predict the 2020 election. After incorporating the turnout rate in a linear regression model with average support, I evaluated such a model against my week 3 model based solely on a candidate's average support. Ultimately, the new model had a lower out-of-sample error considering Republican candidates than my week 3 model. When predicting the 2020 election, my new model predicts Biden will beat Trump by a substantial margin given the "business as usual" and large turnout scenarios. Only under a historically low turnout scenario does my model anticipate a very tight race between Biden and Trump. Future models should incorporate the turnout rate with other variables, especially considering predicting the popular vote for Republican candidates. 
+
+
 
 
 
