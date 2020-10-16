@@ -11,7 +11,9 @@ United States Presidential Election Turnout (1980-2016)  |  United States Midter
 
 The graphs above demonstrate trends in the turnout rate (as a percentage of the voting-eligible-population) for United States elections from 1980 to 2016. Some of the major takeaways include: 
 
-* **Increasing turnout for presidential elections.** this shows turnout for US presidential elections from 1980 to 2016
+* **Increasing turnout for presidential elections.** From the data available, the voter turnout rate for presidential elections has generally increased from 1980 to 2016. This is evident given that the turnout rate for most elections before 2000 fell below 55% while such rate was above 59% for the majority of elections post-2000. 
 
-* **Decreasing turnout for midterm elections.** Make sure this is only for midterms. Also awknoledge that 2018 would be much higher. 
+* **Decreasing turnout for midterm elections.** From the data available, the voter turnout rate for midterm elections has generally decreased from 1982 to 2014. This is evident given that the turnout rate for midterm elections peaked around 42% in 1982 and fell to around 36% in 2014. However, one should note that the turnout rate increased consistently from 1988 to 2010 and was likely significantly higher in 2018 relative to 2014. 
+
+
 
