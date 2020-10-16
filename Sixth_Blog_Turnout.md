@@ -15,5 +15,5 @@ The graphs above demonstrate trends in the turnout rate (as a percentage of the 
 
 * **Decreasing turnout for midterm elections.** From the data available, the voter turnout rate for midterm elections has generally decreased from 1982 to 2014. This is evident given that the turnout rate for midterm elections peaked around 42% in 1982 and fell to around 36% in 2014. However, one should note that the turnout rate increased consistently from 1988 to 2010 and was likely significantly higher in 2018 relative to 2014. 
 
-**Incorporating Turnout Rate in Models and Model Comparison**
+**Incorporating the Turnout Rate in Models and Model Comparisons**
 
