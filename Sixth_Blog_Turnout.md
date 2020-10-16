@@ -35,7 +35,7 @@ The table above demonstrates the in-sample fit, via variables like r-squared and
 Ultimately, model 1 provides a better in-sample fit but greater out-of-sample error relative to model 2, concerning Democratic party candidates. Meanwhile, model 2 provides a better in-sample fit and less out-of-sample error than model 2, concerning Republican candidates. Thus, one could claim incorporating turnout in a linear regression model based on a Republican candidate's average support could increase such a model's predictive ability. 
 
 
-**Prediction for 2020 Candidates**
+**Predictions for 2020 Candidates**
 
 I will now use the model based on a candidate's average support and voter turnout, model 1, to make predictions for each candidate's popular vote share in 2020. Given the turnout rate for 2020 is unknown, I will provide a series of predictions based on several different turnout scenarios. 
 
