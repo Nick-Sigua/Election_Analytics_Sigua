@@ -15,6 +15,10 @@ Week #4 Blog:
 [The Incumbency Advantage and Time For Change Model](Fourth_Blog_Incumbency.md)
 
 Week #5 Blog:                                                                                                                 
-[Polls and Probabilistic Models](Fifth_Blog_Probability_Models.md)
+[Polls and Probabilistic Models](Fifth_Blog_Probability_Models.md)                  
+
+Week #6 Blog:                                                                                                                             
+[Turnout in Popular Vote Predictions](Sixth_Blog_Turnout.md)   
+
 
 
