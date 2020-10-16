@@ -28,11 +28,18 @@ We will now incorporate the turnout rate of presidential elections in a model th
 
 The table above demonstrates the in-sample fit, via variables like r-squared and the mean squared error, and out-of-sample error, via the cross-validation values, for each of the previously mentioned models. 
 
-**In-sample fit.** The in sample fit for model 1 is better than the respective fit for model 2, for both democrat and republican candidates. This is given the R squared values are higher and MSE lower for model 1 when compared to their model 2 counterpart 
+**In-sample fit.** The in-sample fit for model 1 is better than the in-sample fit for model 2 for Democratic and Republican party candidates. This is given the r-squared values are higher, and the mean squared error values are lower for model 1 relative to model 2 for both parties. 
 
-**Out-of-sample error.**
+**Out-of-sample error.** The out-of-sample error for model 1 is greater than model 2, considering only Democratic party candidates. Such is evident via the lower cross-validation value for model 2 relative to model 1 for Democratic party candidates. However, the out-of-sample error is lower for model 1 relative to model 2, considering Republican candidates. Such is evident via the lower cross-validation value for model 1 relative to model 2. 
 
-both models good, one is better for this...one is better for that.. 
+Ultimately, model 1 provides a better in-sample fit but greater out-of-sample error relative to model 2, concerning Democratic party candidates. Meanwhile, model 2 provides a better in-sample fit and less out-of-sample error than model 2, concerning Republican candidates. Thus, one could claim incorporating turnout in a linear regression model based on a Republican candidate's average support could increase such a model's predictive ability. 
+
+
+**Prediction for 2020 Candidates**
+
+
+
+
 
 
 
