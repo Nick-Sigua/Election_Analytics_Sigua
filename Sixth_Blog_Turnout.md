@@ -21,10 +21,10 @@ We will now incorporate the turnout rate of presidential elections in a model th
 
 | Model  | Variable(s)  | Party  | R-squared  | Mean Squared Error  | Cross Validation  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1  | Average Support, Turnout Rate  | Democrat  |   |   |   |
-| 1  | Average Support, Turnout Rate  | Republican  |   |   |   |
-|  2 | Average Support  |  Democrat |   |   |   |
-|  2 |  Average Support |  Republican |   |   |   |
+| 1  | Average Support, Turnout Rate  | Democrat  | 0.56  | 2.58  | 3.27  |
+| 1  | Average Support, Turnout Rate  | Republican  | 0.82  | 2.47  | 2.85  |
+|  2 | Average Support  |  Democrat | 0.47  | 2.83  | 2.73  |
+|  2 |  Average Support |  Republican | 0.71   | 3.13  | 3.18  |
 
 The table above demonstrates the in sample fit and out of sample error of each of the models. 
 
