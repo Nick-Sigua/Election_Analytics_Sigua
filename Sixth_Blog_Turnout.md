@@ -37,17 +37,19 @@ Ultimately, model 1 provides a better in-sample fit but greater out-of-sample er
 
 **Prediction for 2020 Candidates**
 
-I will now use the new model, model 1, to make predictions for each candidate's popular vote share in 2020. Given turnout is unknown, I will provide a series of predictions based on a number of different turnout scenarios. 
+I will now use the model based on a candidate's average support and voter turnout, model 1, to make predictions for each candidate's popular vote share in 2020. Given the turnout rate for 2020 is unknown, I will provide a series of predictions based on several different turnout scenarios. 
 
-Given things operate business as usual, which I will define as having a turnout rate similar to last year
+**Business as usual.** Given voters turn out at a rate similar to last election cycle, or the "business as usual scenario," the turnout rate would be around 60%. In this scenario, factoring in each candidate's average support, model 1 predicts Biden will attain 52% of the popular vote. Furthermore, under this model, Trump would attain 43.7% of the popular vote. 
 
-Given Covid has a substantial impact, and we see historically low turnout rates..
+**Historic lows.** Given voters turn out at a much lower rate due to COVID, which I will assume would fall just under previous historic lows, the turnout rate would be around 51%. In this scenario, model 1 predicts Biden will attain about 49% of the popular vote. Furthermore, under this model, Trump would attain 48.7% of the popular vote. 
 
-Given many mail in votes, and historically high turnout, we see that impact on vote share is marginally higher than business as usual scenerio 
+**Large turnout.** Given voters turn our at a higher rate due to the advent of mail-in votes and large mobilization, which I will assume would reach near historic highs, the turnout rate would be around 61%. In this scenario, model 1 predicts Biden will attain about 52.7% of the popular vote. Furthermore, under this model, Trump would attain 42.6% of the popular vote. 
 
-**Dont provide prediciton from other model
+**Final Takeaways**
 
-
+stuff about trends
+models, my model
+given historic lows, trump and biden neck and neck. but under other scenarious, model predicts biden big win. 
 
 
 
