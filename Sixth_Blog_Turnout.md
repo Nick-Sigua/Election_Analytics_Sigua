@@ -37,6 +37,17 @@ Ultimately, model 1 provides a better in-sample fit but greater out-of-sample er
 
 **Prediction for 2020 Candidates**
 
+I will now use the new model, model 1, to make predictions for each candidate's popular vote share in 2020. Given turnout is unknown, I will provide a series of predictions based on a number of different turnout scenarios. 
+
+Given things operate business as usual, which I will define as having a turnout rate similar to last year
+
+Given Covid has a substantial impact, and we see historically low turnout rates..
+
+Given many mail in votes, and historically high turnout, we see that impact on vote share is marginally higher than business as usual scenerio 
+
+**Dont provide prediciton from other model
+
+
 
 
 
