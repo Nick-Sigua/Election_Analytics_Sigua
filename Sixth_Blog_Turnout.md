@@ -26,11 +26,11 @@ We will now incorporate the turnout rate of presidential elections in a model th
 |  2 | Average Support  |  Democrat | 0.47  | 2.83  | 2.73  |
 |  2 |  Average Support |  Republican | 0.71   | 3.13  | 3.18  |
 
-The table above demonstrates the in sample fit and out of sample error of each of the models. 
+The table above demonstrates the in-sample fit, via variables like r-squared and the mean squared error, and out-of-sample error, via the cross-validation values, for each of the previously mentioned models. 
 
-in sample fit. 
+**In-sample fit.** The in sample fit for model 1 is better than the respective fit for model 2, for both democrat and republican candidates. This is given the R squared values are higher and MSE lower for model 1 when compared to their model 2 counterpart 
 
-out of sample error. 
+**Out-of-sample error.**
 
 both models good, one is better for this...one is better for that.. 
 
