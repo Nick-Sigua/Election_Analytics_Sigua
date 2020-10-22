@@ -35,7 +35,7 @@ Relationship between Daily COVID-19 Cases and Biden's Average Support  |  Relati
 
 Relationship between Daily COVID-19 Test Results and Biden's Average Support  |  Relationship between Daily COVID-19 Test Results and Trump's Average Support 
 :-------------------------:|:-------------------------:
-![](Shocks6.png)|![](Shocks7.png)
+![](Shocks8.png)|![](Shocks9.png)
 
 
 
