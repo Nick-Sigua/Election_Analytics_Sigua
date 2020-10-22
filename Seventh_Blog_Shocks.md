@@ -5,9 +5,10 @@ COVID-19 is an everpresent news fixture that has swept the nation and is in the 
 
 **COVID-19 Trends in the United States**
 
-                  |  
+United States Presidential Election Turnout (1980-2016)  |  United States Midterm Election Turnout (1982-2014)
 :-------------------------:|:-------------------------:
 ![](Shocks1.png)|![](Shocks2.png)
+
 
 
 
