@@ -31,9 +31,11 @@ Relationship between Daily COVID-19 Cases and Biden's Average Support  |  Relati
 :-------------------------:|:-------------------------:
 ![](Shocks6.png)|![](Shocks7.png)
 
-**The relationship between daily COVID-19 cases and 2020 candidates' average poll support.** The aforementioned graphs demonstrate the generally negative relationship between Biden's and Trump's average support in the polls and the daily increase of COVID-19 deaths in the United States. However, the relationship between the afromentioned variables is significantly stronger for Trump than Biden. Such is evident given the r-squared value for the linear regression between the two variables is 0.61 for Trump, while only 0.02 for Biden. This is distinct from the previous relationship between the increase of COVID-19 deaths and Trump's average poll support, which could be attributed to the higher salience of an increase in cases in the media and the relation such has to the incumbent candidate. 
+**The relationship between daily COVID-19 cases and 2020 candidates' average poll support.** The aforementioned graphs demonstrate the generally negative relationship between Biden's and Trump's average support in the polls and the daily increase of COVID-19 deaths in the United States. However, the relationship between the afromentioned variables is significantly stronger for Trump than Biden. Such is evident given the r-squared value for the linear regression between the two variables is 0.61 for Trump, while only 0.02 for Biden. This is distinct from the previous relationship between the increase of COVID-19 deaths and Trump's average poll support, which could be attributed to the higher salience of increasing COVID-19 cases in the media and the relation such has to the incumbent candidate. 
 
-
+Relationship between Daily COVID-19 Cases and Biden's Average Support  |  Relationship between Daily COVID-19 Cases and Trump's Average Support 
+:-------------------------:|:-------------------------:
+![](Shocks6.png)|![](Shocks7.png)
 
 
 
