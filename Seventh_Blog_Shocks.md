@@ -1,15 +1,15 @@
 # COVID-19 Variables and Polls
 ## Oct 23, 2020
 
-COVID-19 has been a permanent fixture in the news and everpresent in the minds of many people today, given its impact on people's work and daily life. Given such prevalence, this begs the question: how will COVID-related variables affect the 2020 election? I will explore this topic by first noting the trends for three COVID variables, i.e., the increase in cases, the increase in deaths, and the increase in test results. Then, I will display the relationship between these variables and the average poll support for each candidate, which will provide insight into how such variables might impact each candidate's popular vote shares (link week 3 when I talk about this later on).
+COVID-19 has been a permanent fixture in the news and everpresent in the minds of many people today, given its impact on people's work and daily life. Given such prevalence, this begs the question: how will COVID-related variables affect the 2020 election? I will explore this topic by first noting the trends for three COVID variables, i.e., the increase in cases, the increase in deaths, and the increase in test results per day relative to their respective totals. Then, I will display the relationship between these variables and the average poll support for each candidate, which will provide insight into how such variables might impact each candidate's popular vote shares (link week 3 when I talk about this later on).
 
 **COVID-19 Trends in the United States**
 
-Daily COVID-19 Deaths Increase  |  Daily COVID-19 Positive Cases Increase
+Daily COVID-19 Deaths |  Daily COVID-19 Positive Cases 
 :-------------------------:|:-------------------------:
 ![](Shocks1.png)|![](Shocks2.png)
 
-| Daily COVID-19 Test Results Increase  |
+| Daily COVID-19 Test Results |
 |:-:|
 | ![](Shocks3.png)  |
 
