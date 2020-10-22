@@ -9,10 +9,9 @@ Daily COVID-19 Deaths Increase  |  Daily COVID-19 Positive Cases Increase
 :-------------------------:|:-------------------------:
 ![](Shocks1.png)|![](Shocks2.png)
 
-| test  |
+| Daily COVID-19 Test Results Increase  |
 |:-:|
 | ![](Shocks3.png)  |
-
 
 I will consider Covid 19 data from late january to october. 
 
