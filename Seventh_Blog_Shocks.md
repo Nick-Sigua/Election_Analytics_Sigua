@@ -15,3 +15,7 @@ Daily COVID-19 Deaths Increase  |  Daily COVID-19 Positive Cases Increase
 
 I will consider Covid 19 data from late january to october. 
 
+
+
+**Relationship between COVID-19 Variables and a Candidate's Average Support**
+
