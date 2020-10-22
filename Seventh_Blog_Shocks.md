@@ -21,3 +21,10 @@ The graphs above demonstrate trends for COVID-19 related variables like the incr
 
 **Relationship between COVID-19 Variables and 2020 Candidates' Average Support**
 
+Relationship between COVID-19 Deaths Increase and Biden's Average Support  |  Relationship between COVID-19 Deaths Increase and Trump's Average Support 
+:-------------------------:|:-------------------------:
+![](Shocks4.png)|![](Shocks5.png)
+
+
+
+
