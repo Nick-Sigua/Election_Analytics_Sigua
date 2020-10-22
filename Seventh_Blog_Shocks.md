@@ -31,7 +31,7 @@ Relationship between Daily COVID-19 Cases and Biden's Average Support  |  Relati
 :-------------------------:|:-------------------------:
 ![](Shocks6.png)|![](Shocks7.png)
 
-
+**The relationship between daily COVID-19 cases and 2020 candidates' average poll support.** The aforementioned graphs demonstrate the generally negative relationship between Biden's and Trump's average support in the polls and the daily COVID-19 deaths in the United States. However, the relationship between the afromentioned variables is stronger for Biden than Trump. Such is evident given the r-squared values for the linear regressions between the two variables for each candidate; the r-squared values between such variables are 0.49 and 0.14 for Biden and Trump, respectively. This is noteworthy, given one would expect the incumbent candidate, Trump, to exhibit a stronger negative relationship between COVID-19 deaths increase and their average poll support, as such deaths occured under their presidency.
 
 
 
