@@ -5,7 +5,7 @@ COVID-19 is an everpresent news fixture that has swept the nation and is in the 
 
 **COVID-19 Trends in the United States**
 
-Daily COVID-19 Deaths Increase  |  United States Midterm Election Turnout (1982-2014)
+Daily COVID-19 Deaths Increase  |  Daily COVID-19 Positive Cases Increase
 :-------------------------:|:-------------------------:
 ![](Shocks1.png)|![](Shocks2.png)
 
