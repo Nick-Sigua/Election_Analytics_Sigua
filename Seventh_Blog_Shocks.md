@@ -17,5 +17,5 @@ I will consider Covid 19 data from late january to october.
 
 
 
-**Relationship between COVID-19 Variables and a Candidate's Average Support**
+**Relationship between COVID-19 Variables and 2020 Candidates' Average Support**
 
