@@ -44,7 +44,11 @@ Relationship between Daily COVID-19 Test Results and Biden's Average Support  | 
 Ultimatley, the previous relationships indicate 
 trump strong negative relationship with covid case increases could mean a spike in cases would not bode well for the canddiate 
 difficult to tell how excatly the shock will affect election, but if our data is anything to go off of, most likely in the form of decreasing incumbent vote share, given strong relatnionshopp between polls and vote share observed in previous blogs (blog 3). However, hard to tell based on such situation being unique. 
-Hopefully, data from this election will provide creater insight innto how some of these shocks, like a pandemic, can affect incumbent vote shares and generally how unexpected shocks can affect candidates . 
+Hopefully, data from this election will provide creater insight innto how some of these shocks, like a pandemic, can affect incumbent vote shares and generally how unexpected shocks can affect candidates.
+
+Impact candidate in the form of cases increase lowering support and thus vote share 
+Considering death rate lowering, likely won’t play a factor in hurting biden
+Most prevalent scenario from data is rising cases, which could hurt trump given its strong relationship to his average support 
 
 
 
