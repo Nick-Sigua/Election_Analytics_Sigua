@@ -1,11 +1,11 @@
 # COVID-19 Variables and Polls
 ## Oct 23, 2020
 
-COVID-19 has been a permanent fixture in the news and everpresent in the minds of many people today, given its impact on people's work and daily life. Given such prevalence, this begs the question: how will COVID-related variables affect the 2020 election? I will explore this topic by first noting the trends for three COVID variables, i.e., the increase in cases, the increase in deaths, and the increase in test results per day relative to their respective totals. Then, I will display the relationship between these variables and the average poll support for each candidate, which will provide insight into how such variables might impact each candidate's popular vote shares in 2020. 
+COVID-19 has been a permanent fixture in the news and everpresent in the minds of many people today, given its impact on people's work and daily life. Given such prevalence, this begs the question: how will COVID-19 affect the 2020 election? I will explore this topic by first noting the trends for three COVID-19 related variables, i.e., the daily increase in COVID-19 deaths, the daily increase in COVID-19 cases, and the daily increase in COVID-19 test results. Then, I will display the relationship between these variables and the average poll support for each candidate in the 2020 election, which will provide insight into how COVID-19 could impact each candidate's popular vote shares. 
 
 **COVID-19 Trends in the United States**
 
-Daily Increase in COVID-19 Deaths |  Daily Increase in Positive COVID-19 Cases 
+Daily Increase in COVID-19 Deaths |  Daily Increase in COVID-19 Positive Cases 
 :-------------------------:|:-------------------------:
 ![](Shocks1.png)|![](Shocks2.png)
 
@@ -13,11 +13,11 @@ Daily Increase in COVID-19 Deaths |  Daily Increase in Positive COVID-19 Cases
 |:-:|
 | ![](Shocks3.png)  |
 
-The graphs above demonstrate trends for COVID-19 related variables like the increase in deaths, cases, and test results in the United States from late January to October 2020. Some of the major takeaways include:
+The graphs above demonstrate trends for COVID-19 related variables like the increase in deaths, cases, and test results per day in the United States from late January to early October 2020. Some of the major takeaways include:
 
-* **A general decrease in COVID-19 related daily deaths.** From the data available, the daily deaths attributed to COVID-19 has generally decreased from its peak in late April. Such can be attributed to many factors, including a better understanding of the virus, better treatment available, etc.  
+* **A general decrease in COVID-19 related daily deaths.** From the data available, the daily deaths attributed to COVID-19 has generally decreased from its peak in late April. This can be attributed to many factors, including a better understanding of the virus, better treatment available, etc.  
 
-* **A general increase in COVID-19 related daily cases and test results.** From the data available, the daily cases and test results attributed to COVID-19 have generally increased since late January. However, daily cases peaked around mid-July, fell drastically, and have experienced a significant resurgence since September, while daily test results have increased consistently. 
+* **A general increase in COVID-19 related daily cases and test results.** From the data available, the daily cases and test results related to COVID-19 have generally increased since late January. However, daily cases peaked around mid-July, fell drastically, and has experienced a significant resurgence since September, while daily test results have increased consistently. 
 
 **The Relationship between the 2020 Candidates' Average Support and COVID-19 Variables**
 
