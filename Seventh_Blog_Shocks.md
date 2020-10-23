@@ -5,11 +5,11 @@ COVID-19 has been a permanent fixture in the news and everpresent in the minds o
 
 **COVID-19 Trends in the United States**
 
-Daily COVID-19 Deaths |  Daily COVID-19 Positive Cases 
+Daily Increase in COVID-19 Deaths |  Daily Increase in Positive COVID-19 Cases 
 :-------------------------:|:-------------------------:
 ![](Shocks1.png)|![](Shocks2.png)
 
-| Daily COVID-19 Test Results |
+| Daily Increase in COVID-19 Test Results |
 |:-:|
 | ![](Shocks3.png)  |
 
