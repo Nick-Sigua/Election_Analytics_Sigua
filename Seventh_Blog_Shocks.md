@@ -17,7 +17,7 @@ The graphs above demonstrate trends for COVID-19 related variables like the incr
 
 * **General decrease in COVID-19 related daily deaths.** From the data available, the daily deaths attributed to COVID-19 has generally decreased from its peak in late April. Such can be attributed to many factors, including a better understanding of the virus, better treatment available, etc.  
 
-* **General increase in COVID-19 related daily cases and test results.** From the data available, the daily cases and test results attributed to COVID-19 has generally increased since late January. However, daily test results have increased consistently, while daily cases peaked around mid-July, fell drastically, and have experienced a significant resurgence since September. 
+* **General increase in COVID-19 related daily cases and test results.** From the data available, the daily cases and test results attributed to COVID-19 have generally increased since late January. However, daily cases peaked around mid-July, fell drastically, and have experienced a significant resurgence since September, while daily test results have increased consistently. 
 
 **Relationship between COVID-19 Variables and 2020 Candidates' Average Support**
 
