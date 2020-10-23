@@ -41,14 +41,12 @@ Relationship between Daily COVID-19 Test Results and Biden's Average Support  | 
 
 **Implications for 2020 and Takeaways**
 
-Ultimatley, the previous relationships indicate 
-trump strong negative relationship with covid case increases could mean a spike in cases would not bode well for the canddiate 
-difficult to tell how excatly the shock will affect election, but if our data is anything to go off of, most likely in the form of decreasing incumbent vote share, given strong relatnionshopp between polls and vote share observed in previous blogs (blog 3). However, hard to tell based on such situation being unique. 
-Hopefully, data from this election will provide creater insight innto how some of these shocks, like a pandemic, can affect incumbent vote shares and generally how unexpected shocks can affect candidates.
+Ultimately, the previous relationships indicate that COVID-19 will likely negatively affect the incumbent vote share. Given the strong relationship between a candidate’s average support and their vote share I observed in previous blogs (blog 3 link), the strong negative relationship between Trump’s average support and the increase in COVID-19 cases suggests a similar strong relationship exists between Trump’s 2020 vote share and the increase in COVID-19 cases. This is especially pertinent, given previous graphs indicate daily COVID-19 cases are on the rise. 
 
-Impact candidate in the form of cases increase lowering support and thus vote share 
-Considering death rate lowering, likely won’t play a factor in hurting biden
-Most prevalent scenario from data is rising cases, which could hurt trump given its strong relationship to his average support 
+On the other hand, COVID-19 will likely not affect the challenger’s vote share. This is due to the weak relationship evident between Biden’s average support and most of the COVID-19 variables I observed. Moreover, the negative relationship between Biden’s average support and the increase in COVID-19 will likely play a small role in the election given the downward trend of COVID-19 daily deaths. 
+
+Overall, my blog provided insight into the trends and relationships between COVID-19 variables and a candidate’s average support, as well as how such variables might impact a candidate’s vote share. Hopefully, data from the 2020 election will provide further insight on how shocks, like a pandemic, can influence a candidate’s vote shares and future elections. 
+
 
 
 
