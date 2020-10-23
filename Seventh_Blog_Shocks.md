@@ -39,5 +39,12 @@ Relationship between Daily COVID-19 Test Results and Biden's Average Support  | 
 
 **The relationship between daily COVID-19 test results and 2020 candidates' average poll support.** The aforementioned graphs demonstrate the generally negative relationship between Trump's average support in the polls and the daily increase of COVID-19 test results in the United States. However, there appears to be little to no relationship between Biden's average support and the daily increase of COVID-19 test results. This is also evidenced by the r-squared value for the linear regression between the two variables for each candidate, which is 0.46 for Trump and 0.01 for Biden. However, one should note any relationship between a candidate's average support in the polls and the daily increase of COVID-19 test results is likely confounded by the fact that COVID-19 test results have increased consistently over time; thus, relationships between a candidate's average support and daily increase of COVID-19 test results could be reflective of a candidate's average support trends over time.
 
+**Implications for 2020 and Takeaways**
+
+Ultimatley, the previous relationships indicate 
+trump strong negative relationship with covid case increases could mean a spike in cases would not bode well for the canddiate 
+difficult to tell how excatly the shock will affect election, but if our data is anything to go off of, most likely in the form of decreasing incumbent vote share, given strong relatnionshopp between polls and vote share observed in previous blogs (blog 3). However, hard to tell based on such situation being unique. 
+Hopefully, data from this election will provide creater insight innto how some of these shocks, like a pandemic, can affect incumbent vote shares and generally how unexpected shocks can affect candidates . 
+
 
 
