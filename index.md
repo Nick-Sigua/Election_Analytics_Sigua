@@ -20,5 +20,10 @@ Week #5 Blog:
 Week #6 Blog:                                                                                                                             
 [Turnout in Popular Vote Predictions](Sixth_Blog_Turnout.md)   
 
+Week #7 Blog:                                                                                             
+[COVID-19 Variables and Polls](Seventh_Blog_Shocks.md)   
+
+
+
 
 
