@@ -13,7 +13,7 @@ My model consists of a linear regression between the popular vote share and aver
 
 **Model Validation** 
 
-| Checking  | if   |  this  | works  |   |   |
+| Model  | Party |  R-squared | Mean Squared Error  | Leave-One-Out Validation  | Cross Validation  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | test  |  one |  two  | and three  |   |   |
 |   |   |   |   |   |   |
