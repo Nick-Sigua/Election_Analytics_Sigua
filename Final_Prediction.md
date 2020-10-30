@@ -43,9 +43,9 @@ I similarly applied my average support model to each state, using the Democratic
 |:-:|
 |![](Predictions4.png)|
 
-The map above demonstrates Biden's projected two-party popular vote win margins in each state. Biden's win margins were constructed using the difference between Biden's predicted two-party popular vote share and Trump's predicted two-party popular vote share. The blue states indicate the states where Biden is projected to get the majority of the two-party popular vote share, while the red states indicate the states where Trump is projected to attain the majority of the two-party popular vote share. Ultimately, my average support model and the resulting win margins in each state indicate that Biden is projected to receive 319 electoral votes, and Trump is predicted to attain 219 electoral votes. 
+The map above demonstrates Biden's projected two-party popular vote win margins in each state. Biden's win margins were constructed using the difference between Biden's predicted two-party popular vote share and Trump's predicted two-party popular vote share. The blue states indicate the states where Biden is projected to get the majority of the two-party popular vote share, while the red states indicate the states where Trump is projected to attain the majority of the two-party popular vote share. Ultimately, my average support model and the resulting win margins in each state indicate that Biden is projected to receive 319 electoral votes, and Trump is predicted to attain 219 electoral votes.
 
-Similar to the national popular vote predictions, there are uncertainties with the state-level predictions. Aside from the aforementioned predictive intervals, one must consider average support data for 2020 candidates in each state is varied; some states have better and more frequent polling, while others do not. 
+Similar to the national popular vote predictions, there are uncertainties with the state-level predictions. Aside from the aforementioned predictive intervals, one must consider that the average support data for the 2020 candidates in each state is varied; some states have better and more frequent polling, while others do not. 
 
 **Final Takeaways** 
 
