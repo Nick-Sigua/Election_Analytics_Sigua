@@ -13,7 +13,10 @@ My model consists of a linear regression between the popular vote share and aver
 
 **Model Validation** 
 
-
+| Checking  | if   |  this  | works  |   |   |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| test  |  one |  two  | and three  |   |   |
+|   |   |   |   |   |   |
 
 model validation table? <- yes. 
 
