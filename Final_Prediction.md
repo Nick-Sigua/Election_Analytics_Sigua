@@ -28,6 +28,9 @@ Ultimatley, such validations demonstrate that the average support model for both
 
 **National Election Predictions for 2020** 
 
+United States Presidential Election Turnout (1980-2016)  |  United States Midterm Election Turnout (1982-2014)
+:-------------------------:|:-------------------------:
+![](Prediction.png)|![](Prediction2.png)
 
 
 
