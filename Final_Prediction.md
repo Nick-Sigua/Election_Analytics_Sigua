@@ -49,9 +49,11 @@ Similar to the national popular vote predictions, there are uncertainties with t
 
 **Final Takeaways** 
 
-ultaitmely, model projects strong biden winn, natioanl level and electorally. 
-average support model seems strong, good in and out performance
-some uncertainity, but reflects variable i have worked with throughout semester, strong performance. 
+Ultimatley, my linear regression model based on average support projects a Biden win, with the Democratic candidate taking 52.1% of the two-party popular vote share and 319 electoral votes. Of course, such prediction is not without its uncertainity, but the model's strong in-sample and out-of-sample performance for both Democratic and Republican candidates indicates that the model's afromentioned predictions have some validity. 
+
+further data from future elections, including this one, will continue to imporve such model, 
+
+
 
 
 
