@@ -37,7 +37,7 @@ Of course, such prediction does not come without uncertainty. The predictive int
 
 **State-Level Election Predictions for 2020** 
 
-I similarly applied my average support model to each state, using the Democratic and Republican candidates' average support in each state to predict their state-level 2020 popular vote shares. I relied on the formula and coefficients of the average support model on the national level instead of running a linear regression between a candidate's popular vote share and average support in each state due to the lack of historical popular vote and average support data on the state level. 
+I similarly applied my average support model to each state, using the Democratic and Republican candidates' average support in each state to predict their state-level 2020 popular vote shares. I relied on the formula and coefficients of the average support model on the national level instead of running a linear regression between a candidate's popular vote share and average support in each state due to the limited/lack of historical popular vote and average support data on the state level. 
 
 | Projected Win Margins Map for 2020 |
 |:-:|
