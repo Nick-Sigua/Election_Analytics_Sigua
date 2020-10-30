@@ -37,15 +37,15 @@ Of course, such prediction does not come without uncertainty. The predictive int
 
 **State-Level Election Predictions for 2020** 
 
-I similarly applied my average support model to each state, using the Democratic and Republican candidate's average support in each state to predict their state-level 2020 popular vote shares. I relied on the formula and coeffiecients of the model on the national level, as opposed to runninng a linear regression between a candidate's popular vote share and average support in each state, given the lack of historical popular vote and average support data on the state level relative to the national level. The map below demonstrates Biden's projected two-party popular vote win margins in each state. 
+I similarly applied my average support model to each state, using the Democratic and Republican candidates' average support in each state to predict their state-level 2020 popular vote shares. I relied on the formula and coefficients of the average support model on the national level instead of running a linear regression between a candidate's popular vote share and average support in each state due to the lack of historical popular vote and average support data on the state level. 
 
 | Projected Win Margins Map for 2020 |
 |:-:|
 |![](Predictions4.png)|
 
-the win margins constructed using pv2p differences, win margins for Biden. while blue states denoted as blue, red states denoted as red, white states are battleground states, tight win margins. according to this model, biden is projected to get X electoral votes, compared to trump's 207. 
+The map above demonstrates Biden's projected two-party popular vote win margins in each state. Biden's win margins were constructed using the difference between Biden's predicted two-party popular vote share and Trump's predicted two-party popular vote share. The blue states indicate the states where Biden is projected to get the majority of the two-party popular vote share, while the red states indicate the states where Trump is projected to attain the majority of the two-party popular vote share. Ultimately, my average support model and the resulting win margins in each state indicate that Biden is projected to receive 319 electoral votes, and Trump is predicted to attain 219 electoral votes. 
 
-uncertainity. Similar to natioanl model, some uncertainity with prediciton. especially cosiderinng average support data in 2020 between each state varied, some have more/better polls. also assuming biases in each state not too strong.
+Similar to the national popular vote predictions, there are uncertainties with the state-level predictions. Aside from the aforementioned predictive intervals, one must consider average support data for 2020 candidates in each state is varied; some states have better and more frequent polling, while others do not. 
 
 **Final Takeaways** 
 
