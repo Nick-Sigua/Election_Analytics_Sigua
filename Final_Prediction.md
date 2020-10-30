@@ -17,6 +17,8 @@ My model consists of a linear regression between the popular vote share and aver
 
 model validation table? <- yes. 
 
+then in sample and out of sample, bolded 
+
 
 
 
