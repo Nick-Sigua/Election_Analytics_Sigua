@@ -49,7 +49,7 @@ Similar to the national popular vote predictions, there are uncertainties with t
 
 **Final Takeaways** 
 
-Ultimatley, my linear regression model based on average support projects a Biden win, with the Democratic candidate taking 52.1% of the two-party popular vote share and 319 electoral votes. Of course, such prediction is not without its uncertainity, but the model's strong in-sample and out-of-sample performance for both Democratic and Republican candidates indicates that the model's afromentioned predictions have some validity. Additional data from future elections, including 2020, will continue to improve my model and its predictive ability. 
+Ultimately, my linear regression model based on average support projects a Biden win, with the Democratic candidate taking 52.1% of the two-party popular vote share and 319 electoral votes. Of course, such prediction is not without its uncertainty, but the model's strong in-sample and out-of-sample performance for both Democratic and Republican candidates indicate that the model's afromentioned predictions have some validity. Additional data from future elections, including 2020, will continually improve my model and its predictive ability.
 
 
 
