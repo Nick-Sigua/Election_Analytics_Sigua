@@ -31,9 +31,9 @@ Democratic Candidate 2020 Predicted Vote Share  |  Republican Candidate 2020 Pre
 :-------------------------:|:-------------------------:
 ![](Prediction.png)|![](Prediction2.png)
 
-Using the average support model, the above graphs demonstrate my prediction for the 2020 candidates' vote shares (with the blue dot denoting such prediction). While the Republican candidate, Donald Trump, is predicted to receive 46.22% of the popular vote, the Democratic candidate, Joe Biden, is predicted to receive 50.27% of the popular vote. This translates to Trump receiving 47.9% of the two-party popular vote share and Biden receiving 52.1% of the two-party popular vote share. 
+Using the average support model, the above graphs demonstrate my prediction for the 2020 candidates' vote shares (with the blue dot denoting such prediction). While my model projects that the Republican candidate, Donald Trump, will receive 46.22% of the popular vote, the Democratic candidate, Joe Biden, is projected to receive 50.27% of the popular vote. This translates to Trump receiving 47.9% of the two-party popular vote share and Biden receiving 52.1% of the two-party popular vote share.
 
-Of course, such prediction does not come without uncertainty. The predictive interval associated with Trump's projected popular vote share is between 37.86% and 54.57%. Moreover, the predictive interval associated with Biden's projected popular vote share falls between 43.39% and 57.15%. 
+Of course, such prediction does not come without some uncertainty. The predictive interval associated with Trump's projected popular vote share is between 37.86% and 54.57%. Moreover, the predictive interval associated with Biden's projected popular vote share falls between 43.39% and 57.15%. 
 
 **State-Level Election Predictions for 2020** 
 
