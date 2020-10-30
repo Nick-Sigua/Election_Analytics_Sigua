@@ -37,7 +37,7 @@ Of course, such prediction does not come without uncertainty. The predictive int
 
 **State-Level Election Predictions for 2020** 
 
-When looking at the individual states, I applied my national model formula to predict the vote shares in each state based on the average support for the candidates in each state. I used the formula and coefficient from the national model to predict the state level popular shares, given the lack of data at the state level between popular vote shares and average support relative to such data at the national level. This model will therefore assume such individual state biases will cancel out. 
+I similarly applied my average support model to each state, using the Democratic and Republican candidate's average support in each state to predict their 2020 popular vote shares. I relied on the formula and coeffiecients of the model on the national level, as opposed to runninng a linear regression between a candidate's popular vote share and average support in each state, given the lack of historical popular vote and average support data on the state level relative to the national level. The map below demonstrates Biden's projected two-party popular vote win margins in each state. 
 
 | Projected Win Margins Map for 2020 |
 |:-:|
