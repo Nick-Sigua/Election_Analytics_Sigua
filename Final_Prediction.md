@@ -18,13 +18,13 @@ My model consists of a linear regression between the popular vote share and aver
 | Average Support Model  | Democrat  |  0.64  | 2.63 | -0.72  | 1.59  |
 |  Average Support Model   |  Republican | 0.72  | 3.35  |  -0.09 |  1.98 |
 
-The in-sample and out-of-sample performance of my model is summarized in the table above. Some of the major takeaways include:
+The in-sample and out-of-sample performance of my model are summarized in the table above. Some of the major takeaways include:
 
-* **In-sample fit.** The in-sample fit for the average support model is fairly strong for both parties. While the r-squared value for the Republican candidate average support model is greater than the r-squared value for the Democratic candidate model, the Democratic candidate average support model has a lower mean squared error relative to the Republican model. 
+* **In-sample fit.** The in-sample fit for the average support model is relatively strong for both parties, with neither party's model having a significantly greater fit than the other. While the Republican candidate average support model has a larger r-squared value than the Democratic candidate model, the Democratic candidate average support model has a lower mean squared error than the Republican candidate average support model. 
 
-* **Out-of-sample error.** The out-of-sample error for the average support model is not large either. In fact, the leave-one-out validation value for the Republican canddiate average support model is only -0.09. However, the Democratic candidate average support model has the lower cross validaiton value of the two parties. 
+* **Out-of-sample error.** The out-of-sample error for the average support model is not large either. In fact, the leave-one-out validation value for the Republican candidate average support model is only -0.09. However, the Democratic candidate average support model has the lower cross-validation value of the two parties. 
 
-Ultimatley, such validations demonstrate that the average support model for both parties performs relativley well, considering in-sample fit and out-of-sample error. 
+Ultimately, such validations demonstrate that both parties' average support models perform relatively well, considering both their in-sample fit and out-of-sample error. 
 
 **National Election Predictions for 2020** 
 Democratic Candidate 2020 Predicted Vote Share  |  Republican Candidate 2020 Predicted Vote Share 
