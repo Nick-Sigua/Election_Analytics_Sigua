@@ -39,9 +39,9 @@ Of course, such prediction does not come without uncertainty. The predictive int
 
 When looking at the individual states, I applied my national model formula to predict the vote shares in each state based on the average support for the candidates in each state. I used the formula and coefficient from the national model to predict the state level popular shares, given the lack of data at the state level between popular vote shares and average support relative to such data at the national level. This model will therefore assume such individual state biases will cancel out. 
 
-|Win Margins Map for 2020 |
+| Projected Win Margins Map for 2020 |
 |:-:|
-|![](Predictions3.png)|
+|![](Predictions4.png)|
 
 the win margins constructed using pv2p differences, win margins for Biden. while blue states denoted as blue, red states denoted as red, white states are battleground states, tight win margins. according to this model, biden is projected to get X electoral votes, compared to trump's 207. 
 
