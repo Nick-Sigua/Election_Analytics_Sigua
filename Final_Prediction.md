@@ -16,7 +16,7 @@ My model consists of a linear regression between the popular vote share and aver
 | Model  | Party |  R-squared | Mean Squared Error  | Leave-One-Out Validation  | Cross Validation  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Average Support Model  | Democrat  |  0.64  | 2.63 | -0.72  | 1.59  |
-|  Average Support Model   |  Republican | 0.72  | 3.347599  |  -0.09 |  1.98 |
+|  Average Support Model   |  Republican | 0.72  | 3.35  |  -0.09 |  1.98 |
 
 then in sample and out of sample, bolded 
 
