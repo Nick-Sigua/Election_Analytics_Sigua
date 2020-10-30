@@ -15,8 +15,8 @@ My model consists of a linear regression between the popular vote share and aver
 
 | Model  | Party |  R-squared | Mean Squared Error  | Leave-One-Out Validation  | Cross Validation  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| Average Support Model  | Democrat  |  two  | and three  |   |   |
-|  Average Support Model   |  Republican |   |   |   |
+| Average Support Model  | Democrat  |  0.6433995  | 2.627632 | -0.7204367  | 1.587792  |
+|  Average Support Model   |  Republican | 0.7213893  | 3.347599  |  -0.08748293 |   
 
 model validation table? <- yes. 
 
