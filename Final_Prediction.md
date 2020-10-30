@@ -27,8 +27,7 @@ The in-sample and out-of-sample performance of my model is summarized in the tab
 Ultimatley, such validations demonstrate that the average support model for both parties performs relativley well, considering in-sample fit and out-of-sample error. 
 
 **National Election Predictions for 2020** 
-
-United States Presidential Election Turnout (1980-2016)  |  United States Midterm Election Turnout (1982-2014)
+Democratic Candidate 2020 Predicted Vote Share  |  Republican Candidate 2020 Predicted Vote Share 
 :-------------------------:|:-------------------------:
 ![](Prediction.png)|![](Prediction2.png)
 
