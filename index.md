@@ -24,7 +24,11 @@ Week #7 Blog:
 [COVID-19 Variables and Polls](Seventh_Blog_Shocks.md)   
 
 Final Election Prediction Blog:                                                                                     
-[Final Election Prediction](Final_Prediction.md)  
+[Final Election Prediction](Final_Prediction.md)                                  
+
+Post-Election Reflection Blog:                                                                              
+[Post-Election Reflection](Post-election Reflection.md)   
+
 
 
 
