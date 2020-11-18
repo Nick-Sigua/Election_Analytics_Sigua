@@ -25,3 +25,6 @@ Of course, such predictions did come with some uncertainty. For instance, the pr
 should I justify application to state? probs not, will roast it and mention it later on in hypothesis 1 (in my predictions, I assumed model could be applied to each state.....but did not account for bias...)
 
 
+**Evaluating The Average Suppot Model's Accuracy**
+
+
