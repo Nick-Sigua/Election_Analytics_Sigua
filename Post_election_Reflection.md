@@ -7,4 +7,4 @@ In this blog, I will seek to provide a comprehensive reflection on my final pred
 **The Average Suppot Model and its Predictions**
 
 quick recap, so maybe 150-200 words max?
-just provide model, variables, national model applied to states, then list of states I predicted blue and red, electoral vote and national pv2p. 
+just provide model, variables, national model applied to states, then list of states I predicted blue and red (would be nice to include map of this, but not necessary), electoral vote and national pv2p. 
