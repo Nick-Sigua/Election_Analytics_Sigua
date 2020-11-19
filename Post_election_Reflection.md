@@ -25,9 +25,9 @@ should I justify application to state? probs not, will roast it and mention it l
 
 **Evaluating The Average Suppot Model's Accuracy**
 
-Given the afromentioned uncertainty, I anticipated some error for each of my predictions. Nevertheless, my model was very accurate on the national level, with Trump and Biden's actual two-party popular vote shares (48% and 52%, respectively) being extremely close to my model's predictions for such candidates (47.9% and 52.1%, respectively). On the state level, my model also performed relatively well, although not to the same degree. For instance, my model's predicted electoral vote tally for each candidate (219 and 319 for Trump and Biden, respectively) was not far off from the actual electoral vote tally for Trump and Biden (232 and 306, respectively). My model's incorrect prediction of a Trump win in Georgia, and a Biden win in Florida accounts for such deviation in electoral vote tally's. The graphs below summarize the distribution of the state-level two-party popular vote error (predicted - actual) for both candidates. 
+Given the afromentioned uncertainty, I anticipated some error for each of my predictions. Nevertheless, my model was very accurate on the national level, with Trump and Biden's actual two-party popular vote shares (48% and 52%, respectively) being extremely close to my model's predictions for such candidates (47.9% and 52.1%, respectively). On the state level, my model also performed relatively well, although not to the same degree. For instance, my model's predicted electoral vote tally for each candidate (219 and 319 for Trump and Biden, respectively) was not far off from the actual electoral vote tally for Trump and Biden (232 and 306, respectively). My model's incorrect prediction of a Trump win in Georgia, and a Biden win in Florida accounts for such deviation in electoral vote tally's. The graphs below summarize the distribution of the state-level two-party popular vote error for both candidates. 
 
-Democratic Candidate 2020 Predicted Vote Share  |  Republican Candidate 2020 Predicted Vote Share 
+Trump's State-Level Two-Party Popular Vote Error   |  Biden's State-Level Two-Party Popular Vote Error
 :-------------------------:|:-------------------------:
 ![](Reflection4.png)|![](Reflection5.png)
 
