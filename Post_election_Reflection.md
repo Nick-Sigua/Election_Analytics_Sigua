@@ -35,7 +35,7 @@ These graphs illustrate that my average support model underestimated Trump's two
 
 | Abolsute Error Margin Map for the Average Support Model |
 |:-:|
-|![](Reflections1.png)|
+|![](Reflection1.png)|
 
 This map demonstrates that my model performed worse in some states, like X and Y, than others, like X and Y. Geographically, the spread of my state errors does seem to be varied, although there does seem to be a consolidation of errors in the midwest region. However, this could be a product of such states being blowout states as well, given that other areas, like DC or VT, don't fit this midwest pattern, while other midwest states, like X and Y, don't fit this either. Interestingly, the states my model performed the worst in did not seem to be the states I called wrong, like FL or Georgia, but rather the blow out states. This is further demonatrated by the graphs below:
 
