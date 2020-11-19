@@ -27,4 +27,23 @@ should I justify application to state? probs not, will roast it and mention it l
 
 **Evaluating The Average Suppot Model's Accuracy**
 
+Given the uncertainity in my model, I expected there to be some error. At a high level, my model performed relativley well for predicting the national election results, with the actual pv2p for Trump and Biden at X and Y being very close to the X and Y from my predictions. At a high level, my model also did not perform poorly when predicting the total electoral vote tally's for each candidate, with the values, X and Y, also very close to my predictions, X and Y. The graphs below summarize the distribution of state level pv2p errors (predicted - actual) for each candidate
+
+Graph 1 and 2 (histograms)
+
+Such indicate my model underestimated Trump and overestimated Biden across most of the states. This led to the RMSE for my state-by-state error to be X. As for which states my model was associated with particularly high error, look at the map below:
+
+Map 
+
+This map demonstrates that my model performed worse in some states, like X and Y, than others, like X and Y. Geographically, the spread of my state errors does seem to be varied, although there does seem to be a consolidation of errors in the midwest region. However, this could be a product of such states being blowout states as well, given that other areas, like DC or VT, don't fit this midwest pattern, while other midwest states, like X and Y, don't fit this either. 
+Interestingly, the states my model performed the worst in did not seem to be the states I called wrong, like FL or Georgia, but rather the blow out states. 
+
+
+
+
+
+
+
+
+
 
