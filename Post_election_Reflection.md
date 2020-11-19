@@ -25,23 +25,25 @@ should I justify application to state? probs not, will roast it and mention it l
 
 **Evaluating The Average Suppot Model's Accuracy**
 
-Given the afromentioned uncertainty, I anticipated some error for each of my predictions. Nevertheless, my model was very accurate on the national level, with Trump and Biden's actual two-party popular vote shares (48% and 52%, respectively) being extremely close to my model's predictions for such candidates (47.9% and 52.1%, respectively). On the state level, my model also performed relatively well, although not to the same degree. For instance, my model's predicted electoral vote tally for each candidate (219 and 319 for Trump and Biden, respectively) was not far off from the actual electoral vote tally for Trump and Biden (232 and 306, respectively). My model's incorrect prediction of a Trump win in Georgia, and a Biden win in Florida accounts for such deviation in electoral vote tally's. The graphs below summarize the distribution of the state-level two-party popular vote error for both candidates. 
+Overall, my model was quite accurate on the national level, with my model's predictions for Trump and Biden's two-party popular vote shares (47.9% and 52.1%, respectively) being extremely close to Trump and Biden's actual two-party popular vote shares (48% and 52%, respectively). On the state level, my model also performed relatively well, although not to the same degree as my national level predictions. For instance, my model's predicted electoral vote tally for each candidate (219 and 319 for Trump and Biden, respectively) was not far off from the actual electoral vote tally for Trump and Biden (232 and 306, respectively). My model's incorrect prediction of a Trump win in Georgia, and a Biden win in Florida accounts for such deviation in electoral vote tally's. The graphs below summarize the distribution of the state-level two-party popular vote share error for both candidates. 
 
 Trump's State-Level Two-Party Popular Vote Error   |  Biden's State-Level Two-Party Popular Vote Error
 :-------------------------:|:-------------------------:
 ![](Reflection4.png)|![](Reflection5.png)
 
-These graphs illustrate that my average support model underestimated Trump's two-party popular vote share and overestimated Biden's two-party popular vote share in the majority of states. This led my model's state-level predictions to be associated with an RMSE value of 5.64. Of course, my model's prediction error varied across each state. The map below illustrates the absolute error margin of my model's predictions for Trump in each of the states:
+These graphs illustrate that my average support model underestimated Trump's two-party popular vote share and overestimated Biden's two-party popular vote share in the majority of states. This led my model's state-level predictions to be associated with an RMSE value of 5.64. Of course, my model's prediction error varied across each state. The map below illustrates the absolute error margin of my model's predictions for Trump in each state:
 
 | Abolsute Error Margin Map for the Average Support Model |
 |:-:|
 |![](Reflection1.png)|
 
-This map demonstrates that my model performed worse in some states, like X and Y, than others, like X and Y. Geographically, the spread of my state errors does seem to be varied, although there does seem to be a consolidation of errors in the midwest region. However, this could be a product of such states being blowout states as well, given that other areas, like DC or VT, don't fit this midwest pattern, while other midwest states, like X and Y, don't fit this either. Interestingly, the states my model performed the worst in did not seem to be the states I called wrong, like FL or Georgia, but rather the blow out states. This is further demonatrated by the graphs below:
+This map demonstrates that the absolute error associated with my model's predictions varied significantly between different states, i.e., my model had a high prediction error margin in states like West Virginia and Wyoming but a low prediction error margin in states like Nevada and Arizona. Geographically, each region of the United States has some states with high prediction error margins, although there seems to be a consolidation of such states in the midwest. However, this could merely be a product of the midwest containing a high number of blowout states in the 2020 election. 
 
-Graphs
+Trump's State-Level Two-Party Popular Vote Error   |  Biden's State-Level Two-Party Popular Vote Error
+:-------------------------:|:-------------------------:
+![](Reflection2.png)|![](Reflection3.png)
 
-Graphs demonstrate that blow out state and high error states are very similar. in fact, RMSE of blowout states much higher than RMSE average of all states. ultimatley, model was fairly accurate, getting national predictions right, but varying more state by state, especially in blow out states. 
+Graphs demonstrate that blow out state and high error states are in fact very similar, giving creedance to the notion that error and blowout state similar . in fact, RMSE of blowout states much higher than RMSE average of all states. ultimatley, model was fairly accurate, getting national predictions right, but varying more state by state, especially in blow out states. 
 
 
 
