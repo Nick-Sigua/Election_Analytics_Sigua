@@ -25,12 +25,11 @@ should I justify application to state? probs not, will roast it and mention it l
 
 **Evaluating The Average Suppot Model's Accuracy**
 
-Given the afromentioned uncertainity, I ancticipated some error for each of my predictions. In actuality, my model was very accurate on the national level, with Trump and Biden's actual two-party popular vote shares (48% and 52%, respectivley) being extremely close to my model's predictions for both candidates (47.9% and 52.1%, respectivley). On the state-level, my model also performed relativley well, although not to the same degree. For instance, my model's predicted electoral vote tally for each candidate (219 and 319 for Trump and Biden, respectivley) was not far off from the actual electoral vote tally's for Trump and Biden (232 and 306, respectivley). 
+Given the afromentioned uncertainty, I anticipated some error for each of my predictions. Nevertheless, my model was very accurate on the national level, with Trump and Biden's actual two-party popular vote shares (48% and 52%, respectively) being extremely close to my model's predictions for such candidates (47.9% and 52.1%, respectively). On the state level, my model also performed relatively well, although not to the same degree. For instance, my model's predicted electoral vote tally for each candidate (219 and 319 for Trump and Biden, respectively) was not far off from the actual electoral vote tally for Trump and Biden (232 and 306, respectively). My model's incorrect prediction of a Trump win in Georgia, and a Biden win in Florida accounts for such deviation in electoral vote tally's. The graphs below summarize the distribution of the state-level two-party popular vote error (predicted - actual) for both candidates. 
 
-
-At a high level, my model performed relativley well for predicting the national election results, with the actual pv2p for Trump and Biden at X and Y being very close to the X and Y from my predictions. At a high level, my model also did not perform poorly when predicting the total electoral vote tally's for each candidate, with the values, X and Y, also very close to my predictions, X and Y. The graphs below summarize the distribution of state level pv2p errors (predicted - actual) for each candidate
-
-Graph 1 and 2 (histograms)
+Democratic Candidate 2020 Predicted Vote Share  |  Republican Candidate 2020 Predicted Vote Share 
+:-------------------------:|:-------------------------:
+![](Reflection1.png)|![](Reflection2.png)
 
 Such indicate my model underestimated Trump and overestimated Biden across most of the states. This led to the RMSE for my state-by-state error to be X. As for which states my model was associated with particularly high error, look at the map below:
 
