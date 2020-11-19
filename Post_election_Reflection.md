@@ -31,9 +31,11 @@ Trump's State-Level Two-Party Popular Vote Error   |  Biden's State-Level Two-Pa
 :-------------------------:|:-------------------------:
 ![](Reflection4.png)|![](Reflection5.png)
 
-Such indicate my model underestimated Trump and overestimated Biden across the majority  of the states. This led to the RMSE for my state-by-state error to be X. As for which states my model was associated with particularly high error, look at the map below:
+These graphs illustrate that my average support model underestimated Trump's two-party popular vote share and overesitimated Biden's two-party popular vote share in the majority of states. This led my model's state-level predictions to be associated with an RMSE value of 5.64. Of course, my model's prediction error varied across each state. The map below illustrates the absolute error margin of my model's predictions for Trump in each of the states:
 
-Map 
+| Abolsute Error Margin Map for the Average Support Model |
+|:-:|
+|![](Reflections1.png)|
 
 This map demonstrates that my model performed worse in some states, like X and Y, than others, like X and Y. Geographically, the spread of my state errors does seem to be varied, although there does seem to be a consolidation of errors in the midwest region. However, this could be a product of such states being blowout states as well, given that other areas, like DC or VT, don't fit this midwest pattern, while other midwest states, like X and Y, don't fit this either. Interestingly, the states my model performed the worst in did not seem to be the states I called wrong, like FL or Georgia, but rather the blow out states. This is further demonatrated by the graphs below:
 
