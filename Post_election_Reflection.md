@@ -31,7 +31,7 @@ Trump's State-Level Two-Party Popular Vote Error   |  Biden's State-Level Two-Pa
 :-------------------------:|:-------------------------:
 ![](Reflection4.png)|![](Reflection5.png)
 
-These graphs illustrate that my average support model underestimated Trump's two-party popular vote share and overesitimated Biden's two-party popular vote share in the majority of states. This led my model's state-level predictions to be associated with an RMSE value of 5.64. Of course, my model's prediction error varied across each state. The map below illustrates the absolute error margin of my model's predictions for Trump in each of the states:
+These graphs illustrate that my average support model underestimated Trump's two-party popular vote share and overestimated Biden's two-party popular vote share in the majority of states. This led my model's state-level predictions to be associated with an RMSE value of 5.64. Of course, my model's prediction error varied across each state. The map below illustrates the absolute error margin of my model's predictions for Trump in each of the states:
 
 | Abolsute Error Margin Map for the Average Support Model |
 |:-:|
