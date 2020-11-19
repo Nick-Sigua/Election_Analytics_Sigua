@@ -37,13 +37,17 @@ These graphs illustrate that my average support model underestimated Trump's two
 |:-:|
 |![](Reflection1.png)|
 
-This map demonstrates that the absolute error associated with my model's predictions varied significantly between different states, i.e., my model had a high prediction error margin in states like West Virginia and Wyoming but a low prediction error margin in states like Nevada and Arizona. Geographically, each region of the United States has some states with high prediction error margins, although there seems to be a consolidation of such states in the midwest. However, this could merely be a product of the midwest containing a high number of blowout states in the 2020 election. 
+This map demonstrates that the absolute error associated with my model's predictions varied significantly between different states, i.e., my model had a high prediction error margin in states like West Virginia and Wyoming but a low prediction error margin in states like Nevada and Arizona. Geographically, each region of the United States has some states with high prediction error margins, although there seems to be a consolidation of such states in the midwest. However, this could merely be a product of the midwest containing a high number of blowout states in the 2020 election, which my model seemed to perform the worst in. 
 
 Trump's State-Level Two-Party Popular Vote Error   |  Biden's State-Level Two-Party Popular Vote Error
 :-------------------------:|:-------------------------:
 ![](Reflection2.png)|![](Reflection3.png)
 
-Graphs demonstrate that blow out state and high error states are in fact very similar, giving creedance to the notion that error and blowout state similar . in fact, RMSE of blowout states much higher than RMSE average of all states. ultimatley, model was fairly accurate, getting national predictions right, but varying more state by state, especially in blow out states. 
+The graphs above display the 10 states associated with the highest prediction error and actual win margin, respectivley. Such gives creedance to the notion that my model's predivtive error was more prevalant in "blowout" states, given 7 out of the 10 states with the highest actual win margin were also the states with the highest prediction error. In fact, the RMSE of the 10 states with the highest actual win margin was 10.07; this is substantially higher than the RMSE for every state (5.64). 
+
+Ultimatley, 
+
+ultimatley, model was fairly accurate, getting national predictions right, but varying more state by state, especially in blow out states. 
 
 
 
