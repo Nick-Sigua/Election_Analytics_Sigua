@@ -18,16 +18,17 @@ Democrat states: DC, MA, RI, NY, VT, HI, MD, CA, CT, DE, WA, NJ, OR, IL, NM, VA,
 
 Republican states: NC, IA, OH, GA, TX, AK, SC, IN, MT, MO, NE, KS, UT, SD, KY, TN, LA, AL, ND, WV, MS, ID, OK, AR, WY
 
-Of course, such predictions did come with some uncertainty. For instance, the predictive interval for Trump's projected popular vote share was between 37.86% and 54.57%; the predictive interval for Biden's projected popular vote share fell between 43.39% and 57.15%. Moreover, I anticipated further uncertainty on the state-level, given variation between different states on their polls' frequency and quality. 
+Of course, such predictions did come with some uncertainty. For instance, the predictive interval for Trump's national projected popular vote share was between 37.86% and 54.57%; the predictive interval for Biden's national projected popular vote share was between 43.39% and 57.15%. Moreover, I anticipated further uncertainty on the state-level, given variation between different states on their polls' frequency and quality. 
 (could include something about bias here, or maybe remove this section entirely).
-
 
 should I justify application to state? probs not, will roast it and mention it later on in hypothesis 1 (in my predictions, I assumed model could be applied to each state.....but did not account for bias...)
 
-
 **Evaluating The Average Suppot Model's Accuracy**
 
-Given the uncertainity in my model, I expected there to be some error. At a high level, my model performed relativley well for predicting the national election results, with the actual pv2p for Trump and Biden at X and Y being very close to the X and Y from my predictions. At a high level, my model also did not perform poorly when predicting the total electoral vote tally's for each candidate, with the values, X and Y, also very close to my predictions, X and Y. The graphs below summarize the distribution of state level pv2p errors (predicted - actual) for each candidate
+Given the afromentioned uncertainity, I ancticipated some error for each of my predictions. In actuality, my model was very accurate on the national level, with Trump and Biden's actual two-party popular vote shares (48% and 52%, respectivley) being extremely close to my model's predictions for both candidates (47.9% and 52.1%, respectivley). On the state-level, my model also performed relativley well, although not to the same degree. For instance, my model's predicted electoral vote tally for each candidate (219 and 319 for Trump and Biden, respectivley) was not far off from the actual electoral vote tally's for Trump and Biden (232 and 306, respectivley). 
+
+
+At a high level, my model performed relativley well for predicting the national election results, with the actual pv2p for Trump and Biden at X and Y being very close to the X and Y from my predictions. At a high level, my model also did not perform poorly when predicting the total electoral vote tally's for each candidate, with the values, X and Y, also very close to my predictions, X and Y. The graphs below summarize the distribution of state level pv2p errors (predicted - actual) for each candidate
 
 Graph 1 and 2 (histograms)
 
