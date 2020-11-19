@@ -29,7 +29,7 @@ Given the afromentioned uncertainty, I anticipated some error for each of my pre
 
 Democratic Candidate 2020 Predicted Vote Share  |  Republican Candidate 2020 Predicted Vote Share 
 :-------------------------:|:-------------------------:
-![](Reflection2.png)|![](Reflection3.png)
+![](Reflection4.png)|![](Reflection5.png)
 
 Such indicate my model underestimated Trump and overestimated Biden across the majority  of the states. This led to the RMSE for my state-by-state error to be X. As for which states my model was associated with particularly high error, look at the map below:
 
