@@ -50,20 +50,17 @@ Overall, my model is relatively accurate. My model was most accurate in its nati
 
 **Hypotheses for the Average Support Model's Inaccuracies**
 
-Although there might be several reasons why my model was inaccurate in certain states, I will mainly consider two hypotheses: my model's lack of accounting for specific state biases and the variation in poll quality between different states. Given such hypotheses, I will also propose quantitative tests that could evaluate the validity of each hypothesis. 
+Although there might be several reasons why my model was inaccurate in certain states, I will mainly consider two hypotheses: my model's lack of accounting for specific state biases and the variation in poll quality between different states. I will also propose quantitative tests that could evaluate the validity of each hypothesis. 
 
 **Hypothesis #1**
 
 My first hypothesis is that my model was inaccurate in individual states, given it did not account for their state-specific biases. As mentioned, I constructed the average support model based on a regression of historical popular vote and average poll support data on the national level. Thus, my model's application onto each state implicitly assumes the relationship between a candidate's popular vote and average support is the same on the state-level as the national level; however, this might not be the case. For instance, polls in a deeply red state, like Wyoming, could have historically underestimated the Republican candidate's actual vote share in presidential elections. Given my model does not factor such bias in, its predictions would then understate Trump's vote share in the region and lead to the error I observed in such a state. This type of state bias has some basis, given, as Nate Silver points out, that it is not uncommon for polls in historically blue or historically red states to underestimate the winning candidate's margin (https://fivethirtyeight.com/features/what-state-polls-can-tell-us-about-the-national-race/). Thus, it's clear to see how my first hypothesis could explain why my model was inaccurate in some states, particularly the blowout states I noted above. 
 
-My proposed quantitative test for such hypothesis would be to run a regression between historical average support data and popular vote data for each state, but particularly the states my model predicted very inaccurately. 
+My proposed quantitative test for such a hypothesis would be to run regressions between historical average support and popular vote data for each state, particularly the states my model predicted inaccurately. In a perfect world, such historical data would be available and span multiple election cycles. If the individual state average support models derived from such regressions yielded state-level popular vote predictions that were significantly closer to the actual popular vote shares of the 2020 candidates than my model's state predictions, such would suggest my model's lack of accounting for state-specific biases caused a significant portion of the inaccuracy in my model's predictions. 
+(could provide a specific state example here, but might not be necessary)
 
-In a perfect world, such historical data for each of the states would be available, spanning many election cycles. If these state-specific regressions resulted in models with significantly different relationships between a candidate’s average support and popular vote share than my original model, such would be evidence for my first hypothesis. 
 
 
-if the new predictions arising from these individual state regressions were significantly closer to the actual figures than my model's state predcitons, such would mean my hypothesis that my model's lack of accounting for specific-state biases really did account from the innaccuracy. 
-
-To test this, I could simply run individual regression with data, in a perfect world, describing avg support and pop vote In these states. If the predicted regression and pop vote in these states using such state level data varied significantly from my own model (i.e., more accurate), then such would provide evidence that my model did not incorporate the specific state level biases and therefore led to substantial error in these placed. 
 
 
 
