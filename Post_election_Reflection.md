@@ -45,9 +45,6 @@ Top 10 States with the Greatest Absolute Prediction Error   |  Top 10 States wit
 
 The graphs above display the ten states associated with the highest prediction error and actual win margin. Such gives credence to the notion that my model's prediction error was more prevalent in "blowout" states, given seven out of the ten states with the highest actual win margin were also the states with the highest prediction errors. In fact, the RMSE of the ten states with the highest actual win margin was 10.07; this is substantially higher than the RMSE across all the states (5.64). 
 
-Overall, my model is relatively accurate. My model was most accurate in its national two-party popular vote predictions and less so in its state-by-state predictions, where prediction error varied between states; this variation was most pronounced when considering the high error associated with my mode's predictions for blowout states. 
-(do I need this section? - probs not, already long enough, consider deleting)
-
 **Hypotheses for the Average Support Model's Inaccuracies**
 
 Although there might be several reasons why my model was inaccurate in certain states, I will mainly consider two hypotheses: my model's lack of accounting for specific state biases and the variation in poll quality and frequency between different states. I will also propose quantitative tests that could evaluate the validity of each hypothesis. 
