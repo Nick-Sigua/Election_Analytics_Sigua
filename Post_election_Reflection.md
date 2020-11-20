@@ -48,6 +48,18 @@ The graphs above display the ten states associated with the highest prediction e
 Overall, my model is relatively accurate. My model was most accurate in its national two-party popular vote predictions and less so in its state-by-state predictions, where prediction error varied between states; this variation was most pronounced when considering the high error associated with my mode's predictions for blowout states. 
 (do I need this section? - probs not, already long enough, consider deleting)
 
+**Hypotheses for the Average Support Model's Inaccuracies **
+
+Although there might be several reasons why my model was inaccurate in certain states, I will mainly consider two hypotheses: my model's lack of accounting for specific state biases and the variation in poll quality between different states. Given such hypotheses, I will also propose quantitative tests that could evaluate the validity of each hypothesis. 
+
+My first hypothesis is that my model was inaccurate in some states given my model did not factor in state specific biases (I built the model based on national historical election data). Thus, in some states the relationship between average poll support and the popular vote could be significantly different than what my model anticipated, leading to the error in these particular states. 
+
+First hypothesis should be smaller than previous, more specific to my model. Merely describes discrepancy between pooled and unpooled model. i.e error could have arisen in states due to relationship and regression in these states not matching national trends. 
+Thus, if certain states, like red blowout states, had systematically underestimated republican candidates, then my model would not have accounted for such and thus incorrectly predicted Trump’s win margin in these areas. 
+(Provide some evidence that might support this hypothesis? i.e., evidence that red blowout states systematically underestimate republican candidates, giving credence to the notion that my model would not account for this specific state level bias and therefore have error?)
+but don't need too much evidence, given that my proposed quantitative test would ultimatley be proof. 
+
+Boom, I have evidence to suggest that polls in very blue or very red states systematically underestimate respective party candidate actual vote share, 
 
 
 
