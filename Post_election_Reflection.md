@@ -41,7 +41,7 @@ This map demonstrates that the absolute error associated with my model's predict
 
 Trump's State-Level Two-Party Popular Vote Error   |  Biden's State-Level Two-Party Popular Vote Error
 :-------------------------:|:-------------------------:
-![](Reflection2.png)|![](Reflection3.png)
+![](Reflection_2.png)|![](Reflection3.png)
 
 The graphs above display the ten states associated with the highest prediction error and actual win margin. Such gives credence to the notion that my model's prediction error was more prevalent in "blowout" states, given seven out of the ten states with the highest actual win margin were also the states with the highest prediction errors. In fact, the RMSE of the ten states with the highest actual win margin was 10.07; this is substantially higher than the RMSE across all the states (5.64). 
 
