@@ -61,9 +61,10 @@ My proposed quantitative test for such a hypothesis would be to run regressions 
 
 **Hypothesis #2**
 
-My second hypothesis is that the variation in poll quality between different states explains the inaccuracy of my model in certain states. 
+My second hypothesis is that the variation in poll quality between different states explains my model's inaccuracy in individual states. The average support model relies on the historical relationship between a candidate's average support and popular vote share, with the average support variable based on an average of many national polls. To apply such a model to individual states, I implicitly assumed the state-level average support variables would be as comprehensive as the ones used to construct my national average support model. Thus, an individual state's poor or infrequent polling would deviate from this assumption and account for error in my model's popular vote predictions for such a state. This hypothesis is reasonable in the context of where my model's predictions errors were most prevalent, i.e., blowout states, given such states' polling is likely not as comprehsnive as those of swing states, given the greater importance prescribed to the latter. 
 
-My second hypothesis is that my model was inaccurate in some states given the polls in such states did not accurately reflect a candidate’s average support in such state. My model is reliant on the relationship between average support and popular vote share, with the average support variable in my model historically based on an average of many different national polls. To apply such model to individual states, I implicitly assumed the state-level average support variables would be as comprehensive as the ones used to construct my original model. Thus, an individual state’s poor or infrequent polling could deviate from such assumption and account for error in my some of my state-level predictions. This makes sense in the context of where my errors occurred, given polling in blowout states is likely not as rigorous given the attention given to swing states. 
+
+
 
 this would fit in with the narrative described by Nate silver, where polling in swing states is relatively good while those in noncompetitive states is less so, like those in the Midwest. The worse polling in these states could be due to a number a factors, including the lack of urgency to poll in a place like North Dakota compared to a race like Pennsylvania or Georgia, 
 
