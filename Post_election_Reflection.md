@@ -63,23 +63,12 @@ My proposed quantitative test for such a hypothesis would be to run regressions 
 
 My second hypothesis for my model's inaccuracy in individual states is the variation in poll quality and frequency between states. The average support model relies on the historical relationship between a candidate's average support and popular vote share, with the average support variable based on an average of many national polls. To apply such a model to individual states, I implicitly assumed the state-level average support variables would be as comprehensive as the ones used to construct my national average support model. Thus, an individual state's poor or infrequent polling would deviate from this assumption and account for the error in my model's popular vote predictions for such a state. This hypothesis is reasonable in the context of where my model's prediction errors are most prevalent, i.e., blowout states, given such states' polling are likely not as comprehensive as those of swing states due to the greater importance prescribed to the latter. Historically such has been the case, with swing state polls performing well relative to blowout state polls (https://fivethirtyeight.com/features/how-accurate-have-state-polls-been/). 
 
-My proposed quantitative test for such a hypothesis would be to evaluate the quality and frequency of each state's polls in the 2020 election. The poll quality in specific states would be based on a given pollster's historical accuracy and methodology, similar to the pollster rating system by FiveThirtyEight (https://fivethirtyeight.com/features/how-fivethirtyeight-calculates-pollster-ratings/). 
-
-If quality and frequency of the polls in a state my model performed poorly in was low, such would be evidence that the 
-
-average support variable associated with the given state is not comparable; thus, I would expect my model's predictions in such state to have significant error. 
+My proposed quantitative test for such a hypothesis would be to evaluate each state's polls' quality and frequency in the 2020 election. The poll quality in specific states would be based on a given pollster's historical accuracy and methodology, similar to the pollster rating system by FiveThirtyEight (https://fivethirtyeight.com/features/how-fivethirtyeight-calculates-pollster-ratings/). If the quality and frequency of the polls in a state my model performed poorly in were low, such would be evidence that the low quality and frequency of such a state's polls contributed to my model's prediction error in such a state. As an example, using FiveThirtyEight's pollster ratings, I can observe that the frequency and quality of the polls in North Dakota, a blowout state my model performed poorly in, was significantly lower than the frequency and quality of polls in Georgia, a swing state my model performed accurately in; thus, such provides evidence for my second hypothesis. Perhaps more simply, I could also measure the margin of error between the average poll support in a state and its actual popular vote shares as a proxy for poll quality and frequency. If states with high error margins were correlated with states my model had a high prediction error, such could similarly provide evidence for my second hypothesis. 
 
 
 
 
-bring up average support in such state is comparable to average support variable used in model creation
-based on sample size, historical pollster, amount of polls etc, similar to 538
-describe more on how to operationalize poll quality
-if poll quality is significantly lower in the states where my model performed worse, i.e the blowout states, such would provide evidence that such variation in poll quality explains the differences in errors between the states my model predictions, especially those differences between blowout and swing states. 
 
-frequency is important to mention, as drastically lower amount of polls in dakota, and of lower quality. 
-
-or i could merely determine the margin of error between the average poll support in a state and the actual predictions, as a proxy for poll quality. if states with high error margins were correlated with states with high prediction error, 
 
 
 
