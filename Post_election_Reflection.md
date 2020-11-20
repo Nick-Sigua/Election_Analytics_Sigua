@@ -21,8 +21,6 @@ Republican states: NC, IA, OH, GA, TX, AK, SC, IN, MT, MO, NE, KS, UT, SD, KY, T
 Of course, such predictions did come with some uncertainty. For instance, the predictive interval for Trump's national projected popular vote share was between 37.86% and 54.57%; the predictive interval for Biden's national projected popular vote share was between 43.39% and 57.15%. Moreover, I anticipated further uncertainty on the state-level, given variation between different states on their polls' frequency and quality. 
 (could include something about bias here, or maybe remove this section entirely).
 
-should I justify application to state? probs not, will roast it and mention it later on in hypothesis 1 (in my predictions, I assumed model could be applied to each state.....but did not account for bias...)
-
 **Evaluating The Average Suppot Model's Accuracy**
 
 Overall, my model was quite accurate on the national level, with my model's predictions for Trump and Biden's two-party popular vote shares (47.9% and 52.1%, respectively) being extremely close to Trump and Biden's actual two-party popular vote shares (48% and 52%, respectively). My model also performed relatively well on the state level, although not to the same degree as my national level predictions. For instance, my model's predicted electoral vote tally for each candidate (219 and 319 for Trump and Biden, respectively) was not far off from the actual electoral vote tally for Trump and Biden (232 and 306, respectively). My model's incorrect prediction of a Trump win in Georgia, and a Biden win in Florida accounts for such deviation in electoral vote tally's. The graphs below summarize the distribution of the state-level two-party popular vote share errors for both candidates. 
