@@ -48,7 +48,7 @@ The graphs above display the ten states associated with the highest prediction e
 Overall, my model is relatively accurate. My model was most accurate in its national two-party popular vote predictions and less so in its state-by-state predictions, where prediction error varied between states; this variation was most pronounced when considering the high error associated with my mode's predictions for blowout states. 
 (do I need this section? - probs not, already long enough, consider deleting)
 
-**Hypotheses for the Average Support Model's Inaccuracies **
+**Hypotheses for the Average Support Model's Inaccuracies**
 
 Although there might be several reasons why my model was inaccurate in certain states, I will mainly consider two hypotheses: my model's lack of accounting for specific state biases and the variation in poll quality between different states. Given such hypotheses, I will also propose quantitative tests that could evaluate the validity of each hypothesis. 
 
