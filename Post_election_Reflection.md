@@ -59,6 +59,7 @@ My second hypothesis for my model's inaccuracy in individual states is the varia
 
 My proposed quantitative test for such a hypothesis would be to evaluate each state's polls' quality and frequency in the 2020 election. The poll quality in specific states would be based on a given pollster's historical accuracy and methodology, similar to the pollster rating system by FiveThirtyEight (https://fivethirtyeight.com/features/how-fivethirtyeight-calculates-pollster-ratings/). If the quality and frequency of the polls in a state my model performed poorly in were low, such would be evidence that the low quality and frequency of such a state's polls contributed to my model's prediction error in such a state. As an example, using FiveThirtyEight's pollster ratings, I can observe that the frequency and quality of the polls in North Dakota, a blowout state my model performed poorly in, was significantly lower than the frequency and quality of polls in Georgia, a swing state my model performed accurately in; thus, such provides evidence for my second hypothesis. Perhaps more simply, I could also measure the margin of error between the average poll support in a state and its actual popular vote shares as a proxy for poll quality and frequency. If states with high error margins were correlated with states my model had a high prediction error, such could similarly provide evidence for my second hypothesis. 
 
+**Potential Model Changes and Final Recap**
 
 
 
