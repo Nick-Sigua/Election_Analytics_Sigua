@@ -63,6 +63,11 @@ My proposed quantitative test for such a hypothesis would be to run regressions 
 
 My second hypothesis for my model's inaccuracy in individual states is the variation in poll quality between states. The average support model relies on the historical relationship between a candidate's average support and popular vote share, with the average support variable based on an average of many national polls. To apply such a model to individual states, I implicitly assumed the state-level average support variables would be as comprehensive as the ones used to construct my national average support model. Thus, an individual state's poor or infrequent polling would deviate from this assumption and account for the error in my model's popular vote predictions for such a state. This hypothesis is reasonable in the context of where my model's prediction errors are most prevalent, i.e., blowout states, given such states' polling are likely not as comprehensive as those of swing states due to the greater importance prescribed to the latter. Historically such has been the case, with swing state polls performing well relative to blowout state polls (https://fivethirtyeight.com/features/how-accurate-have-state-polls-been/). 
 
+My proposed quantitative test for such a hypothesis would be to evaluate the poll quality of each state in the 2020 election. 
+based on sample size, historical pollster, etc, similar to 538
+describe more on how to operationalize poll quality
+if poll quality is significantly lower in the states where my model performed worse, i.e the blowout states, such would provide evidence that such variation in poll quality explains the differences in errors between the states my model predictions, especially those differences between blowout and swing states. 
+
 
 
 
