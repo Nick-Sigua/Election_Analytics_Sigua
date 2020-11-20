@@ -61,8 +61,11 @@ My proposed quantitative test for such a hypothesis would be to evaluate each st
 
 **Potential Model Changes and Final Recap**
 
+Ultimatley, my average support model performed well on the national level, although did miss some states, particularly blowout states. 
 
+There are a number of ways I would change my model if I were to do it again. For one, I would consider making my model more state specific in order to account for the innaccurcies of my average support model across different states, but particularly blowout states. Given data constraints, I would likley do this my grouping several states of similar type and conducting regressions between presidential candidadate's average support and popular vote in these states. This would allow my new average support model's to better account for individual state biases, i.e blowout states, while still having enough data to make sure regression roboust. I simple way to group states would be to average their historical popular vote win margins. If a certain state historically votes red by a great margin, such would be apart of the group of deep red states. If a certain state historically votes blue by a moderate margin, such would be apart of the group of leaning blue states. This way, the systematic polling errors associated with blowout states would be accounted for in my models, and likely yeild more accurate predictions. 
 
+Nevertheless, future data on presidential elections and greater focus on state specific data will only improve my model, and likely lead to better predictions. 
 
 
 
