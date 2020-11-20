@@ -52,14 +52,18 @@ Overall, my model is relatively accurate. My model was most accurate in its nati
 
 Although there might be several reasons why my model was inaccurate in certain states, I will mainly consider two hypotheses: my model's lack of accounting for specific state biases and the variation in poll quality between different states. Given such hypotheses, I will also propose quantitative tests that could evaluate the validity of each hypothesis. 
 
-My first hypothesis is that my model was inaccurate in some states given my model did not factor in state specific biases (I built the model based on national historical election data). Thus, in some states the relationship between average poll support and the popular vote could be significantly different than what my model anticipated, leading to the error in these particular states. 
+My first hypothesis is that my model was inaccurate in individual states, given it did not account for their state-specific biases. As mentioned, I constructed the average support model based on a regression of historical popular vote and average poll support data on the national level. Thus, my model's application onto each state implicitly assumes the relationship between a candidate's popular vote and average support is the same on the state-level as the national level; however, this might not be the case. For instance, polls in a deeply red state, like Wyoming, could have historically underestimated the Republican candidate's actual vote share in presidential elections. Given my model does not factor such bias in, its predictions would then understate Trump's vote share in the region and lead to the error I observed in such a state. This type of state bias has some basis, given, as Nate Silver points out, that it is not uncommon for polls in historically blue or historically red states to underestimate the winning candidate's margin (https://fivethirtyeight.com/features/what-state-polls-can-tell-us-about-the-national-race/). Thus, it's clear to see how my first hypothesis could explain why my model was inaccurate in some states, particularly the blowout states I noted above. 
 
-First hypothesis should be smaller than previous, more specific to my model. Merely describes discrepancy between pooled and unpooled model. i.e error could have arisen in states due to relationship and regression in these states not matching national trends. 
-Thus, if certain states, like red blowout states, had systematically underestimated republican candidates, then my model would not have accounted for such and thus incorrectly predicted Trump’s win margin in these areas. 
-(Provide some evidence that might support this hypothesis? i.e., evidence that red blowout states systematically underestimate republican candidates, giving credence to the notion that my model would not account for this specific state level bias and therefore have error?)
-but don't need too much evidence, given that my proposed quantitative test would ultimatley be proof. 
 
-Boom, I have evidence to suggest that polls in very blue or very red states systematically underestimate respective party candidate actual vote share, 
+
+
+
+
+
+
+
+
+
 
 
 
