@@ -39,7 +39,7 @@ Top 10 States with the Greatest Absolute Prediction Error   |  Top 10 States wit
 :-------------------------:|:-------------------------:
 ![](Reflection_2.png)|![](Reflection3.png)
 
-The graphs above display the ten states associated with the highest prediction error and absolute win margin. Such gives credence to the notion that my model's prediction error was more prevalent in blowout states, given seven out of the ten states with the highest absolute win margin were also apart of the states with the highest prediction error. In fact, the RMSE of the ten states with the highest win margins was 10.07; this is substantially higher than the RMSE across all the states (5.64).
+The graphs above display the ten states associated with the highest prediction errors and absolute win margins. Such gives credence to the notion that my model's prediction error was more prevalent in blowout states, given seven out of the ten states with the highest absolute win margins were also apart of the states with the highest prediction errors. In fact, the RMSE of the ten states with the highest win margins was 10.07; this is substantially higher than the RMSE across all the states (5.64).
 
 **Hypotheses for the Average Support Model's Inaccuracies**
 
