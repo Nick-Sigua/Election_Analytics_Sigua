@@ -27,7 +27,7 @@ Overall, my model was quite accurate on the national level, with my model's pred
 |:-:|
 |![](Reflection4.png)|
 
-These graphs illustrate that my average support model underestimated Trump's two-party popular vote share and overestimated Biden's two-party popular vote share in the majority of states. This led my model's state-level predictions to be associated with an RMSE value of 5.64. Of course, my model's prediction error varied between each state. The map below illustrates the absolute error margin of my model's predictions for Trump in each state:
+This graph illustrates that my average support model's predictions underestimated Trump's two-party popular vote share and overestimated Biden's two-party popular vote share in the majority of states. Such led my model's state-level predictions to be associated with an RMSE value of 5.64. Of course, my model's prediction error varied between each state. The map below illustrates the absolute error margin of my model's predictions in each state:
 
 | Abolsute Error Margin Map for the Average Support Model |
 |:-:|
