@@ -21,9 +21,9 @@ Of course, such predictions did come with some uncertainty. For instance, the pr
 
 **Evaluating The Average Suppot Model's Accuracy**
 
-Overall, my model was quite accurate on the national level, with my model's predictions for Trump and Biden's two-party popular vote shares (47.9% and 52.1%, respectively) being extremely close to Trump and Biden's actual two-party popular vote shares (48% and 52%, respectively). My model also performed relatively well on the state level, although not to the same degree as my national level predictions. For instance, my model's predicted electoral vote tally for each candidate (219 and 319 for Trump and Biden, respectively) was not far off from the actual electoral vote tally for Trump and Biden (232 and 306, respectively). My model's incorrect prediction of a Trump win in Georgia, and a Biden win in Florida accounts for such deviation in electoral vote tally's. The graphs below summarize the distribution of the state-level two-party popular vote share errors for both candidates. 
+Overall, my model was quite accurate on the national level, with my model's predictions for Trump and Biden's two-party national popular vote shares (47.9% and 52.1%, respectively) being extremely close to their actual two-party popular vote shares (48% and 52%, respectively). My model also performed relatively well on the state level, although not to the same degree as my national level predictions. For instance, my model's predicted electoral vote tally for each candidate (219 and 319 for Trump and Biden, respectively) was not far off from the actual electoral vote tally for Trump and Biden (232 and 306, respectively), with the two states my model predicted incorrectly being Georgia and Florida. The graph below summarizes the distribution of the state-level two-party popular vote share prediction errors.
 
-| Trump's State-Level Two-Party Popular Vote Error |
+|  The Distribution of State-Level Two-Party Popular Vote Share Prediction Error |
 |:-:|
 |![](Reflection4.png)|
 
