@@ -33,7 +33,7 @@ This graph illustrates that my average support model's predictions underestimate
 |:-:|
 |![](Reflection1.png)|
 
-This map demonstrates that the absolute error associated with my model's predictions varied significantly between different states, i.e., my model had a high prediction error margin in states like West Virginia and Wyoming but a low prediction error margin in states like Nevada and Arizona. Geographically, each region of the United States has some states with high prediction error margins, although there seems to be a consolidation of such states in the midwest. However, this could merely be a product of the midwest containing a high number of blowout states in the 2020 election, which my model seemed to perform the worst in. 
+This graphic demonstrates how my model's predictions are associated with a high absolute error margin in certain states, like West Virginia and Wyoming, but a low error margin in others, like Nevada and Arizona. Geographically, each region of the United States has some states with high prediction error margins, although there seems to be a consolidation of such in the midwest. However, this could merely be a product of the midwest containing a high number of blowout states, which my model seemed to perform the worst in.
 
 Top 10 States with the Greatest Absolute Prediction Error   |  Top 10 States with the Greatest Absolute Win Margins
 :-------------------------:|:-------------------------:
