@@ -7,18 +7,11 @@ In this blog, I will seek to provide an initial analysis of the evidence surroun
 
 Summarize the narrative you are choosing to investigate and briefly explain why the narrative might be important to test in the context of the various election-related variables we have discussed this semester.
 
-The main post-election narrative I will investigate is the notion that the coronavirus pandemic negativley impacted Trump's bid for re-election. Various media outlets, like the Times and the Washington Post, formed this narrative by touting that the occurance of such pandemic and all its associated issues dragged Trump's prospects for winning the election down and was a factor in his loss (https://time.com/5907973/donald-trump-loses-2020-election/), https://www.washingtonpost.com/elections/interactive/2020/trump-pandemic-coronavirus-election/). Pundits, like Sarah Longwell, founder of the Republican Voters Against Trump, similarly reflected this sentiment and pointed towards the occurance of the pandemic as a inhibiting factor on Trump's electoral efforts (https://time.com/5907973/donald-trump-loses-2020-election/). The notion largely builds off the major pre-election narrative, which similarly touted that the pandemic would hurt Trump's chances; given the election results, one could logically see how many would feel vindicated in such assumption. 
+The main post-election narrative I will investigate is the notion that the coronavirus pandemic negativley impacted Trump's bid for re-election. Various media outlets, like the Times and the Washington Post, formed this narrative by touting that the occurance of such pandemic and all its associated issues dragged Trump's prospects for winning the election down and was a factor in his loss (https://time.com/5907973/donald-trump-loses-2020-election/), https://www.washingtonpost.com/elections/interactive/2020/trump-pandemic-coronavirus-election/). Pundits, like Sarah Longwell, founder of the Republican Voters Against Trump, similarly reflected this sentiment and pointed towards the occurance of the pandemic as a inhibiting factor on Trump's electoral efforts (https://time.com/5907973/donald-trump-loses-2020-election/). The narrative largely builds off the major pre-election pandemic narrative of the same vein, which was seemingly validated based on the results of the election (https://www.cnn.com/2020/10/29/politics/coronavirus-trump-analysis/index.html). cite words pre-election pandemic narrative. 
 
+This narrative is important to test for a number of reasons. For one, could provide insight into a unique shock towards elections. 
+For another, likely had an influence in all things we studied this semester, like economy, turnout, etc. Rather than indirectly measure effects through these vehicles, testing impacts of covid could provide an opporuntity to directly test a variable that has influenced many of the election variables we have already studied. Lastly, narrative is not obvious as might seem initially, given preliminary studies, like NPR, demonstrate covid related variables negative impact <- might not include. 
 
-
-
- the major pre-election narrative of the same nature, which was seemingly validated based on the results of the actual election. 
-
-
-
-after election, these sentiments seemed validated. for instance, times help coronovirus as negativley impactful, with the occurance of such pandemic and all its associeted issues). washington post similarly. and leader of republican thing also pushed such forth. 
-
-maybe just sneak in the fact that talking about in generally, rather than deaths or unemployment 
 
 
 
