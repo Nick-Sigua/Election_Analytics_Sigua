@@ -16,8 +16,8 @@ moreover, some covid 19 variables, like deaths, have actually been found to have
 In a perfect world.... given ideal test
 then say can't do this, so have to go with other tests
 for one.... 
-data, method
-justify
+data, method (make sure to really explain data and correlation, as soubhik was confused last time). 
+justify (especially why national rather than state by state).
 also....
 data, method
 justify
