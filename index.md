@@ -29,6 +29,9 @@ Final Election Prediction Blog:
 Post-Election Reflection Blog:                                                                              
 [Post-Election Reflection](Post_election_Reflection.md)   
 
+Testing Narratives Blog:                                                                        
+[Testing Narratives](Testing_Narritives.md)
+
 
 
 
