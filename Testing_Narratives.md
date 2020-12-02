@@ -11,13 +11,15 @@ This narrative is important to test for several reasons. For one, the narrative 
 
 **Tests**
 
-the main testable implication i will provide is a correlation. 
+Ideally, the best way to test the afromentioned pandemic narrative would be to compare Trump's actual popular vote share in an election where the pandemic occurred to Trump's popular vote share in a simultaneous and identical election where the pandemic did not happen; if Trump's vote share were lower in the election where the pandemic occurred, such would prove the pandemic had a negative impact on Trump's electoral prospects. In the absence of such a test, there are a few testable implications I could analyze that could offer some preliminary evidence for the existence of the narrative. 
 
-In a perfect world.... given ideal test
-then say can't do this, so have to go with other tests
-for one.... 
+The main testable implication I will analyze is whether there is a negative correlation between Trump's average support in the polls and the daily increase in Covid-19 cases. 
+
+
+
 data, method (make sure to really explain data and correlation, as soubhik was confused last time). 
 justify (especially why national rather than state by state).
+
 also....
 data, method
 justify
