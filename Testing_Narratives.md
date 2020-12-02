@@ -14,7 +14,9 @@ This narrative is important to test for several reasons. For one, the narrative 
 Ideally, the best way to test the afromentioned pandemic narrative would be to compare Trump's actual popular vote share in an election where the pandemic occurred to Trump's popular vote share in a simultaneous and identical election where the pandemic did not happen; if Trump's vote share were lower in the election where the pandemic occurred, such would prove the pandemic had a negative impact on Trump's electoral prospects. In the absence of such an ideal test, there are a few testable implications I could analyze that could offer some preliminary evidence for the existence of the narrative. 
 
 The main testable implication I will analyze is whether there is a negative correlation between Trump's average support in the polls and the daily increase in Covid-19 cases. 
-
+why this makes sense
+data (data from dates, each point is covid-19 case increase on given day and trump's poll support on such day)
+justfiy focus on national level "necessarily look at relationship nationally given data limitations" 
 
 
 data, method (make sure to really explain data and correlation, as soubhik was confused last time). 
