@@ -15,8 +15,9 @@ Ideally, the best test of the afromentioned pandemic narrative would be to compa
 
 The main testable implication I will consider is whether there is a negative correlation between Trump's average support in the polls and the daily increase in Covid-19 cases. This implication is justifiable given, if the coronavirus pandemic negatively impacted Trump's bid for re-election, then the increasing prevalence of the virus, i.e., a rise in daily COVID-19 cases, would be negatively related to Trump's support in the polls (thus his chances at re-election). To derive this correlation, I collected data on the daily increase in national Covid-19 cases and Trump's average support in the polls from the middle of February to election day in November. This will allow me to plot the daily increase in Covid-19 cases and the corresponding average support for Trump across the duration of the pandemic. Given I will analyze the relationship between Trump's average support and the daily increase in Covid-19 cases over time, I will necessarily use national-level data. State and county-level data for Trump's average support in the polls are infrequent and limited, especially considering I want to analyze such variables throughout the pandemic; thus, such data is not tenable. 
 
-A supplemental testable implication I will consider is whether Biden mentioned the pandemic or pandemic-related issues more than Trump throughout their campaign speeches. 
-justify why this makes sense
+A supplemental testable implication I will consider is whether Biden mentioned the pandemic or pandemic-related issues more than Trump throughout his campaign speeches. This implication is justifiable given, if the coronavirus pandemic negativley impacted Trump's bid for re-election, then Biden would logically try to bring the issue into the spotlight and mention it a lot throughout his campaign, while Trump would try to downplay the prevelance and focus on the virus. (Similar to Vavrek, Biden would act to clarify issue that would hurt Trump, and Trump would try to downplay said issue). Of course, this implication assumes each campign is acting in their best interest, although I beleive this assumption is fairly reasonable. 
+
+
 what data am i using
 mention that this is meant to be supplemental to first test
 
