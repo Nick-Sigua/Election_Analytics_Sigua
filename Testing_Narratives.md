@@ -16,6 +16,8 @@ Ideally, the best test of the afromentioned pandemic narrative would be to compa
 The main testable implication I will consider is whether there is a negative correlation between Trump's average support in the polls and the daily increase in Covid-19 cases. This implication is justifiable given, if the coronavirus pandemic negatively impacted Trump's bid for re-election, then the increasing prevalence of the virus, i.e., a rise in daily COVID-19 cases, would be negatively related to Trump's support in the polls (thus his chances at re-election). To derive this correlation, I collected data on the daily increase in national Covid-19 cases and Trump's average support in the polls from the middle of February to election day in November. This will allow me to plot the daily increase in Covid-19 cases and the corresponding average support for Trump across the duration of the pandemic. 
 
 
+Given I will look at average support for Trump over time, I will necessarily use national average support data and national covid data, given data constraints associated with attaining average support figures for Trump on the state and county level on a frequent basis, i.e., daily to reflect daily increase in covid -19 cases. 
+
 i necessarily focus on the national level rather than state or county, given
 
 limitations of this? 
