@@ -17,8 +17,8 @@ The main testable implication I will consider is whether there is a negative cor
 
 A supplemental testable implication I will consider is whether Biden mentioned the pandemic or pandemic-related issues more than Trump throughout his campaign speeches. This implication is justifiable given, if the coronavirus pandemic negativley impacted Trump's bid for re-election, then Biden would logically try to bring the issue into the spotlight and mention it a lot throughout his campaign, while Trump would try to downplay the prevelance and focus on the virus. (Similar to Vavrek, Biden would act to clarify issue that would hurt Trump, and Trump would try to downplay said issue). Of course, this implication assumes each campign is acting in their best interest, although I beleive this assumption is fairly reasonable. 
 
-
 what data am i using
+Although not as comprehensive as first, could provide supplemental evidence to first, although maybe not as strong. 
 mention that this is meant to be supplemental to first test
 
 
