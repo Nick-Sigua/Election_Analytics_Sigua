@@ -13,23 +13,7 @@ This narrative is important to test for several reasons. For one, the narrative 
 
 Ideally, the best test of the afromentioned pandemic narrative would be to compare Trump's actual popular vote share in an election where the pandemic occurred to Trump's popular vote share in a simultaneous and identical election where the pandemic did not happen; if Trump's vote share were lower in the election where the pandemic occurred, such would prove the pandemic had a negative impact on Trump's electoral prospects. In the absence of such an ideal test, there are a few testable implications I could analyze instead that could offer some preliminary evidence for the existence of the narrative. 
 
-The main testable implication I will consider is whether there is a negative correlation between Trump's average support in the polls and the daily increase in Covid-19 cases. This implication is justifiable given, if the coronavirus pandemic negatively impacted Trump's bid for re-election, then the increasing prevalence of the virus, i.e., a rise in daily COVID-19 cases, would be negatively related to Trump's support in the polls (thus his chances at re-election). To derive this correlation, I collected data on the daily increase in national Covid-19 cases and Trump's average support in the polls from the middle of February to election day in November. This will allow me to plot the daily increase in Covid-19 cases and the corresponding average support for Trump across the duration of the pandemic. 
-
-
-Given I will look at average support for Trump over time, I will necessarily use national average support data and national covid data, given data constraints associated with attaining average support figures for Trump on the state and county level on a frequent basis, i.e., daily to reflect daily increase in covid -19 cases, polls infrequent so change in average support hard to derive across length of time stipulated. 
-
-i necessarily focus on the national level rather than state or county, given
-
-limitations of this? 
-
-
-why this makes sense
-data (data from dates, each point is covid-19 case increase on given day and trump's poll support on such day)
-justfiy focus on national level "necessarily look at relationship nationally given data limitations" 
-
-
-data, method (make sure to really explain data and correlation, as soubhik was confused last time). 
-justify (especially why national rather than state by state).
+The main testable implication I will consider is whether there is a negative correlation between Trump's average support in the polls and the daily increase in Covid-19 cases. This implication is justifiable given, if the coronavirus pandemic negatively impacted Trump's bid for re-election, then the increasing prevalence of the virus, i.e., a rise in daily COVID-19 cases, would be negatively related to Trump's support in the polls (thus his chances at re-election). To derive this correlation, I collected data on the daily increase in national Covid-19 cases and Trump's average support in the polls from the middle of February to election day in November. This will allow me to plot the daily increase in Covid-19 cases and the corresponding average support for Trump across the duration of the pandemic. Given I will analyze the relationship between Trump's average support and the daily increase in Covid-19 cases over time, I will necessarily use national-level data. State and county-level data for Trump's average support in the polls are infrequent and limited, especially considering I want to analyze such variables throughout the pandemic; thus, such data is not tenable. 
 
 also....
 data, method
@@ -37,3 +21,7 @@ justify
 aknlowledge limitations, can't test causaility, but can provide preliminary evidence 
 
 **Results**
+
+(make sure to really explain data and correlation, as soubhik was confused last time). just explain what correlation is, not too deep. 
+
+could provide limitations of test in results, makes more sense. 
