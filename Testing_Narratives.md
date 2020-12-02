@@ -11,6 +11,8 @@ This narrative is important to test for several reasons. For one, the narrative 
 
 **Tests**
 
+the main testable implication i will provide is a correlation. 
+
 In a perfect world.... given ideal test
 then say can't do this, so have to go with other tests
 for one.... 
