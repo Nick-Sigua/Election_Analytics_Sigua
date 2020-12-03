@@ -9,7 +9,7 @@ The main post-election narrative I will investigate is the notion that the coron
 
 This narrative is important to test for several reasons. For one, the narrative is based on a unique shock to the 2020 race. Given we have discussed shocks, among other variables, in our analysis of elections throughout this semester, testing how a prolonged shock like a pandemic could impact an incumbent candidate is a natural extension of what we have analyzed in class and would provide valuable insight into how such might affect future elections. The narrative is also important to test because the pandemic has influenced some of the variables we have analyzed over the semester, like the economy. Thus, a test of such a narrative could provide a fuller understanding of all the dynamics of the 2020 election and a variable that has affected other election-variables we have incorporated in past models.
 
-**Tests**
+**Testable Implications**
 
 Ideally, the best test of the afromentioned pandemic narrative would be to compare Trump's actual popular vote share in an election where the pandemic occurred to Trump's popular vote share in a simultaneous and identical election where the pandemic did not happen; if Trump's vote share were lower in the election where the pandemic occurred, such would prove the pandemic had a negative impact on Trump's electoral prospects. In the absence of such an ideal test, there are a few testable implications I could analyze instead that could offer some preliminary evidence for the existence of the narrative. 
 
