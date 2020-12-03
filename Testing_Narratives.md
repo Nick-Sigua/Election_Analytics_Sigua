@@ -13,7 +13,7 @@ This narrative is important to test for several reasons. For one, the narrative 
 
 Ideally, the best test of the afromentioned pandemic narrative would be to compare Trump's actual popular vote share in an election where the pandemic occurred to Trump's popular vote share in a simultaneous and identical election where the pandemic did not happen; if Trump's vote share were lower in the election where the pandemic occurred, such would prove the pandemic had a negative impact on Trump's electoral prospects. In the absence of such an ideal test, there are a few testable implications I could analyze instead that could offer some preliminary evidence for the existence of the narrative. 
 
-The main testable implication I will consider is whether there is a negative correlation between Trump's average support in the polls and the daily increase in Covid-19 cases. This implication is justifiable given, if the coronavirus pandemic negatively impacted Trump's bid for re-election, then the increasing prevalence of the virus, i.e., a rise in daily COVID-19 cases, would be negatively related to Trump's support in the polls (thus his chances at re-election). Thus, by running a linear regression and observing the direction of the correlation between the two variables, I can analyze whether the data associated with such implication of the narrative is consistent with the afromentioned narrative. 
+The main testable implication I will consider is whether there was a negative correlation between Trump's average support in the polls and the daily increase in Covid-19 cases. This implication is justifiable given, if the coronavirus pandemic negatively impacted Trump's bid for re-election, then the increasing prevalence of the virus, i.e., a rise in daily COVID-19 cases, would be negatively related to Trump's support in the polls (thus his chances at re-election). Thus, by running a linear regression and observing the direction of the correlation between the two variables, I can analyze whether the data associated with such implication of the narrative is consistent with the afromentioned narrative. 
 
 To derive this correlation, I collected data on the daily increase in national Covid-19 cases and Trump's average support in the polls from the middle of February to election day in November. This will allow me to plot the daily increase in Covid-19 cases and Trump's corresponding average support across the duration of the pandemic. The Covid-19 data came from [The Covid-19 Tracking Project](https://covidtracking.com/about-data), which collects, cross-checks, and publishes Covid-19 data based on state and territory public health authorities; the average support data come from [RealClear Politics](https://www.realclearpolitics.com/epolls/2020/president/us/general_election_trump_vs_biden-6247.html), who aggregate many national polls to derive a candidate's support in the polls. Given I will analyze the relationship between Trump's average support and the daily increase in Covid-19 cases over time, I will necessarily use national-level data. State and county-level data for Trump's average support in the polls are infrequent and limited, especially considering I want to analyze such variables throughout the pandemic; thus, such data is not tenable. 
 
@@ -23,7 +23,7 @@ To measure whether Biden mentioned the pandemic more than Trump, I will conduct 
 
 **Results**
 
-Describe the results of your test and whether it supports the narrative. This should include graphics.  
+Test #1
 
 As mentioned, my first test will consist of analyzing the correlation between Trump's average support and the daily increase in COVID-19 cases throughout the pandemic and the election. The graph below plots the resulting points and linear regression of such data:
 
@@ -31,26 +31,16 @@ As mentioned, my first test will consist of analyzing the correlation between Tr
 |:-:|
 |![](Narrative1.png)|
 
-The graph demonstrates that, generally, a greater daily increase in Covid-19 cases is associated with a lower average support for Trump in the polls. The linear regression summarizes this negative relationship between the variables, with the coefficient for the daily increase in Covid-19 cases being negative. 
-
-in other words, there is a negative correlation between both variables. 
-
-thus, seems data is consistent with narrative. re-iterate what i intended to find, and say that my results provided such finding. 
+The graph demonstrates that, generally, a greater daily increase in Covid-19 cases is associated with lower average support for Trump in the polls. The linear regression summarizes this negative relationship between the variables, with the coefficient for the daily increase in Covid-19 cases being negative. Given I identified the pandemic narrative's main testable implication to be that there was a negative correlation between Trump's average support in the polls and the daily increase in Covid-19 cases, the results of my first test seem to be consistent with the afromentioned narrative. 
 
 of course, there are some limitations of this finding. for one, although there is a negative relationship, such is not too strong
-r squared associated with relationshio is 0.31, not too good. this improves if you consider only before october, but that in it of itself raises further questions.
+r squared associated with relationshio is 0.31, not too good. this improves if you consider only before october, graph, but that in it of itself raises further questions.
 
 moreover, issues with causaility, as to be expected with these initial tests.
 
-But overall, such test and result do offer some preliminary evidence for test. 
+But overall, such test and result do offer some preliminary evidence for test. explain that results and data are consistent with narrative, with increasing prevalance of virus associated with lower support, so narrative has some evidencde. 
 
-
-
-
-
-
-the graph demonstrates that, generally, at the times where the pandemic rose in prevalance and daily increase in case at its highest, trump average support was lower. thus, such negative relationship does offer some preliminary evidence for the narrative, given blah blah blah
-
+Test #2
 
 
 
