@@ -23,6 +23,11 @@ To measure whether Biden mentioned the pandemic more than Trump, I will conduct 
 
 **Results**
 
+|  The Average Support for Trump vs. the Daily Increase in Positive Covid-19 Cases for the 2020 Election |
+|:-:|
+|![](Narrative1.png)|
+
+
 (make sure to really explain data and correlation, as soubhik was confused last time). just explain what correlation is, not too deep. 
 
 could provide limitations of test in results, makes more sense. 
