@@ -19,19 +19,7 @@ To derive this correlation, I collected data on the daily increase in national C
 
 A supplemental testable implication I will consider is whether Biden mentioned the pandemic or pandemic-related issues more than Trump throughout his campaign speeches. This implication is justifiable given, if the coronavirus pandemic negativley impacted Trump's bid for re-election, then Biden would logically try to bring the issue into the spotlight and mention it a lot throughout his campaign, while Trump would try to downplay its prevelance and shift focus away from the virus. In such sense, the pandemic would play a smilar role to the economy under [Vavrek](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=TN_cdi_askewsholts_vlebooks_9781400830480&context=PC&vid=HVD2&search_scope=everything&tab=everything&lang=en_US), with Biden running clarifying campaign on the pandemic and Trump running an insurgent one given the purported impacts of the pandemic on Trump's electoral hopes. Of course, this implication assumes each campaign acted in their best interest, although I beleive this assumption is fairly reasonable. 
 
-To measure whether Biden mentioned the pandemic more than Trump, I will conduct a chi-squared analysis comparing the differential association of keywords between Biden and Trump’s campaign speeches. The campaign speech data I will focus on is an aggregation of each candidate's campaign speeches from March 1st, 2020 to November 4th, 2020, which again covers the duration of the pandemic up to election day. 
-
-mention limitations of this test, say not as comprehensive. 
-
-
-Although not as comprehensive as first, could provide supplemental evidence to first, although maybe not as strong. 
-mention that this is meant to be supplemental to first test
-
-
-also....
-data, method
-justify
-aknlowledge limitations, can't test causaility, but can provide preliminary evidence 
+To measure whether Biden mentioned the pandemic more than Trump, I will conduct a chi-squared analysis comparing the differential association of keywords between Biden and Trump’s campaign speeches. The campaign speech data I will focus on is an aggregation of each candidate's campaign speeches from March 1st, 2020 to November 4th, 2020, which again covers the duration of the pandemic up to election day. Of course, this analysis, perhaps more than the first test, has its limitations; but such is only meant to provide further preliminary evidence that the data is consistent or inconsistent with the pandemic narrative. 
 
 **Results**
 
