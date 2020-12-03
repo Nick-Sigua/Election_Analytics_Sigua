@@ -23,9 +23,13 @@ To measure whether Biden mentioned the pandemic more than Trump, I will conduct 
 
 **Results**
 
+As mentioned, my first test will consist of analyzing the correlation between Trump's average support data and the daily increase in COVID-19 cases over the course of the pandemic and the election. The graph below plots the resulting points and linear regression of such data: 
+
 |  The Average Support for Trump vs. the Daily Increase in Positive Covid-19 Cases for the 2020 Election |
 |:-:|
 |![](Narrative1.png)|
+
+the graph demonstrates that, generally, at the times where the pandemic rose in prevalance and daily increase in case at its highest, trump average support was lower. thus, such negative relationship does offer some preliminary evidence for 
 
 
 (make sure to really explain data and correlation, as soubhik was confused last time). just explain what correlation is, not too deep. 
