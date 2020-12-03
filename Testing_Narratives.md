@@ -15,11 +15,7 @@ Ideally, the best test of the afromentioned pandemic narrative would be to compa
 
 The main testable implication I will consider is whether there is a negative correlation between Trump's average support in the polls and the daily increase in Covid-19 cases. This implication is justifiable given, if the coronavirus pandemic negatively impacted Trump's bid for re-election, then the increasing prevalence of the virus, i.e., a rise in daily COVID-19 cases, should be negatively related to Trump's support in the polls (thus his chances at re-election). Thus, by running a linear regression and observing the direction of the correlation between the two variables, I can analyze whether the data associated with an implication of the narrative is consistent with the afromentioned narrative. To derive this correlation, I collected data on the daily increase in national Covid-19 cases and Trump's average support in the polls from the middle of February to election day in November. This will allow me to plot the daily increase in Covid-19 cases and Trump's corresponding average support across the duration of the pandemic. 
 
-The Covid-19 data came from The Covid-19 Tracking Project (source), who collect, cross-check, 
-
-Data on covid-19 cases came from X, who are reliable given y, while poll support came from RCP, the biggest poll aggregator. 
-
-maybe here include data sources. 
+The Covid-19 data came from [The Covid-19 Tracking Project](https://covidtracking.com/about-data), who collect, cross-check, and publish Covid-19 data based on state and territory public health authorities; the average support data come from [RealClear Politics](https://www.realclearpolitics.com/epolls/2020/president/us/general_election_trump_vs_biden-6247.html), who aggregate many national polls to derive a candidate's support in the polls. 
 
 Given I will analyze the relationship between Trump's average support and the daily increase in Covid-19 cases over time, I will necessarily use national-level data. State and county-level data for Trump's average support in the polls are infrequent and limited, especially considering I want to analyze such variables throughout the pandemic; thus, such data is not tenable. 
 
