@@ -23,13 +23,35 @@ To measure whether Biden mentioned the pandemic more than Trump, I will conduct 
 
 **Results**
 
+Describe the results of your test and whether it supports the narrative. This should include graphics.  
+
 As mentioned, my first test will consist of analyzing the correlation between Trump's average support and the daily increase in COVID-19 cases throughout the pandemic and the election. The graph below plots the resulting points and linear regression of such data:
 
 |  The Average Support for Trump vs. the Daily Increase in Positive Covid-19 Cases for the 2020 Election |
 |:-:|
 |![](Narrative1.png)|
 
-the graph demonstrates that, generally, at the times where the pandemic rose in prevalance and daily increase in case at its highest, trump average support was lower. thus, such negative relationship does offer some preliminary evidence for 
+The graph demonstrates that, generally, a greater daily increase in Covid-19 cases is associated with a lower average support for Trump in the polls. The linear regression summarizes this negative relationship between the variables, with the coefficient for the daily increase in Covid-19 cases being negative. 
+
+in other words, there is a negative correlation between both variables. 
+
+thus, seems data is consistent with narrative. re-iterate what i intended to find, and say that my results provided such finding. 
+
+of course, there are some limitations of this finding. for one, although there is a negative relationship, such is not too strong
+r squared associated with relationshio is 0.31, not too good. this improves if you consider only before october, but that in it of itself raises further questions.
+
+moreover, issues with causaility, as to be expected with these initial tests.
+
+But overall, such test and result do offer some preliminary evidence for test. 
+
+
+
+
+
+
+the graph demonstrates that, generally, at the times where the pandemic rose in prevalance and daily increase in case at its highest, trump average support was lower. thus, such negative relationship does offer some preliminary evidence for the narrative, given blah blah blah
+
+
 
 
 (make sure to really explain data and correlation, as soubhik was confused last time). just explain what correlation is, not too deep. 
