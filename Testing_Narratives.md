@@ -56,8 +56,9 @@ The text analysis demonstrates that Biden mentioned several pandemic-related phr
 
 This table affirms the notion that Biden mentioned pandemic-related phrases significantly more than Trump, which provides evidence for my second testable implication and ultimatley further supports the narrative that the pandemic negatively impacted Trump's chances for re-election. 
 
-of course, similar to first test, limitations associated with these results. 
-as mentioned before, contingent on assumption, also subject to issues of causaility, as biden might have mentioned more pandemic stuff regardless of whether it had negative impact on trump (narrative), and finally does not given indication of degree of effect pandemic on trump. 
+Of course, similar to the first test, there are several limitations associated with these results. As alluded to before, the results of this testable implication are contingent on the assumption that Biden and Trump's campaigns operated in their best interests, i.e., Biden's campaign would be incentivised to clarify the pandemic issue and Trump's campaign would be incentivized to do the oppositie given the negative impact of the pandemic on Trump's electoral prospects. However, if this assumption is not the case, then the fact that Biden mentioned pandemic-related phrases more than Trump would provide less clear evidence in support of the narrative in question. Moreover, the results are also subject to issues of causaility, as Biden may have focused more on the pandemic regardless of its impacts on Trump's chances for re-election given Democrats tend to focus more on social issues like health. 
+
+finally does not given indication of degree of effect pandemic on trump. 
 
 but like first test, provides some further preliminary evidence and suggests data is consistent with narrative. supplements first test. 
 
