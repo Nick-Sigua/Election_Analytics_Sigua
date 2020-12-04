@@ -43,6 +43,17 @@ As previously described, I will also analyze a second testable implication to de
 |:-:|
 |![](Narrative2.png)|
 
+The text analysis demonstrates that Biden mentioned several pandemic-related phrases, like "health crisis", "essential workers", and "public health" significantly more than Trump in his campaign speeches throughout the pandemic. This falls in line with the supplemental testable implication I delineated before, which stipulates that Biden would try to clarify the pandmemic issue and mention it frequently in his campaign speeches relative to Trump, who would do the opposite. This is further illustrated by the frequency table below:
+
+|  A Comparison of Joe Biden and Donald Trump's Campaign Speeches |
+|:-:|
+|![](Narrative2.png)|
+
+Thus, the results of my test seem to demonsrtrate that the data is consistent with the notion that testable implication is true, and therefore consistent with narrative. 
+of course, similar to first test, limitations associated with these results. 
+
+
+
 summarize what it shows (data? say from x to y month) biden mentioned corona virus related stuff more
 to further illustrate this, look at this graph
 whether this supports narrative
