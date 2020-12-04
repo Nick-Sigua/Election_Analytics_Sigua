@@ -31,17 +31,26 @@ As mentioned, my first test will consist of analyzing the correlation between Tr
 |:-:|
 |![](Narrative1.png)|
 
-The graph demonstrates that, generally, a greater daily increase in Covid-19 cases is associated with lower average support for Trump in the polls. The linear regression summarizes this negative relationship between the variables, with the coefficient for the daily increase in Covid-19 cases being negative. Given I identified the pandemic narrative's main testable implication to be that there was a negative correlation between Trump's average support in the polls and the daily increase in Covid-19 cases, the results of my first test seem to be consistent with the afromentioned narrative. 
+The graph demonstrates that, generally, a greater daily increase in Covid-19 cases is associated with lower average support for Trump in the polls. The linear regression summarizes this negative relationship between the variables, with the coefficient for the daily increase in Covid-19 cases being negative. Given I identified the pandemic narrative's main testable implication to be that there was a negative correlation between Trump's average support in the polls and the daily increase in Covid-19 cases, the results of my first test seem to provide some initial support for the afromentioned narrative. 
 
-of course, there are some limitations with these finding. mainly, although there is a negative relationship, such is not too strong
+Of course, there are some limitations with my first test's findings. Mainly, although the linear regression in my first test demonstrates there is a negative correlation between the two variables in question, the correlation is admittedly not the strongest. The r-squared value of the linear regression is 0.314, 
+
+which makes evidence slightly weaker for the tesable implication
+which does marginally weaken the evidence that the negative relationship is apparent. 
+
+
+mainly, although there is a negative relationship, such is not too strong
 r squared associated with relationshio is 0.31, not too good. this improves if you consider only before october, graph, but that in it of itself raises further questions.
 
-moreover, issues with causaility, as to be expected with these initial tests.
+moreover, issues with causaility, as to be expected with these initial tests, and degree, although these are expected to be limited given my test only meant to serve as inital look. 
 
-But overall, such test and result do offer some preliminary evidence for test. explain that results and data are consistent with narrative, with increasing prevalance of virus associated with lower support, so narrative has some evidencde. 
+But overall, such test and result do offer some preliminary evidence for test. although not strongest correlation, does indicate negative relationship. and absviously not comprensive enough to deal with causation or degree. 
+explain that results and data are consistent with narrative, with increasing prevalance of virus associated with lower support, so narrative has some evidencde. 
 
 Test #2
 
+
+similar to previous test, issue of causaility, as dem might just be prone to say health stuff, and degree nothing. 
 
 
 (make sure to really explain data and correlation, as soubhik was confused last time). just explain what correlation is, not too deep. 
