@@ -39,7 +39,7 @@ Test #2
 
 to further highlight evidence, i will also consider another test. 
 
-|  The Average Support for Trump vs. the Daily Increase in Positive Covid-19 Cases for the 2020 Election |
+|  A Comparison of Joe Biden and Donald Trump's Campaign Speeches |
 |:-:|
 |![](Narrative2.png)|
 
