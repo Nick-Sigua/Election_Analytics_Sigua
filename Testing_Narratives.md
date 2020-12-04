@@ -39,6 +39,11 @@ Test #2
 
 to further highlight evidence, i will also consider another test. 
 
+|  The Average Support for Trump vs. the Daily Increase in Positive Covid-19 Cases for the 2020 Election |
+|:-:|
+|![](Narrative2.png)|
+
+
 similar to previous test, issue of causaility, as dem might just be prone to say health stuff, and degree nothing. 
 
 
