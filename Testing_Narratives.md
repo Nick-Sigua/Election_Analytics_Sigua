@@ -43,7 +43,7 @@ As previously described, I will also analyze a second testable implication to de
 |:-:|
 |![](Narrative2.png)|
 
-The text analysis demonstrates that Biden mentioned several pandemic-related phrases, like "health crisis", "essential workers", and "public health" significantly more than Trump in his campaign speeches throughout the pandemic. This falls in line with the supplemental testable implication I delineated before, which stipulates that Biden would try to clarify the pandmemic issue and mention it frequently in his campaign speeches relative to Trump, who would do the opposite. This is further illustrated by the frequency table below:
+The text analysis demonstrates that Biden mentioned several pandemic-related phrases, like "health crisis," "essential workers," and "public health," significantly more than Trump in his campaign speeches throughout the pandemic. This falls in line with the supplemental testable implication I delineated before, which stipulates that Biden would try to clarify the pandemic issue and mention it frequently in his campaign speeches relative to Trump, who would do the opposite. This is further illustrated by the frequency table below:
 
 | feature  |  Biden | Trump  |
 |:-:|:-:|:-:|
@@ -54,21 +54,13 @@ The text analysis demonstrates that Biden mentioned several pandemic-related phr
 |  middle_pandemic  |  36  | 3  |
 |  healthcare_workers |  36 | 11  |
 
-Thus, the results of my test seem to demonsrtrate that the data is consistent with the notion that testable implication is true, and therefore consistent with narrative. 
+This table affirms the notion that Biden mentioned pandemic-related phrases significantly more than Trump, which provides evidence for my second testable implication and ultimatley further supports the narrative that the pandemic negatively impacted Trump's chances for re-election. 
+
 of course, similar to first test, limitations associated with these results. 
+as mentioned before, contingent on assumption, also subject to issues of causaility, as biden might have mentioned more pandemic stuff regardless of whether it had negative impact on trump (narrative), and finally does not given indication of degree of effect pandemic on trump. 
+
+but like first test, provides some further preliminary evidence and suggests data is consistent with narrative. supplements first test. 
 
 
 
-summarize what it shows (data? say from x to y month) biden mentioned corona virus related stuff more
-to further illustrate this, look at this graph
-whether this supports narrative
-limitaitons
-but say still important supplement 
-where do i include frequency table? maybe say, to further illustrate this point, look at this frequencty table?
 
-
-similar to previous test, issue of causaility, as dem might just be prone to say health stuff, and degree nothing. 
-
-(make sure to really explain data and correlation, as soubhik was confused last time). just explain what correlation is, not too deep. 
-
-could provide limitations of test in results, makes more sense. 
