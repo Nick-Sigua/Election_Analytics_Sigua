@@ -43,14 +43,15 @@ As previously described, I will also analyze a second testable implication to de
 |:-:|
 |![](Narrative2.png)|
 
-summarize what it shows (data? say from x to y month)
+summarize what it shows (data? say from x to y month) biden mentioned corona virus related stuff more
+to further illustrate this, look at this graph
 whether this supports narrative
 limitaitons
 but say still important supplement 
+where do i include frequency table? maybe say, to further illustrate this point, look at this frequencty table?
 
 
 similar to previous test, issue of causaility, as dem might just be prone to say health stuff, and degree nothing. 
-
 
 (make sure to really explain data and correlation, as soubhik was confused last time). just explain what correlation is, not too deep. 
 
