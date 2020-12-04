@@ -31,16 +31,13 @@ As mentioned, my first test will consist of analyzing the correlation between Tr
 |:-:|
 |![](Narrative1.png)|
 
-The graph demonstrates that, generally, a greater daily increase in Covid-19 cases is associated with lower average support for Trump in the polls. The linear regression summarizes this negative relationship between the variables, with the coefficient for the daily increase in Covid-19 cases being negative. Given I identified the pandemic narrative's main testable implication to be that there was a negative correlation between Trump's average support in the polls and the daily increase in Covid-19 cases, the results of my first test seem to provide some initial support for the afromentioned narrative. 
+The graph demonstrates that, generally, a greater daily increase in Covid-19 cases is associated with lower average support for Trump in the polls. The linear regression summarizes this negative relationship between the variables, with the coefficient for the daily increase in Covid-19 cases being negative. Given I identified the pandemic narrative's main testable implication to be that there was a negative correlation between Trump's average support in the polls and the daily increase in Covid-19 cases (i.e., the increase in the prevalence of the virus), the results of my first test seem to provide some initial support for the afromentioned narrative. 
 
-Of course, there are some limitations with my first test's findings. Mainly, although the linear regression in my first test demonstrates there is a negative correlation between the two variables in question, the correlation is admittedly not the strongest. The r-squared value of the linear regression is 0.314, 
+Of course, there are some limitations to my test's findings. Mainly, although the linear regression in my first test demonstrates there was a negative correlation between the two variables in question, the correlation is admittedly not the strongest. The r-squared value of the linear regression is 0.314, which suggests the evidence my test provides for the negative relationship between Trump's average support in the polls and the daily increase in Covid-19 cases, and, therefore, in support of the narrative, is also not the strongest. 
 
-which makes evidence slightly weaker for the tesable implication
-which does marginally weaken the evidence that the negative relationship is apparent. 
+Moreover, my test does little to indicate the causal nature of the variables in question or the degree to which the pandemic actually hurt trump overall. But regardless, test is important given 
 
 
-mainly, although there is a negative relationship, such is not too strong
-r squared associated with relationshio is 0.31, not too good. this improves if you consider only before october, graph, but that in it of itself raises further questions.
 
 moreover, issues with causaility, as to be expected with these initial tests, and degree, although these are expected to be limited given my test only meant to serve as inital look. 
 
