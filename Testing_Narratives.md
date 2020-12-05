@@ -45,7 +45,7 @@ As previously described, I will also analyze a second testable implication to de
 
 The text analysis demonstrates that Biden mentioned several pandemic-related phrases, like "health crisis," "essential workers," and "public health," significantly more than Trump in his campaign speeches throughout the pandemic. This falls in line with the supplemental testable implication I delineated before, which stipulates that Biden would try to clarify the pandemic issue and mention it frequently in his campaign speeches relative to Trump, who would do the opposite. This is further illustrated by the frequency table below:
 
-| feature  |  Biden | Trump  |
+| Covid-19 Related Phrases  |  Biden's Frequency of Use | Trump's Frequency of Use  |
 |:-:|:-:|:-:|
 |  public_health  | 123     | 13  |
 | social_distancing  |  67     | 7  |
