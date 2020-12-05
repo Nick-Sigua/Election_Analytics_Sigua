@@ -21,9 +21,9 @@ A supplemental testable implication I will consider is whether Biden mentioned t
 
 To measure whether Biden mentioned the pandemic more than Trump, I will conduct a chi-squared analysis comparing the differential association of keywords between Biden and Trump's campaign speeches. The campaign speech data I will focus on is an aggregation of each candidate's campaign speeches from March 1st, 2020 to November 4th, 2020, which again covers the duration of the pandemic up to election day. Of course, this analysis, perhaps more than the first test, has its limitations. But such is only meant to provide further preliminary evidence that the data is consistent or inconsistent with the pandemic narrative. 
 
-**Results**
+**Testable Implication Results**
 
-Test #1
+**Test #1**
 
 As mentioned, my first test will consist of analyzing the correlation between Trump's average support and the daily increase in COVID-19 cases throughout the pandemic and the election. The graph below plots the resulting points and linear regression of such data:
 
@@ -35,7 +35,7 @@ The graph demonstrates that, generally, a greater daily increase in Covid-19 cas
 
 Of course, there are some limitations to my test's findings. Mainly, although the linear regression in my first test demonstrates there was a negative correlation between the two variables in question, the correlation is admittedly not the strongest. The r-squared value of the linear regression is 0.314, which suggests the evidence my test provides for the negative relationship between Trump's average support in the polls and the daily increase in Covid-19 cases, and, therefore, in support of the narrative, is also not the strongest. Moreover, my test does little to indicate the causal nature of the variables in question or the degree to which the pandemic hurt Trump overall. However, my test's ultimate goal was to provide initial evidence that the data is consistent with the notion that the pandemic negatively impacted Trump's electoral prospects. Regardless of its limitations, my first test was able to do this by demonstrating a negative correlation between Trump's average support in the polls and the daily increase in Covid-19 cases, i.e., demonstrating evidence for a testable implication of the narrative. 
 
-Test #2
+**Test #2**
 
 As previously described, I will also analyze a second testable implication to demonstrate whether there is further evidence that the data is consistent or inconsistent with the pandemic narrative. This test will consist of a chi-squared analysis comparing the differential association of keywords between both candidates in the 2020 election, which is graphed below: 
 
