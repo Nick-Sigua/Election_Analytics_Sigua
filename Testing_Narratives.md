@@ -58,11 +58,13 @@ This table affirms the notion that Biden mentioned pandemic-related phrases sign
 
 Of course, similar to the first test, there are several limitations associated with these results. As mentioned before, this testable implication is contingent on the assumption that each candidate's campaign operated in their best interests. However, if this assumption is not the case, then the fact that Biden mentioned pandemic-related phrases more than Trump provides less clear evidence in support of the pandemic narrative, given Biden's focus on the pandemic would not necessarily be based on the pandemic's negative impact on Trump.
 
-Moreover, the results are subject to causality issues, as Biden may have focused more on the pandemic regardless of its effects on Trump's re-election chances; for instance, democrats tend to focus more on social issues like health. Finally, such a test offers no insight on the degree to which the pandemic might have negatively impacted Trump. However, these limitations are expected, given this test only seeks to provide initial and supplemental evidence for my narrative. Considering my text analysis demonstrates evidence for my second testable implication, the results above are able to highlight additional data consistent with the notion that the pandemic negatively impacted Trump's electoral prospects. 
+Moreover, the results are subject to causality issues, as Biden may have focused more on the pandemic regardless of its effects on Trump's re-election chances; for instance, Democrats tend to focus more on issues like health than Republicans. Finally, such a test offers no insight on the degree to which the pandemic might have negatively impacted Trump. However, these limitations are expected, given this test only seeks to provide initial and supplemental evidence for my narrative. Considering my text analysis demonstrates evidence for my second testable implication, the results above are able to provide additional data consistent with the notion that the pandemic negatively impacted Trump's electoral prospects. 
 
-Conclusion
+**Takeaways**
 
-although the test's ability to offer comprehsnive evidence that pandemic negativley impacted trump, each test did provide some intial evidence that it did, which was the main goal. 
+Ultimatley, both my testable implications were able to provide some preliminary evidence that the pandmic negativley impacted Trump. Although there were limitations on both of them, such demonstrates that data thus far is consistent with narrrative. Looking towards the future, would be interesting to get further evidence to improve to strength of these testable implications, and more compehrensivley test the validitiy of narrrative. but for now, results seem enouraging to the pandemic narrative I deliniated. 
+
+
 
 
 
