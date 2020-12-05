@@ -62,7 +62,7 @@ Moreover, the results are subject to causality issues, as Biden may have focused
 
 **Takeaways**
 
-Ultimatley, the results of both my tests supply preliminary evidence for the pandemic narrative I identified in this blog. Although there were limitations for each of them, my testable implications indicate that, thus far, the data seems to be consistent with the narrative's claims. Of course, future research is necessary to understand whether the pandemic narrative is more comprehensively true. But hopefully, the advancement of data collection and methods will allow future tests to further analyze whether the findings in my blog hold. 
+Ultimatley, the results of my tests supply preliminary evidence for the pandemic narrative I identified in this blog. Although there were limitations for each, my testable implications indicate that, thus far, the data seems to be consistent with the narrative's claims. Of course, further research and data are necessary to prove the validity of the pandemic narrative definitively. But for now, the initial evidence my tests provide is encouraging to the notion that the pandemic negatively impacted Trump's electoral prospects. 
 
 
 
