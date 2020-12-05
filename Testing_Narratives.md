@@ -37,7 +37,7 @@ Of course, there are some limitations to my test's findings. Mainly, although th
 
 **Test #2**
 
-As previously described, I will also analyze a second testable implication to demonstrate whether there is further evidence that the data is consistent or inconsistent with the pandemic narrative. This test will consist of a chi-squared analysis comparing the differential association of keywords between both candidates in the 2020 election, which is graphed below: 
+As previously described, I will also analyze a second testable implication to demonstrate whether there is further evidence that the data is consistent or inconsistent with the pandemic narrative. This test will consist of a chi-squared analysis comparing the differential association of keywords between both candidates' campaign speeches throughout the 2020 election, which is graphed below:
 
 |  A Comparison of Joe Biden and Donald Trump's Campaign Speeches |
 |:-:|
