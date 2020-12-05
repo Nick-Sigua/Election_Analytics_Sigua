@@ -1,7 +1,7 @@
 # Testing Narratives  
 ## December 1, 2020
 
-In this blog, I will seek to provide an initial analysis of the evidence surrounding a post-election narrative. I will do this by first summarizing the narrative and explaining why it is important to test such. Then I will explain the testable implications of this narrative and how I could use these implications to derive a method of testing the narrative. Finally, I will describe the afromentioned test results and explain whether they might provide preliminary evidence for the narrative I am focusing on. 
+In this blog, I will seek to provide an initial analysis of the evidence surrounding a post-election narrative on the pandemic's impact on Trump. I will do this by first summarizing the narrative and explaining why it is important to test such. Then I will explain the testable implications of this narrative and highlight how they can provide evidence for the afromentioned narrative. Finally, I will detail the results of the testable implications I identified, and ultimatley describe whether they support the narrative. 
 
 **The Pandemic Narrative**
 
